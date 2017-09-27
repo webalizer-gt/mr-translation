@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		webalizer
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="Was erwartet mich?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="Grundsätzlich fügt der moreRealistic Mod (MR) dem Spiel eine verbesserte Physik-Engine hinzu, welche die realen Eigenschaften für fast jedes Gerät besser simuliert. Dies hat eine Reihe von Auswirkungen auf das Spiel." />
+		<text name="mr_helpText_01_02" type="paragraph" text="Einer der herausragendsten Effekte ist die geringere Zugkraft von Traktoren beim Ziehen von schweren Anhängern oder Geräten. Man muss tatsächlich Traktoren verwenden, die die richtige Leistung haben, um verschiedene Geräte zu ziehen. Das gleiche gilt für das Ziehen von Anhängern." />
+		<text name="mr_helpText_01_03" type="paragraph" text="Ein voller Getreideanhänger ist sehr schwer und erfordert erhebliche Kraft zum Ziehen. Dies wird am deutlichsten, wenn man einen Anhänger bergauf ziehen will. In diesem Fall verlangsamt sich der Traktor erheblich." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Wenn der Traktor sehr schwach ist, wird man es nicht auf den Hügel schaffen. Grundsätzlich werden Traktoren langsamer, wenn sie bergauf fahren, und schneller, wenn sie bergab fahren. Das Beschleunigen wird beim Ziehen von Lasten länger dauern." />
+		<text name="mr_helpText_01_05" type="paragraph" text="Aber das ist längst nicht alles..." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Fahrzeuge (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Alle Basisfahrzeuge, die in MR-Fahrzeuge umgewandelt wurden, sind in der Regel präziser manövrierbar. Beispiel: Es ist einfacher, Geräte oder Anhänger anzuhängen (man hat mehr Kontrolle, besonders beim Spielen mit Tastatur)." />
+		<text name="mr_helpText_02_02" type="paragraph" text="Alle MR-Fahrzeuge erreichen die reale Höchstgeschwindigkeit, sowohl Vorwärts als auch Rückwärts. Es gibt keine 15 km/h-Begrenzung mehr beim Rückwärtsfahren." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Es gibt keine 'unendliche' Motorbremse. Wenn die Last für den Motor zu hoch ist, um die Geschwindigkeit zu halten (voller Anhänger, bergab fahren), wird die Höchstgeschwindigkeit des Fahrzeugs überschritten. Wie in Wirklichkeit hört man den Motor überdrehen. Aus diesem Grund muss man die Bremse verwenden, um die Geschwindigkeit zu reduzieren oder das Fahrzeug zu stoppen." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Es werden reale Drehmomentkurven verwendet und der Kraftstoffverbrauch basiert auf Leistung und Drehzahl. Außerdem gibt auch ein neues CVT-Getriebe, das die Motordrehzahl nach Leistungsbedarf steuert." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Fahrzeuge (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="Die moreRealistic-Engine berechnet den Rollwiderstand. Das bedeutet, dass es schwieriger ist, einen Anhänger in einem gepflügten Feld zu ziehen, als auf der Straße. Es bedeutet auch, dass man möglicherweise nicht die Höchstgeschwindigkeit des Fahrzeugs erreicht, wenn die Leistung nicht ausreicht." />
+		<text name="mr_helpText_03_02" type="paragraph" text="Größe, Gewicht und Profiltyp von Rädern haben jetzt einen Einfluss auf das Spiel. Ein 'Straßen'-Reifen wird im Vergleich zu anderen Reifen auf der Straße leichter rollen, aber schlechter auf dem Feld. Ein breiterer Reifen wird den Rollwiderstand auf dem Feld reduzieren, ihn aber auf der Straße erhöhen. Größere Reifen sind grundsätzlich besser für jeden Zweck. Hinweis: Raupenfahrwerke haben einen sehr hohen Rollwiderstand (schlecht geeignet für den Transport)." />
+		<text name="mr_helpText_03_03" type="paragraph" text="Die Kräfte, die Räder auf den Boden übertragen können, liegen nun näher an realen Werten. Das bedeutet, dass das Gewicht des Zugfahrzeugs beim Spielen mit MR sehr wichtig ist." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Gewichte sind nicht mehr nur für die Show vorhanden. Bei der Feldarbeit haben sie einen großen Einfluss auf die Traktion des Fahrzeugs. Mit zu viel Ballast verbraucht man mehr Kraftstoff und Zeit für die gleiche Arbeit. Ohne genügend Ballast wird man ein Gerät entweder gar nicht ziehen können, oder durch mangelnde Traktion sehr langsam werden. Der 'optimale' Arbeitsbereich für die meisten Situationen ist relativ groß." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Anbaugeräte" />
+		<text name="mr_helpText_04_01" type="paragraph" text="Bei MR-Geräten gibt es keine 'an / aus' Leistungsanforderung. Die Leistung, die von der Zapfwelle verlangt wird, oder die Kraft, die zum Ziehen erforderlich ist, hängt davon ab, was man tatsächlich mit dem Gerät tut. Das bedeutet, dass man ein großes Gerät mit einem mittleren Traktor mit niedriger Arbeitsgeschwindigkeiten ziehen kann (vorausgesetzt, es lastet genug Gewicht auf den Traktorrädern). Es bedeutet auch, dass man einen deutlichen Unterschied bemerken wird, wenn man einen leistungsstärkeren Traktor verwendet." />
+		<text name="mr_helpText_04_02" type="paragraph" text="Alle Geräte haben Limitierungen. Die häufigste ist die Geschwindigkeitsbegrenzung: auch mit einem monströsen Traktor ist man nicht in der Lage, mit einem Gerät mit beliebiger Geschwindigkeit zu arbeiten." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Für einige Geräte gibt es noch andere Limitierungen. Beispiel: Ballenpressen haben eine begrenzte Durchflussleistung. Man kann in kurzer Zeit keine riesigen Mengen an Material aufnehmen. Es hängt auch vom zu sammelnden Material ab: Gras ist schwerer zu verarbeiten als Stroh." />
+		<text name="mr_helpText_04_04" type="paragraph" text="MR-Fahrzeuge reagieren empfindlicher auf den Schwerpunkt (Massenverteilung). Auch wenn es schwierig sein kann, einen leeren Anhänger umzuwerfen, passiert es ziemlich einfach mit einem voll beladenen (besonders wenn die Ladung schwer ist)." />
+
+		<text name="mr_helpTitle_05" type="headline" text="Aussaat" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Beim Spielen mit MR fällt der Saatgutverbrauch ähnlich aus, wie in Wirklichkeit." />
+		<text name="mr_helpText_05_02" type="paragraph" text="Das bedeutet, dass man die Sämaschine nicht so oft nachfüllen muss, wie im Basisspiel. Mit Raps- oder Zuckerrübensamen kann man mehrere Felder säen, ohne nachfüllen zu müssen." />
+
+		<text name="mr_helpTitle_06" type="headline" text="Düngen" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Alle MR Spritzen und Streuer verfügen über eine geschwindigkeitsabhängige Durchflussmenge. Das bedeutet, dass man nicht mit voller Geschwindigkeit fahren muss, um keinen Dünger zu verschwenden. Man kann in beliebigem Tempo fahren und sich Zeit lassen, um die Arbeit zu erledigen." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Bei der Verwendung einer Sämaschine mit Düngereinheit benötigt man in der Regel weniger Dünger als mit anderen Geräten." />
+
+		<text name="mr_helpTitle_07" type="headline" text="Ernten" />
+		<text name="mr_helpText_07_01" type="paragraph" text="Die maximale Arbeitsgeschwindigkeit von MR-Dreschern hängt von der Reinigungskapazität, der Motorleistung, der Frucht, dem Ertrag und vom Schneidwerk (Leistungsaufnahme und Breite) ab." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Beim Häckseln des Strohs erhöht sich der Leistungsbedarf ebenso wie beim Abtanken." />
+
+		<text name="mr_helpTitle_08" type="headline" text="Ballen pressen" />
+		<text name="mr_helpText_08_01" type="paragraph" text="Mit MR lohnt sich der Verkauf von Ballen mehr als von losem Material. Kleine Quaderballen sind am lukrativsten, gefolgt von Rundballen und großen Quaderballen." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Ballen haben auch ein nahezu realistisches Gewicht, das von der 'Füllmenge' und dem Material abhängig ist. Beispiel: Es ist schwieriger, einen Anhänger mit Heuballen als mit Strohballen zu ziehen." />
+
+		<text name="mr_helpTitle_09" type="headline" text="Objekte bewegen" />
+		<text name="mr_helpText_09_01" type="paragraph" text="Greif-Werkzeuge haben jetzt eine MR-Verriegelung. Das bedeutet, dass wenn Sie eine Forst- oder Ballenzange vollständig schließen, das gepackte Objekt nicht mehr aus dem Gerät 'entkommen' kann." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Das ist besonders nützlich, wenn man versucht, Baumstämme oder Ballen vorsichtig auf einem Anhänger zu platzieren. Man kann auch Paletten greifen, wenn man mit der Gabel nicht zurecht kommt." />
+
+		<text name="mr_helpTitle_10" type="headline" text="Forst" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Alle Geräte benötigen wirklich Traktorleistung. Das Handling der drei Holzhacker wurde enorm verbessert. Auch der kleine Heizomat ist jetzt einfach zu 'füttern'." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Durch die Verwendung der MR-Verriegelung ist es nun auch einfacher Baumstämme mit dem Holzanhänger oder dem Forwarder zu bewegen." />
+
+		<text name="mr_helpTitle_11" type="headline" text="Bodenfeuchte" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Während und nach einem Regen spielt die Bodenfeuchte mit MR eine große Rolle. Je nach Regenart, -dauer und -intensität kann es schwierig bis unmöglich werden, auf Feldern zu arbeiten. Insbesondere, wenn es hügelig ist oder der Traktor für das Gerät etwas unterdimensioniert ist." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Es kann einige Zeit dauern, bis sich die Bodenfeuchte erhöht, aber in jedem Fall wird sich die Traktion verschlechtern und der Rollwiderstand erhöhen." />
+
+		<text name="mr_helpTitle_12" type="headline" text="Dichte, Volumen, Masse" />
+		<text name="mr_helpText_12_01" type="paragraph" text="Im Grundspiel ist das Gewicht eines gefüllten Anhängers nicht annähernd realistisch. Beispiel: Wenn man einen 20 m3 (Kubikmeter) Anhänger mit 20.000 Litern Wasser füllt, sollte die Masse der Füllung 20 Tonnen betragen. Tatsächlich beträgt sie aber nur 10 Tonnen, weil die Dichte der Fülltypen im Spiel bis zu 50% reduziert ist." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Moment! Was ist eine Dichte? Wenn man eine homogene Substanz wie Wasser hat, ist die Masse einer Substanzmenge proportional zu ihrem Volumen. Das Verhältnis von Masse zu Volumen ist dann eine Konstante, die so genannte Dichte. Die Dichte eines Gegenstandes wird daher durch Dividieren der Masse durch das Volumen gefunden. Mit anderen Worten, Dichte = Masse ÷ Volumen." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR nutzt reale Werte für die Dichte jedes Fülltyps. Beim Transportieren von Getreide wird man eine große Veränderung bemerken. Selbst ein kräftiger Traktor wird mit einen vollen Getreideanhänger an einer Steigung deutlich langsamer. Mit weniger leistungsstarken Traktoren schafft man es eventuell gar nicht hinauf. Möglicherweise muss man einen anderen Weg nehmen oder den Anhänger nur zur Hälfte füllen." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Feldmissionen" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Es gibt jetzt einen Zufallsfaktor bei der Auswahl einer Mission. Man kann mehr Zeit, aber weniger Geld pro Zeiteinheit bekommen. Oder man bekommt weniger Zeit, aber mehr Geld pro Zeiteinheit." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Die Entlohnungen wurden ebenfalls angeglichen, so dass es nicht immer eindeutig ist, ob man besser Missionen erfüllt oder die Zeit für den eigenen Betrieb nutzt." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Verkaufspreise" />
+		<text name="mr_helpText_14_01" type="paragraph" text="Mit aktiviertem MR-Mod zeigen die verschiedenen Farben in der Verkaufspreisliste besser an, ob man gerade verkaufen (grün) oder nicht verkaufen (rot) sollte." />
+
+		<text name="mr_helpTitle_15" type="headline" text="Anzeige" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Unterhalb der Fahrzeuganzeige (Geschwindigkeit etc ...) kann man zwei Werte ablesen, die für das Gameplay nützlich sein können." />
+		<text name="mr_helpText_15_02" type="paragraph" text="Der 'durchschnittliche Schlupf' auf der linken Seite zeigt an, wie gut oder schlecht die Traktion des Fahrzeugs ist. Wenn man die Auswirkungen von Zusatzgewichten nicht fühlen kann, sind sie dort sichtbar. Ein Traktor mit normaler Bereifung sollte bei der Arbeit zwischen 8 und 15% Schlupf haben." />
+		<text name="mr_helpText_15_03" type="paragraph" text="Auf der rechten Seite sieht man den durchschnittlichen Kraftstoffverbrauch pro Stunde." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = rechts ALT) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'rechts ALT + Keypad 7' kann man die Anzeige ein- und ausschalten. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
+		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'rechts ALT + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
+	</texts>
+</l10n>
