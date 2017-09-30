@@ -10,9 +10,8 @@
 		<text name="mr_helpTitle_01" type="headline" text="What can you expect?" />
 		<text name="mr_helpText_01_01" type="paragraph" text="Basically, the moreRealistic mod (MR) adds an enhanced physics engine that better simulates real life with almost all available pieces of equipment. This has a number of effects on the game." />
 		<text name="mr_helpText_01_02" type="paragraph" text="One of the most notable effects is the reduced ability of tractors to pull heavy trailers or implements. You will actually have to use tractors that have the proper horsepower requirements to pull various implements or trailers." />
-		<text name="mr_helpText_01_03" type="paragraph" text="A trailer full of grain is very heavy and will require substantial power to pull. This will be most noticeable when pulling a trailer uphill, in which case the tractor will slow down considerably." />
-		<text name="mr_helpText_01_04" type="paragraph" text="If the tractor is greatly under-powered, you will not make it up the hill. In general, tractors will slow down when going uphill, speed up when going downhill, and take longer to accelerate when they are pulling a load." />
-		<text name="mr_helpText_01_05" type="paragraph" text="But there is more..." />
+		<text name="mr_helpText_01_03" type="paragraph" text="In general, tractors will slow down when going uphill, speed up when going downhill, and take longer to accelerate when they are pulling a load." />
+		<text name="mr_helpText_01_04" type="paragraph" text="But there is more..." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Vehicles (1)" />
 		<text name="mr_helpText_02_01" type="paragraph" text="All base vehicles converted to MR vehicles are usually more maneuverable, which means easy and precise control of small movements. Example: It is easier to attach tools, implements or trailers (you have more control, this is especially true when playing with a keyboard)." />
