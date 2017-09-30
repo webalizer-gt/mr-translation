@@ -70,7 +70,7 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Rewards have also been balanced so that it is not so clearly advantageous to do missions, rather than tend to your own farm." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Pricing board" />
-		<text name="mr_helpText_14_01" type="paragraph" text="With moreRealistic activated, the different colours in the sell prices board will better reflect if you should or should not sell your product. Green figures mean the price is rising, red figures means the price is going down."/>
+		<text name="mr_helpText_14_01" type="paragraph" text="With moreRealistic activated, the different colours in the sell prices board will better reflect if you should or should not sell your product. Green figures are now always better than white or red ones. No need to read the whole table to know if there are good prices for one of your crops." />
 
 		<text name="mr_helpTitle_15" type="headline" text="Display" />
 		<text name="mr_helpText_15_01" type="paragraph" text="Below the vehicle display (speed etc ...) you can read two values that can be useful for your gameplay." />
