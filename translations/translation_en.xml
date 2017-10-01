@@ -36,8 +36,9 @@
 		<text name="mr_helpText_05_02" type="paragraph" text="It means you will not have to refill your seeder as often as with the base game. You can even sow multiple fields without refilling for some fruits like rapeseed or sugarbeet." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilising" />
-		<text name="mr_helpText_06_01" type="paragraph" text="All MR sprayers and spreaders feature speed dependant flowrate. It means you don't have to drive at full speed to not waste fertilizer. You can go at your own pace and take your time doing the job." />
+		<text name="mr_helpText_06_01" type="paragraph" text="All MR sprayers and spreaders feature speed dependant flowrate. It means you don't have to drive at full speed to not waste fertiliser. You can go at your own pace and take your time doing the job." />
 		<text name="mr_helpText_06_02" type="paragraph" text="When using a seeder featuring a fertilising unit, most of the time, the fertiliser quantity used will be smaller than by using other fertilising tools." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Fertiliser is one of the heaviest product in the game. Base density for bulk fertiliser is 1.1 and for liquid fertiliser, this is even greater at 1.28 !" />
 
 		<text name="mr_helpTitle_07" type="headline" text="Harvesting" />
 		<text name="mr_helpText_07_01" type="paragraph" text="MR's combines max working speed depends on the combines threshing capacity, the engine power, the fruit, the yield and the cutter bar (header power consumption and width)." />
