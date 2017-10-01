@@ -34,7 +34,8 @@
 		<text name="mr_helpTitle_05" type="headline" text="Seeding" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Please note that when playing MR, the seeds consumption will be similar to what we can expect in real life." />
 		<text name="mr_helpText_05_02" type="paragraph" text="It means you will not have to refill your seeder as often as with the base game. You can even sow multiple fields without refilling for some fruits like rapeseed or sugarbeet." />
-
+		<text name="mr_helpText_05_03" type="paragraph" text="When direct seeding, it will be easier to pull the seeder on already cultivated/ploughed land." />
+		
 		<text name="mr_helpTitle_06" type="headline" text="Fertilising" />
 		<text name="mr_helpText_06_01" type="paragraph" text="All MR sprayers and spreaders feature speed dependant flowrate. It means you don't have to drive at full speed to not waste fertiliser. You can go at your own pace and take your time doing the job." />
 		<text name="mr_helpText_06_02" type="paragraph" text="When using a seeder featuring a fertilising unit, most of the time, the fertiliser quantity used will be smaller than by using other fertilising tools." />
