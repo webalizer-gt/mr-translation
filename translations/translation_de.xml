@@ -85,5 +85,10 @@
 		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = rechts ALT) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
 		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'STRG rechts + Keypad 7' kann man die Anzeige ein- und ausschalten." />
 		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'STRG rechts + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
+
+		<text name="input_REALISTIC_GUI" text="MR GUI aktivieren" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI Datenübertragung AN/AUF" />
+		<text name="input_REALISTIC_MOUSE" text="MR Maus aktivieren" />	
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Datenübertragung deaktiviert!" />
 	</texts>
 </l10n>
