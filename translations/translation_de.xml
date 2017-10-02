@@ -10,9 +10,9 @@
 		<text name="mr_helpTitle_01" type="headline" text="Was erwartet mich?" />
 		<text name="mr_helpText_01_01" type="paragraph" text="Grundsätzlich fügt der moreRealistic Mod (MR) dem Spiel eine verbesserte Physik-Engine hinzu, welche die realen Eigenschaften für fast jedes Gerät besser simuliert. Dies hat eine Reihe von Auswirkungen auf das Spiel." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Einer der herausragendsten Effekte ist die geringere Zugkraft von Traktoren beim Ziehen von schweren Anhängern oder Geräten. Man muss tatsächlich Traktoren verwenden, die die richtige Leistung haben, um verschiedene Geräte zu ziehen. Das gleiche gilt für das Ziehen von Anhängern." />
-		<text name="mr_helpText_01_03" type="paragraph" text="Ein voller Getreideanhänger ist sehr schwer und erfordert erhebliche Kraft zum Ziehen. Dies wird am deutlichsten, wenn man einen Anhänger bergauf ziehen will. In diesem Fall verlangsamt sich der Traktor erheblich." />
-		<text name="mr_helpText_01_04" type="paragraph" text="Wenn der Traktor sehr schwach ist, wird man es nicht auf den Hügel schaffen. Grundsätzlich werden Traktoren langsamer, wenn sie bergauf fahren, und schneller, wenn sie bergab fahren. Das Beschleunigen wird beim Ziehen von Lasten länger dauern." />
-		<text name="mr_helpText_01_05" type="paragraph" text="Aber das ist längst nicht alles..." />
+		<text name="mr_helpText_01_03" type="paragraph" text="Wenn der Traktor sehr schwach ist, wird man es nicht auf den Hügel schaffen. Grundsätzlich werden Traktoren langsamer, wenn sie bergauf fahren, und schneller, wenn sie bergab fahren. Das Beschleunigen wird beim Ziehen von Lasten länger dauern." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Aber das ist längst nicht alles..." />
+		<text name="mr_helpText_01_05" type="caption" text="Bilder: 1 und 2 = realistische Physik, 3 = Geschwindigkeit nicht durch Game-Engine limitiert." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Fahrzeuge (1)" />
 		<text name="mr_helpText_02_01" type="paragraph" text="Alle Basisfahrzeuge, die in MR-Fahrzeuge umgewandelt wurden, sind in der Regel präziser manövrierbar. Beispiel: Es ist einfacher, Geräte oder Anhänger anzuhängen (man hat mehr Kontrolle, besonders beim Spielen mit Tastatur)." />
@@ -35,14 +35,18 @@
 		<text name="mr_helpTitle_05" type="headline" text="Aussaat" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Beim Spielen mit MR fällt der Saatgutverbrauch ähnlich aus, wie in Wirklichkeit." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Das bedeutet, dass man die Sämaschine nicht so oft nachfüllen muss, wie im Basisspiel. Mit Raps- oder Zuckerrübensamen kann man mehrere Felder säen, ohne nachfüllen zu müssen." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Beim Säen lässt sich die Maschine leichter ziehen, wenn das Feld bereits gegrubbert/gepflügt ist." />
++		<text name="mr_helpText_05_04" type="caption" text="Bilder: bereits kultivierter Boden (links), Direktsaat (rechts)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Düngen" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Alle MR Spritzen und Streuer verfügen über eine geschwindigkeitsabhängige Durchflussmenge. Das bedeutet, dass man nicht mit voller Geschwindigkeit fahren muss, um keinen Dünger zu verschwenden. Man kann in beliebigem Tempo fahren und sich Zeit lassen, um die Arbeit zu erledigen." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Bei der Verwendung einer Sämaschine mit Düngereinheit benötigt man in der Regel weniger Dünger als mit anderen Geräten." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Dünger ist eines der schwersten Produkte im Spiel. Die Dichte für Mineraldünger beträgt 1.1 und für Flüssigdünger sogar 1.28!" />
 
 		<text name="mr_helpTitle_07" type="headline" text="Ernten" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Die maximale Arbeitsgeschwindigkeit von MR-Dreschern hängt von der Reinigungskapazität, der Motorleistung, der Frucht, dem Ertrag und vom Schneidwerk (Leistungsaufnahme und Breite) ab." />
 		<text name="mr_helpText_07_02" type="paragraph" text="Beim Häckseln des Strohs erhöht sich der Leistungsbedarf ebenso wie beim Abtanken." />
+		<text name="mr_helpText_07_03" type="caption" text="Bilder: volle Arbeitsbreite (links), halbe Arbeitsbreite (rechts)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Ballen pressen" />
 		<text name="mr_helpText_08_01" type="paragraph" text="Mit MR lohnt sich der Verkauf von Ballen mehr als von losem Material. Kleine Quaderballen sind am lukrativsten, gefolgt von Rundballen und großen Quaderballen." />
@@ -59,25 +63,27 @@
 		<text name="mr_helpTitle_11" type="headline" text="Bodenfeuchte" />
 		<text name="mr_helpText_11_01" type="paragraph" text="Während und nach einem Regen spielt die Bodenfeuchte mit MR eine große Rolle. Je nach Regenart, -dauer und -intensität kann es schwierig bis unmöglich werden, auf Feldern zu arbeiten. Insbesondere, wenn es hügelig ist oder der Traktor für das Gerät etwas unterdimensioniert ist." />
 		<text name="mr_helpText_11_02" type="paragraph" text="Es kann einige Zeit dauern, bis sich die Bodenfeuchte erhöht, aber in jedem Fall wird sich die Traktion verschlechtern und der Rollwiderstand erhöhen." />
+		<text name="mr_helpText_11_03" type="caption" text="Bilder: 0% Bodenfeuchte (links), 70% Bodenfeuchte (rechts). Bearbeitetes Feld, Straßenbereifung auf dem Anhänger, 26T Gesamtgewicht." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Dichte, Volumen, Masse" />
 		<text name="mr_helpText_12_01" type="paragraph" text="Im Grundspiel ist das Gewicht eines gefüllten Anhängers nicht annähernd realistisch. Beispiel: Wenn man einen 20 m3 (Kubikmeter) Anhänger mit 20.000 Litern Wasser füllt, sollte die Masse der Füllung 20 Tonnen betragen. Tatsächlich beträgt sie aber nur 10 Tonnen, weil die Dichte der Fülltypen im Spiel bis zu 50% reduziert ist." />
-		<text name="mr_helpText_12_02" type="paragraph" text="Moment! Was ist eine Dichte? Wenn man eine homogene Substanz wie Wasser hat, ist die Masse einer Substanzmenge proportional zu ihrem Volumen. Das Verhältnis von Masse zu Volumen ist dann eine Konstante, die so genannte Dichte. Die Dichte eines Gegenstandes wird daher durch Dividieren der Masse durch das Volumen gefunden. Mit anderen Worten, Dichte = Masse ÷ Volumen." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Moment! Was ist eine Dichte? Wenn man eine homogene Substanz wie Wasser hat, ist die Masse einer Substanzmenge proportional zu ihrem Volumen. Das Verhältnis von Masse zu Volumen ist dann eine Konstante, die so genannte Dichte. Die Dichte eines Gegenstandes wird daher durch Dividieren der Masse durch das Volumen gefunden. Mit anderen Worten, Dichte = Masse / Volumen." />
 		<text name="mr_helpText_12_03" type="paragraph" text="MR nutzt reale Werte für die Dichte jedes Fülltyps. Beim Transportieren von Getreide wird man eine große Veränderung bemerken. Selbst ein kräftiger Traktor wird mit einen vollen Getreideanhänger an einer Steigung deutlich langsamer. Mit weniger leistungsstarken Traktoren schafft man es eventuell gar nicht hinauf. Möglicherweise muss man einen anderen Weg nehmen oder den Anhänger nur zur Hälfte füllen." />
+		<text name="mr_helpText_12_04" type="paragraph" text="Die Dichte von Früchten variiert von 0.42 für Sonnenblumen bis 0.83 für Mais." />
 
 		<text name="mr_helpTitle_13" type="headline" text="Feldmissionen" />
 		<text name="mr_helpText_13_01" type="paragraph" text="Es gibt jetzt einen Zufallsfaktor bei der Auswahl einer Mission. Man kann mehr Zeit, aber weniger Geld pro Zeiteinheit bekommen. Oder man bekommt weniger Zeit, aber mehr Geld pro Zeiteinheit." />
 		<text name="mr_helpText_13_02" type="paragraph" text="Die Entlohnungen wurden ebenfalls angeglichen, so dass es nicht immer eindeutig ist, ob man besser Missionen erfüllt oder die Zeit für den eigenen Betrieb nutzt." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Verkaufspreise" />
-		<text name="mr_helpText_14_01" type="paragraph" text="Mit aktiviertem MR-Mod zeigen die verschiedenen Farben in der Verkaufspreisliste besser an, ob man gerade verkaufen (grün) oder nicht verkaufen (rot) sollte." />
+		<text name="mr_helpText_14_01" type="paragraph" text="MR macht es leichter erkennbar, ob man ein Produkt verkaufen sollte, oder nicht. Eine grüne Anzeige ist nun immer besser als eine weiße oder rote. Man muss nicht die ganze Tabelle lesen, um herauszufinden, ob es gute Preise für ein Produkt gibt." />
 
 		<text name="mr_helpTitle_15" type="headline" text="Anzeige" />
 		<text name="mr_helpText_15_01" type="paragraph" text="Unterhalb der Fahrzeuganzeige (Geschwindigkeit etc ...) kann man zwei Werte ablesen, die für das Gameplay nützlich sein können." />
 		<text name="mr_helpText_15_02" type="paragraph" text="Der 'durchschnittliche Schlupf' auf der linken Seite zeigt an, wie gut oder schlecht die Traktion des Fahrzeugs ist. Wenn man die Auswirkungen von Zusatzgewichten nicht fühlen kann, sind sie dort sichtbar. Ein Traktor mit normaler Bereifung sollte bei der Arbeit zwischen 8 und 15% Schlupf haben." />
 		<text name="mr_helpText_15_03" type="paragraph" text="Auf der rechten Seite sieht man den durchschnittlichen Kraftstoffverbrauch pro Stunde." />
 		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = rechts ALT) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
-		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'rechts ALT + Keypad 7' kann man die Anzeige ein- und ausschalten. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
-		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'rechts ALT + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
+		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'STRG rechts + Keypad 7' kann man die Anzeige ein- und ausschalten." />
+		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'STRG rechts + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
 	</texts>
 </l10n>
