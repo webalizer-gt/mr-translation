@@ -5,42 +5,46 @@
 	<texts>
 		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
 
-		<text name="mr_helpTitle_01" type="headline" text="Czego możesz oczekiwać?" />
+		<text name="mr_helpTitle_01" type="headline" text="Co to jest?" />
 		<text name="mr_helpText_01_01" type="paragraph" text="W zasadzie, mod moreRealistic (MR) dodaje ulepszony silnik fizyki do gry, który lepiej symuluje rzeczywiste właściwości dla niemal każdego pojazdu, maszyny, narzędzia. Przekłada się to na wiele efektów w grze." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Jednym z najbardziej znaczących efektów jest zmniejszenie zdolności ciągników do ciągnięcia ciężkich przyczep lub maszyn. Będziesz musiał używać ciągników, które spełniają odpowiednie wymagania dotyczące mocy, aby pociągnąć różne maszyny lub przyczepy." />
 		<text name="mr_helpText_01_03" type="paragraph" text="Przyczepa pełna ziarna jest bardzo ciężka i wymaga dużej siły, aby ją pociągnąć. Jest to najbardziej widoczne, gdy chcesz wjechać z przyczepą pod górę. W takiej sytuacji ciągnik znacznie zwolni." />
-		<text name="mr_helpText_01_04" type="paragraph" text="Jeśli ciągnik jest bardzo słaby, nie wjedzie na wzgórze. Zasadniczo ciągnik jest wolniejszy, gdy jedzie pod górę, i szybszy, gdy jedzie w dół. Przyspieszanie trwa znacznie dłużej podczas ciągnięcia ładunku." />
-		<text name="mr_helpText_01_05" type="paragraph" text="Ale to nie wszystko..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="A to dopiero początek..." />
+		<text name="mr_helpText_01_05" type="caption" text="Zdjęcia: 1 i 2 = realistyczna fizyka, 3 = Prędkość nieograniczana silnikiem gry." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Pojazdy (1)" />
 		<text name="mr_helpText_02_01" type="paragraph" text="Wszystkie podstawowe pojazdy, które zostały przekształcone w pojazdy MR, są na ogół bardziej zwrotne. Przykład: Łatwiej jest zaczepić maszyny, narzedzia lub przyczepy (masz większą kontrolę, szczególnie podczas gry na klawiaturze)." />
 		<text name="mr_helpText_02_02" type="paragraph" text="Wszystkie pojazdy MR osiągają rzeczywistą maksymalną prędkość, zarówno do przodu, jak i do tyłu. Nie ma już limitu 15 km/h przy cofaniu." />
-		<text name="mr_helpText_02_03" type="paragraph" text="Nie ma 'nieskończonego' hamulca silnikowego. Jeśli obciążenie silnika jest zbyt wysokie, aby utrzymać prędkość (pełna przyczepa, zejazd ze wzniesienia), prędkość maksymalna pojazdu zostanie przekroczona. Tak jak w rzeczywistości możesz usłyszeć silnik obracający się z większymi obrotami. Z tego powodu należy użyć hamulca w celu zmniejszenia prędkości lub zatrzymania pojazdu." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Nie ma 'nieskończonego' hamulca silnikowego. Jeśli obciążenie silnika jest zbyt wysokie, aby utrzymać prędkość (pełna przyczepa, zjazd ze wzniesienia), prędkość maksymalna pojazdu zostanie przekroczona. Tak jak w rzeczywistości możesz usłyszeć silnik obracający się z większymi obrotami. Z tego powodu należy użyć hamulca w celu zmniejszenia prędkości lub zatrzymania pojazdu." />
 		<text name="mr_helpText_02_04" type="paragraph" text="Wykorzystywane są rzeczywiste krzywe momentu obrotowego, a zużycie paliwa opiera się na danych: mocy i prędkości. Ponadto istnieje nowa przekładnia CVT, która kontroluje prędkość obrotową silnika zgodnie z zapotrzebowaniem na moc." />
 
 		<text name="mr_helpTitle_03" type="headline" text="Pojazdy (2)" />
-		<text name="mr_helpText_03_01" type="paragraph" text="Silnik moreRealistic wylicza opory toczenia. Oznacza to, że trudniej będzie pociągnąć przyczepę na zaoranym polu niż na drodze. Oznacza to również, że nie będziesz w stanie osiągnąć maksymalnej prędkości pojazdu, nawet na płaskiej drodze, jeśli pojazd nie ma wystarczająco mocy." />
-		<text name="mr_helpText_03_02" type="paragraph" text="Rozmiar, masa i typ profilu kół mają teraz wpływ na grę. Opona 'road' będzie łatwiejsza w porównaniu z innymi oponami na drodze, ale gorsza na polu. Szersza opona zmniejszy opór toczenia na polu, ale zwiększy go na drodze. Wyższe opony są ogólnie lepsze w jakimkolwiek celu. Uwaga: Systemy gąsienicowe mają bardzo duże opory toczenia (nie nadają się do transportu)." />
+		<text name="mr_helpText_03_01" type="paragraph" text="Silnik moreRealistic wylicza opory toczenia. Oznacza to, że trudniej będzie pociągnąć przyczepę na zaoranym polu niż na drodze. Oznacza to również, że nie będziesz w stanie osiągnąć maksymalnej prędkości pojazdu, nawet na płaskiej drodze, jeśli pojazd nie ma wystarczająco dużo mocy." />
+		<text name="mr_helpText_03_02" type="paragraph" text="Rozmiar, masa i typ profilu kół mają teraz wpływ na grę. Opona 'drogowa' będzie łatwiejsza w porównaniu z innymi oponami na drodze, ale gorsza na polu. Szersza opona zmniejszy opór toczenia na polu, ale zwiększy go na drodze. Wyższe opony są ogólnie lepsze w jakimkolwiek celu. Uwaga: Systemy gąsienicowe mają bardzo duże opory toczenia (nie nadają się do transportu)." />
 		<text name="mr_helpText_03_03" type="paragraph" text="Siły, które mogą przenosić koła na podłoże, są teraz bliższe rzeczywistym wartościom. Oznacza to, że ciężar pojazdu ciągnącego jest bardzo ważny podczas grania z MR." />
-		<text name="mr_helpText_03_04" type="paragraph" text="Ciężary nie są już dostępne na pokaz. W pracy polowej mają duży wpływ na przyczepność pojazdu. Przy zbyt dużym balście, zużyjesz więcej paliwa i czasu na tę samą pracę. Bez wystarczającego balastu nie będziesz w stanie ciągnąć maszyny/urządzenia, albo będziesz poruszał się bardzo wolno z powodu braku przyczepności. 'Optymalny' zakres roboczy dla większości sytuacji jest stosunkowo duży." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Obciążniki nie są już tylko na pokaz. W pracy polowej mają duży wpływ na przyczepność pojazdu. Przy zbyt dużym obciążeniu, zużyjesz więcej paliwa i czasu na tę samą pracę. Bez wystarczającego obciążenia nie będziesz w stanie ciągnąć maszyny/urządzenia, albo będziesz poruszał się bardzo wolno z powodu braku przyczepności. 'Optymalny' zakres roboczy dla większości sytuacji jest stosunkowo duży." />
 
 		<text name="mr_helpTitle_04" type="headline" text="Maszyny i narzędzia" />
 		<text name="mr_helpText_04_01" type="paragraph" text="Z MR, nie ma włączania/wyłaczania zużywanej mocy w maszynach i narzędziach. Podczas pracy z maszyną/narzędziem, moc pobierana z WOM lub siła pociągowa jest zależna od tego co tak na prawdę robisz z daną maszyną/narzędziem. Oznacza to, że jesteś w stanie pracować średnim ciągnikiem z dużą maszyną/narzędziem z małą prędkością roboczą (zakładając że masz odpowiednio dociążone koła). Oznacza to również, że używając silniejszego ciągnika zauważysz wyraźną różnicę." />
 		<text name="mr_helpText_04_02" type="paragraph" text="Wszystkie maszyny/narzędzia mają ograniczenia. Najczęstszym jest ograniczenie prędkości: Nawet potężnym ciągnikiem nie można pracować z maszyną/narzędziem z nierealistycznie dużą prędkością." />
-		<text name="mr_helpText_04_03" type="paragraph" text="W przypadku niektórych maszyn/narzędzi istnieją inne ograniczenia. Przykład: Prasy bel mają ograniczony przepływ. W krótkim czasie nie można zebrać ogromnej ilości materiału. Zależy to również od typu materiału, który ma być zebrany: Trawa jest trudniejsza do przetworzenia niż słoma." />
-		<text name="mr_helpText_04_04" type="paragraph" text="Pojazdy MR szybciej reagują na środek ciężkości (rozkład masy). Nawet jeśli trudno jest wyrwucić pustą przyczepę, to jest to dość łatwe w przypadku załadowanej do pełna (zwłaszcza, jeśli ładunek jest ciężki)." />
+		<text name="mr_helpText_04_03" type="paragraph" text="W przypadku niektórych maszyn/narzędzi istnieją inne ograniczenia. Przykład: Prasy bel mają ograniczoną przepustowość. W krótkim czasie nie można zebrać ogromnej ilości materiału. Zależy to również od typu materiału, który ma być zebrany: Trawa jest trudniejsza do przetworzenia niż słoma." />
+		<text name="mr_helpText_04_04" type="paragraph" text="Pojazdy MR szybciej reagują na środek ciężkości (rozkład masy). Nawet jeśli trudno jest wywrócić pustą przyczepę, to jest to dość łatwe w przypadku załadowanej do pełna (zwłaszcza, jeśli ładunek jest ciężki)." />
 
 		<text name="mr_helpTitle_05" type="headline" text="Siew" />
-		<text name="mr_helpText_05_01" type="paragraph" text="Podczas grania z MR zużycie nasion jest podobne do rzeczywistości." />
+		<text name="mr_helpText_05_01" type="paragraph" text="Podczas grania z MR zużycie nasion jest podobne do rzeczywistego." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Oznacza to, że siewnik nie musi być napełniany tak często, jak w podstawowej grze. Nasionami rzepaku lub buraka cukrowego, możesz obsiać kilka pól bez konieczności napełniania." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Siewnik łatwiej jest ciągnąć, gdy pole jest już zaorane lub zakultywatorowane." />
+		<text name="mr_helpText_05_04" type="caption" text="Zdjęcia: zakultywatorowana gleba (po lewej), siew bezpośredni (po prawej)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Nawożenie" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Wszystkie opryskiwacze, rozsiewacze i rozrzutniki MR, mają szybkość rozładunku zależną od prędkości jazdy. Oznacza to, że nie musisz jeździć z pełną prędkością, aby nie marnować nawozu. Możesz jechać w dowolnym tempie i poświęcić więcej czasu wykonywanej pracy." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Używając siewników z funkcją nawożenia, nawóz będzie przez większość czasu zużywany w miejszym stopniu niż w przypadku dedykowanych maszyn nawożących." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Nawóz jest jednym z najcięższych towarów w grze. Gęstość nawozów mineralnych wynosi 1,1, a nawozów płynnych nawet 1,28!" />
 
 		<text name="mr_helpTitle_07" type="headline" text="Żniwa" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Maksymalna prędkość robocza kombajnów MR jest zależna od pojemności czyszczącej, mocy silnika, rodzaju uprawy, plonu i hederu (zapotrzebowanie mocy i szerokość)." />
 		<text name="mr_helpText_07_02" type="paragraph" text="Podczas rozdrabniania słomy jak i rozładunku zużycie mocy wzrasta." />
+		<text name="mr_helpText_07_03" type="caption" text="Zdjęcia: cała szerokość robocza (po lewej), połowa szerokości roboczej (po prawej)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Prasowanie" />
 		<text name="mr_helpText_08_01" type="paragraph" text="Z MR, sprzedaż bel jest kożystniejsza cenowo niż sprzedaż luźnego materiału. Najcenniejsze są małe kwadratowe bele, następnie bele okrągłe, a potem duże kwadratowe bele." />
@@ -51,31 +55,40 @@
 		<text name="mr_helpText_09_02" type="paragraph" text="Jest to szczególnie użyteczne przy starannym układaniu kłód lub beli na przyczepie. Możesz też 'złapać' palety, jeśli męczy cię przenoszenie ich za pomocą wideł." />
 
 		<text name="mr_helpTitle_10" type="headline" text="Leśnictwo" />
-		<text name="mr_helpText_10_01" type="paragraph" text="Wszystkie narzędzia naprawdę potrzebują moc ciągnika. Obsługa trzech rębaków drewna została znacznie usprawniona. Nawet mały Heizomat jest łatwy do 'karmienia'." />
+		<text name="mr_helpText_10_01" type="paragraph" text="Wszystkie narzędzia potrzebują teraz naprawdę moc ciągnika. Obsługa trzech rębaków drewna została znacznie usprawniona. Nawet mały Heizomat jest łatwy do 'karmienia'." />
 		<text name="mr_helpText_10_02" type="paragraph" text="Dzięki zastosowaniu funkcji 'blokady MR' łatwiej jest przenosić kłody HDS-em przyczepy leśnej czy też forwardera." />
 
 		<text name="mr_helpTitle_11" type="headline" text="Wilgotność gleby" />
 		<text name="mr_helpText_11_01" type="paragraph" text="W trakcie i po deszczu, wilgotność gleby ma duże znaczenie podczas gry z MR. W zależności od rodzaju deszczu, czasu trwania i intensywności, praca na polach może być trudna lub niemożliwa. Szczególnie wtedy, gdy teren jest pagórkowaty lub ciągnik nie jest odpowiednio duży w porównaniu do maszyny." />
 		<text name="mr_helpText_11_02" type="paragraph" text="Może minąć trochę czasu, zanim wilgotność gleby wzrośnie, ale w końcu stracisz przyczepność, a opór toczenia wzrośnie." />
+		<text name="mr_helpText_11_03" type="caption" text="Zdjęcia: 0% wilgotności (po lewej), 70% wilgotności (po prawej). Uprawione pole, drogowe opony w przyczepie, całkowity ciężar 26t." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Gęstość, objętość, masa" />
-		<text name="mr_helpText_12_01" type="paragraph" text="W podstawowej grze ciężar wypełnionej przyczepy nie jest realistyczny. Przykład: Jeśli wypełnisz przyczepę o pojemności 20 m3 (metrów sześciennych)  20 000 litrów wody, masa ładunku powinna wynosić 20 ton. W rzeczywistości otrzymasz tylko 10 ton, ponieważ gęstość ładunków jest zmniejszona do 50% ze względu na grywalność." />
-		<text name="mr_helpText_12_02" type="paragraph" text="Zaraz! Co to jest gęstość? Jeśli posiadasz jednorodną substancję, a taką jak woda, masa ilości substancji jest proporcjonalna do jej objętości. Stosunek masy do objętości jest wtedy stałą, zwaną gęstością. Zatem gęstość obiektu znajdziesz poprzez podzielenie masy przez objętość. Innymi słowy, gęstość = masa ÷ objętość." />
-		<text name="mr_helpText_12_03" type="paragraph" text="MR wykorzystuje rzeczywiste dane dotyczące gęstości każdego ładunku. Zauważysz dużą zmianę transportując ziarno. Nawet potężny ciągnik zwolni z przyczepą pełną ziarna na wzniesieniu. Słabsze ciągniki mogą nie być w stanie wspiąć się ma wzniesienie. Być może będziesz musiał obrać inną trasę lub zabrać tylko półpełną przyczepę do miejsca rozładunku." />
+		<text name="mr_helpText_12_01" type="paragraph" text="W podstawowej grze ciężar wypełnionej przyczepy nie jest realistyczny. Przykład: Jeśli wypełnisz przyczepę o pojemności 20 m3 (metrów sześciennych) 20 000 litrów wody, masa ładunku powinna wynosić 20 ton. W rzeczywistości otrzymasz tylko 10 ton, ponieważ gęstość ładunków jest zmniejszona do 50% ze względu na grywalność." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Zaraz! Co to jest gęstość? Jeśli posiadasz jednorodną substancję, a taką jest woda, masa ilości substancji jest proporcjonalna do jej objętości. Stosunek masy do objętości jest wtedy stałą, zwaną gęstością. Zatem gęstość obiektu znajdziesz poprzez podzielenie masy przez objętość. Innymi słowy, gęstość = masa / objętość." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR wykorzystuje rzeczywiste dane dotyczące gęstości każdego ładunku. Zauważysz dużą zmianę transportując ziarno. Nawet potężny ciągnik zwolni z przyczepą pełną ziarna przy wjeździe pod górkę, natomiast słabsze ciągniki mogą nie być w stanie w ogóle się wspiąć na nią. Być może będziesz musiał obrać inną trasę lub zabrać tylko półpełną przyczepę do miejsca rozładunku." />
+		<text name="mr_helpText_12_04" type="paragraph" text="Gęstość upraw zmienia się od 0,42 dla słoneczników do 0,83 dla kukurydzy." />
 
 		<text name="mr_helpTitle_13" type="headline" text="Zlecenia prac polowych" />
 		<text name="mr_helpText_13_01" type="paragraph" text="Teraz przy wyborze misji jest losowy czynnik. Możesz mieć więcej czasu na wykonanie pracy, ale dostaniesz mniej pieniędzy za jednostkę czasu i odwrotnie, możesz mieć mniej czasu, ale dostaniesz więcej pieniędzy za jednostkę czasu." />
 		<text name="mr_helpText_13_02" type="paragraph" text="Nagrody zostały również zrównoważone, a więc teraz już nie zawsze misje będą korzystniejsze, niż poświęcenie czasu własnemu gospodarstwu." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Cennik" />
-		<text name="mr_helpText_14_01" type="paragraph" text="Z aktywnym modem MR, w cenniku różne kolory lepiej obrazują, czy powinienś sprzedawać (kolor zielony) swóje zapasy, czy też nie (kolor czerwony)."/>
+		<text name="mr_helpText_14_01" type="paragraph" text="MR ułatwia sprawdzenie czy warto sprzedawać dany produkt. Zielony kolor oznacza najkorzystniejszą ofertę, czerwony najgorszą."/>
 
-		<text name="mr_helpTitle_15" type="headline" text="Dodatkowy wyświetlacz" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Pod wyświetlaczem pojazdu (prędkość, paliwo, itd.) możesz przeczytać dwie wartości, które mogą być użyteczne podczas rozgrywki." />
-		<text name="mr_helpText_15_02" type="paragraph" text="'Średni poślizg' po lewej pokazuje, jak dobra lub zła jest przyczepność pojazdu. Jeśli nie odczuwasz wpływu dodatkowych obciążników, możesz zobaczyć to w tym miejscu. Dla ciągnika z normalnymi oponami, podczas pracy, wartość powinna wynosić od 8 do 15%." />
+		<text name="mr_helpTitle_15" type="headline" text="Dodatkowy HUD" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Pod HUDem pojazdu (prędkość, paliwo, itd.) możesz dostrzec dwie wartości, które mogą być użyteczne podczas rozgrywki." />
+		<text name="mr_helpText_15_02" type="paragraph" text="Po lewej widoczny jest średni poślizg kół, pokazuje on jak dobra lub zła jest przyczepność pojazdu. Jeśli nie odczuwasz wpływu dodatkowych obciążników, możesz zobaczyć to w tym miejscu. Dla ciągnika z normalnymi oponami, podczas pracy, wartość powinna wynosić od 8 do 15%." />
 		<text name="mr_helpText_15_03" type="paragraph" text="Po prawej widoczne jest średnie zużycie paliwa na godzinę." />
-		<text name="mr_helpText_15_04" type="paragraph" text="Wyświetlacz możesz przesuwać zgodnie z potrzebą, przytrzymując klawisz modyfikatora (domyślnie = Prawy ALT) i przeciągając go myszką." />
-		<text name="mr_helpText_15_05" type="paragraph" text="Aby wyłączyć lub włączyć wyświetlacz naciśnij 'Prawy ALT i Num 7'. Jeśli masz limitowane połączenie z siecią, wyłączając go, możesz oszczędzić transfer!" />
-		<text name="mr_helpText_15_06" type="paragraph" text="Host lub Admin może wyłaczyć przesyłanie danych poślizgu i spalania poprzez wciśnięcie 'Prawy ALT i Num 8'. Jeśli masz limitowane połączenie z siecią, wyłączając go, możesz oszczędzić transfer!" />
+		<text name="mr_helpText_15_04" type="paragraph" text="HUD możesz dowolnie przesuwać, przytrzymując klawisz modyfikatora (domyślnie = Prawy CTRL), klikając na ikonę ręki, która się pojawiła i przeciągając myszkę w dowolne miejsce. Ponowne kliknięcie LPM puszcza HUD w miejscu przez ciebie wybranym." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Aby wyłączyć lub włączyć wyświetlacz naciśnij 'Prawy CTRL i Num 7'." />
+		<text name="mr_helpText_15_06" type="paragraph" text="Host lub admin może wyłaczyć przesyłanie danych poślizgu i spalania poprzez wciśnięcie 'Prawy CTRL i Num 8'.
+	!!UWAGA!!
+	Jeśli masz limitowane połączenie z siecią, wyłączając go, możesz oszczędzić transfer!" />
+		
+		<text name="input_REALISTIC_GUI" text="MR: Pokaż/Ukryj HUD" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR: Włącz/Wyłącz przesyłanie danych" />
+		<text name="input_REALISTIC_MOUSE" text="MR: Pokaż kursor myszy" />	
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Przesyłanie danych wyłączone!" />
 	</texts>
 </l10n>
