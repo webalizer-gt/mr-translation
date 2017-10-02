@@ -82,7 +82,7 @@
 		<text name="mr_helpText_15_01" type="paragraph" text="Unterhalb der Fahrzeuganzeige (Geschwindigkeit etc ...) kann man zwei Werte ablesen, die für das Gameplay nützlich sein können." />
 		<text name="mr_helpText_15_02" type="paragraph" text="Der 'durchschnittliche Schlupf' auf der linken Seite zeigt an, wie gut oder schlecht die Traktion des Fahrzeugs ist. Wenn man die Auswirkungen von Zusatzgewichten nicht fühlen kann, sind sie dort sichtbar. Ein Traktor mit normaler Bereifung sollte bei der Arbeit zwischen 8 und 15% Schlupf haben." />
 		<text name="mr_helpText_15_03" type="paragraph" text="Auf der rechten Seite sieht man den durchschnittlichen Kraftstoffverbrauch pro Stunde." />
-		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = rechts ALT) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = STRG rechts) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
 		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'STRG rechts + Keypad 7' kann man die Anzeige ein- und ausschalten." />
 		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'STRG rechts + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
 
