@@ -15,6 +15,14 @@ The texts will show up in the ingame help of FS17 and on a wiki page on the web.
 
 Please maintain the XML structure and the amount of text (no scrollbar in FS17 help system).
 
+---
+
+You can test your translations with this version of mr:  
+https://drive.google.com/open?id=0B_iAIcwiFq-bZXR0LVpNQ2JDU1k  
+Put your file into the "translations" folder and you should be able to see it in the ingame help.
+
+---
+
 Check this thread on FS-UK to find out if a language is beeing worked on already:
 https://www.fs-uk.com/forum/index.php?topic=198910.0
 
