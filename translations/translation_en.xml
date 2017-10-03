@@ -12,7 +12,7 @@
 		<text name="mr_helpText_01_02" type="paragraph" text="One of the most notable effects is the reduced ability of tractors to pull heavy trailers or implements. You will actually have to use tractors that have the proper horsepower requirements to pull various implements or trailers." />
 		<text name="mr_helpText_01_03" type="paragraph" text="In general, tractors will slow down when going uphill, speed up when going downhill, and take longer to accelerate when they are pulling a load." />
 		<text name="mr_helpText_01_04" type="paragraph" text="But there is more..." />
-		<text name="mr_helpText_01_05" type="paragraph" text="Pictures: 1 and 2 = realistic physics, 3 = max speed not limited by the game engine." />
+		<text name="mr_helpText_01_05" type="caption" text="Pictures: 1 and 2 = realistic physics, 3 = max speed not limited by the game engine." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Vehicles (1)" />
 		<text name="mr_helpText_02_01" type="paragraph" text="All base vehicles converted to MR vehicles are usually more maneuverable, which means easy and precise control of small movements. Example: It is easier to attach tools, implements or trailers (you have more control, this is especially true when playing with a keyboard)." />
@@ -22,7 +22,7 @@
 
 		<text name="mr_helpTitle_03" type="headline" text="Vehicles (2)" />
 		<text name="mr_helpText_03_01" type="paragraph" text="The moreRealistic engine features rolling resistance. It means it will be harder to pull a trailer in a ploughed field than on the road. It also means you will not be able to maintain the top speed of a vehicle, even on a flat road, if the vehicle power is not sufficient." />
-		<text name="mr_helpText_03_02" type="paragraph" text="Wheel size, weight and type do have an influence to the game now. A 'street' tyre will be easier to pull on the road compared to other tyres, but harder in fields. A wider tyre will reduce the rolling resistance in field, but will increase it on the road. Taller tyres are always better for any purpose. Note: Crawler systems have very high rolling resistance (not good for carting purpose as in real life)" />
+		<text name="mr_helpText_03_02" type="paragraph" text="Wheel size and type do have an influence to the game now. A 'street' tyre will be easier to pull on the road compared to other tyres, but harder in fields. A wider tyre will reduce the rolling resistance in field, but will increase it on the road. Taller tyres are always better for any purpose. Note: Crawler systems have very high rolling resistance (not good for carting purpose as in real life)" />
 		<text name="mr_helpText_03_03" type="paragraph" text="The forces being assigned by the wheels to the ground are now closer to what can be found in real life. It means the weight of the pulling vehicle is very important when playing with a MR vehicle." />
 		<text name="mr_helpText_03_04" type="paragraph" text="Weights are not 'just for show' now and will play a role in the final 'tractive efficiency' of your vehicle at work. With too much ballast you will consume more fuel and time for the same worked area.	Without enough ballast you will not be able to pull the implement or lose too much speed and power because of the slipping.	Be aware that the 'optimal' operating range is relatively large for most working situations." />
 
@@ -36,7 +36,7 @@
 		<text name="mr_helpText_05_01" type="paragraph" text="Please note that when playing MR, the seeds consumption will be similar to what we can expect in real life." />
 		<text name="mr_helpText_05_02" type="paragraph" text="It means you will not have to refill your seeder as often as with the base game. You can even sow multiple fields without refilling for some fruits like rapeseed or sugarbeet." />
 		<text name="mr_helpText_05_03" type="paragraph" text="When direct seeding, it will be easier to pull the seeder on already cultivated/ploughed land." />
-		<text name="mr_helpText_05_04" type="paragraph" text="Pictures: already cultivated ground (left), direct seeding (right)." />			
+		<text name="mr_helpText_05_04" type="caption" text="Pictures: already cultivated ground (left), direct seeding (right)." />			
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilising" />
 		<text name="mr_helpText_06_01" type="paragraph" text="All MR sprayers and spreaders feature speed dependant flowrate. It means you don't have to drive at full speed to not waste fertiliser. You can go at your own pace and take your time doing the job." />
@@ -46,7 +46,7 @@
 		<text name="mr_helpTitle_07" type="headline" text="Harvesting" />
 		<text name="mr_helpText_07_01" type="paragraph" text="MR's combines max working speed depends on the combines threshing capacity, the engine power, the fruit, the yield and the cutter bar (header power consumption and width)." />
 		<text name="mr_helpText_07_02" type="paragraph" text="When chopping the straw, the power consumption is increased. Same as when unloading on the move." />
-		<text name="mr_helpText_07_03" type="paragraph" text="Pictures: full width (left), half width (right)." />	
+		<text name="mr_helpText_07_03" type="caption" text="Pictures: full width (left), half width (right)." />	
 
 		<text name="mr_helpTitle_08" type="headline" text="Baling" />
 		<text name="mr_helpText_08_01" type="paragraph" text="With MR, baling is more rewarding than selling loose windrow material. A small square bale being the more rewarding, then round bales and then large square bales." />
@@ -63,7 +63,7 @@
 		<text name="mr_helpTitle_11" type="headline" text="Ground wetness" />
 		<text name="mr_helpText_11_01" type="paragraph" text="During and after a rain, the ground 'wetness' really matters when playing MR. Depending on the rain type, duration and intensity, it can become impossible to work in fields. Especially true when there are some slopes or your tractor is not oversized compared to the implement." />
 		<text name="mr_helpText_11_02" type="paragraph" text="It can also take some time for the wetness to build up, but eventually you will lose traction force and the rolling resistance will be increased." />
-		<text name="mr_helpText_11_03" type="paragraph" text="Pictures: 0% wetness (left), 70% wetness (right). Cultivated field, street tires on the trailer, 26T total vehicles mass." />	
+		<text name="mr_helpText_11_03" type="caption" text="Pictures: 0% wetness (left), 70% wetness (right). Cultivated field, street tires on the trailer, 26T total vehicles mass." />	
 
 		<text name="mr_helpTitle_12" type="headline" text="Density, volume, mass" />
 		<text name="mr_helpText_12_01" type="paragraph" text="In the basic game, the weight of a filled trailer is not nearly realistic. Example: If you fill a 20 m3 (cubic metre) trailer with 20,000 liters of water, the mass of the filling should be 20 tons. In fact, you will get only 10 tons because the density of the filltypes are reduced up to 50% for playability reasons." />
@@ -85,5 +85,10 @@
 		<text name="mr_helpText_15_04" type="paragraph" text="You can move the display by holding down the modifier key (standard = right CTRL) and dragging it with your mouse." />
 		<text name="mr_helpText_15_05" type="paragraph" text="By pressing 'right CTRL + Keypad 7' you can turn the display on and off. If you have a limited network connection you can save traffic by turning it off!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="The Host or Admin can turn off the transfer of slippage and fuel data by pressing 'right CTRL + Keypad 8'. If you have a limited network connection you can save traffic by turning it off!" />
+		
+		<text name="input_REALISTIC_GUI" text="MR GUI activate" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI network use ON/OFF" />		
+		<text name="input_REALISTIC_MOUSE" text="MR mouse activate" />	
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Data transfer disabled" />
 	</texts>
 </l10n>
