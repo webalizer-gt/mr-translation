@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		dural
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="A quoi s'attendre ?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="De manière générale, le mod 'moreRealistic' (MR) améliore le moteur physique du jeu afin de mieux simuler le comportement réelle de la plupart des équipements. De nombreux effets peuvent être constatés en jouant." />
+		<text name="mr_helpText_01_02" type="paragraph" text="L'un des effets les plus notables est la réduction de la capacité des tracteurs à tirer de lourdes charges. Il est nécessaire d'utiliser des tracteurs ayant une puissance suffisante, aussi bien pour les remorques que pour les travaux des champs." />
+		<text name="mr_helpText_01_03" type="paragraph" text="Globalement, les tracteurs sont plus lents en montée, plus rapide en descente et prennent plus de temps pour accélérer." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Mais ce n'est pas tout..." />
+		<text name="mr_helpText_01_05" type="caption" text="Images: 1 et 2 = physique réaliste, 3 = vitesse maximum non limitée par le moteur du jeu." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Vehicules (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="La plupart des véhicules de base convertis en MR sont plus facile à maneuvrer, le joueur a plus de contrôle pour effectuer des mouvements lents et moins brusques. Exemple: c'est plus aisé d'attacher les équipements ou les remorques (c'est particulièrement vrai quand on joue avec le clavier)." />
+		<text name="mr_helpText_02_02" type="paragraph" text="Tous les véhicules de base convertis en MR ont leur vitesse maximum réelle, aussi bien en marche avant qu'en marche arrière. Il n'y a plus de limitation à 15km/h quand on recule." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Le 'frein moteur' n'est plus infini. Si la charge est trop élevée pour que le moteur puisse maintenir la vitesse (remorque pleine qui pousse le tracteur en descente), le véhicule pourra dépasser sa vitesse maximum. Tout comme dans la vie réelle, on pourra entendre le moteur monter dans les tours (et dépasser son régime maximum). De ce fait, toujours comme dans la réalité, en fonction de la situation, le joueur devra utiliser les freins pour réduire la vitesse ou s'arrêter." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Les moteurs utilisent des courbes de couple réelles et la consommation de carburant se base sur la puissance délivrée et le régime moteur. La transmission de base est une CVT (similaire à une Fendt Vario) qui gère le régime moteur en fonction de la charge (régime réduit à charge faible et haut régime pour le frein moteur)." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Vehicules (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="Le moteur de jeu 'MR' gère la résistance au roulement. Il sera donc plus dur de tirer une remorque dans un champ labouré comparé à la route. Il ne sera aussi plus possible d'atteindre la vitesse maximum d'un véhicule si la puissance n'est pas suffisante." />
+		<text name="mr_helpText_03_02" type="paragraph" text="La taille des roues et leurs types ont aussi une influence. Un pneu 'routier' est plus facile à tirer sur la route mais pas dans les champs. Un pneu plus large réduira la résistance au roulement dans les champs, mais l'augmentera sur la route. Les roues plus hautes sont toujours bénéfiques. Note: les systèmes à chenilles ont une résistance au roulement très élevée (non recommandés pour du transport)." />
+		<text name="mr_helpText_03_03" type="paragraph" text="Les forces restituées au sol par les pneus sont plus réalistes. Le poids d'un véhicule est donc très important quand on joue 'MR'." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Les masses additionnelles ne sont plus que visuelles et jouent un rôle dans la traction finale du tracteur au travail. Avec trop de lestage, la consommation de carburant et le temps de travail seront augmentés. Avec trop peu de lestage, il ne sera pas possible de tracter l'outil ou trop de puissance sera perdue en patinage. La plage de lestage optimale est cependant assez large pour la plupart des situations de travail." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Outils" />
+		<text name="mr_helpText_04_01" type="paragraph" text="Avec le mod 'MR', il n'y a plus d'effet ON/OFF en ce qui concerne la puissance requise pour les outils. La puissance consommée à la prise de force ou la force de traction dépendent vraiment de l'utilisation de l'outil. Il est donc possible de tracter un outil large avec un tracteur moyen à une faible vitesse (en considérant que le tracteur ait assez de traction pour ça).	Le gain de productivité sera aussi beaucoup plus visible en utilisant un plus gros tracteur." />
+		<text name="mr_helpText_04_02" type="paragraph" text="Tous les outils sont limités en capacité de travail. La limite de vitesse est la plus commune: même en utilisant un tracteur énorme, il ne sera pas possible de travailler à une vitesse totalement irréelle." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Pour certains outils, il existe d'autres limites. Exemple: les presses sont limitées par le flux de récolte. Il n'est pas possible de ramasser une quantité énorme de matière en peu de temps. Ca dépendra aussi du type de matière, l'herbe étant plus 'dur' à presser que la paille." />
+		<text name="mr_helpText_04_04" type="paragraph" text="Les véhicules 'MR' sont plus sensibles au centre de gravité (distribution de la masse). Même s'il est difficile de retourner une remorque vide, ce ne sera pas le cas avec une remorque pleine (en particulier quand le chargement est très lourd)." />
+
+		<text name="mr_helpTitle_05" type="headline" text="Semis" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Veuillez noter qu'en jouant 'MR', les doses de semis par hectare sont similaires à ce que l'on peut constater dans la vie réelle." />
+		<text name="mr_helpText_05_02" type="paragraph" text="Il ne sera donc pas nécessaire de remplir votre semoir aussi souvent que dans le jeu de base. Pour certaines plantes comme le colza ou la betterave, il sera même possible de semer plusieurs champs avec une seule trémie." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Pour le semis direct, il sera plus facile de tirer le semoir dans un champ déjà déchaumé ou labouré." />
+		<text name="mr_helpText_05_04" type="caption" text="Images: déjà déchaumé (gauche), semis direct (droite)." />			
+
+		<text name="mr_helpTitle_06" type="headline" text="Fertilisation" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Tous les pulvérisateurs et épandeurs 'MR' modulent le débit en fonction de la vitesse (DPA). Il n'est donc pas nécessaire de conduire le plus vite possible pour réduire les coûts d'engrais. Vous pouvez travailler à votre propre rythme et prendre le temps qu'il faut." />
+		<text name="mr_helpText_06_02" type="paragraph" text="En utilisant un semoir avec incorporation d'engrais intégrée, la quantité d'engrais utilisée par hectare sera bien souvent plus faible qu'en utilisant un autre moyen." />
+		<text name="mr_helpText_06_03" type="paragraph" text="L'engrais est l'un des produits les plus lourds du jeu. La densité de base pour l'engrais en vrac est de 1,1, celle pour l'engrais liquide est encore plus élevée à 1,28 !" />
+
+		<text name="mr_helpTitle_07" type="headline" text="Récolte" />
+		<text name="mr_helpText_07_01" type="paragraph" text="La vitesse de récolte des moisonneuses 'MR' est dépendante de la capacité de traitement de la machine, de la puissance du moteur, de la culture récoltée, du rendement, mais aussi de la barre de coupe (puissance absorbée mais aussi largeur effective de coupe)." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Lorsque le broyeur de paille est activé, la puissance consommée est supérieure. De même lorsque l'on vide en roulant." />
+		<text name="mr_helpText_07_03" type="caption" text="Images: pleine coupe (gauche), demi coupe (droite)." />	
+
+		<text name="mr_helpTitle_08" type="headline" text="Pressage" />
+		<text name="mr_helpText_08_01" type="paragraph" text="Avec le mod 'MR', le pressage est plus rentable que de vendre la matière en vrac. Le plus lucratif étant les petits ballots, suivis des boules puis des gros ballots." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Les balles ont aussi une masse comparable à ce qu'on peut trouver en réalité, ce qui dépend bien sûr du contenu et du 'niveau de remplissage' de la balle. Exemple: ce sera plus dur de tracter un chariot rempli de balles de foin comparer à des balles de paille." />
+
+		<text name="mr_helpTitle_09" type="headline" text="Manipulation des objets" />
+		<text name="mr_helpText_09_01" type="paragraph" text="La fonctionnalité 'griffe MR' a été ajoutée aux outils par défaut de type 'pince', comme la pince à troncs ou la pince à balles. Cela veut dire qu'une fois l'objet 'verrouillé' (pince fermée complétement), celui-ci ne pourra plus s'échapper aléatoirement." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Cette fonctionnalité est particulièrement utile pour placer correctement les troncs ou les balles de paille dans une remorque. Il est aussi possible de 'verrouiller' des palettes si vous n'êtes pas très à l'aise avec les fourches." />
+
+		<text name="mr_helpTitle_10" type="headline" text="Sylviculture" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Tous les outils utilisent réellement la puissance des moteurs. Les 3 broyeurs ont été améliorés pour être 100% opérationnel. Même le petit Heizomat est maintenant facile à alimenter et utile dans le jeu." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Grâce à la fonctionnalité 'griffe MR', c'est aussi plus facile de manipuler les troncs avec la grue de la remorque forestière ou du porteur. Les troncs ne peuvent plus se 'sauver' si on est trop lent." />
+
+		<text name="mr_helpTitle_11" type="headline" text="Humidité du sol" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Pendant et après la pluie, l'humidité du sol a vraiment un impact en jouant 'MR'. En fonction du type de pluie, de sa durée et de son intensité, il peut devenir impossible de travailler dans les champs. C'est particulièrement impactant dans les champs en pente ou si le tracteur est déjà un peu juste quand il travaille par temps sec." />
+		<text name="mr_helpText_11_02" type="paragraph" text="L'humidité du sol peut augmenter plus ou moins vite durant la pluie, mais au final, la capacité de traction sera amoindrie et la résistance au roulement de plus en plus forte." />
+		<text name="mr_helpText_11_03" type="caption" text="Images: 0% d'humidité (gauche), 70% d'humidité (droite). Champ déchaumé, pneus routiers sur la remorque, masse totale de l'ensemble = 26T." />	
+
+		<text name="mr_helpTitle_12" type="headline" text="Densité, volume, masse" />
+		<text name="mr_helpText_12_01" type="paragraph" text="Dans le jeu de base, la masse d'une remorque pleine n'est pas très réaliste. Exemple: si on remplit une remorque de 20M3 (20000L) avec de l'eau, la masse du contenu devrait être proche de 20 tonnes. En fait, on obtient seulement 10 tonnes car la densité des contenus a été réduite jusqu'à 50% pour des raisons de jouabilité." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Oui, mais qu'est-ce que la densité ? Quand on prend une matière homogène comme de l'eau, la masse est proportionnelle au volume mesuré. Le ratio entre la masse et le volume peut alors être considéré comme une constante appelée la densité. La densité est donc calculée en divisant la masse par le volume. De manière simple, densité = masse / volume." />
+		<text name="mr_helpText_12_03" type="paragraph" text="Le mod MR utilise les densités réelles pour les produits du jeu. Transporter du grain est donc maintenant différent par rapport au jeu de base. Même avec un tracteur puissant, la perte de vitesse sera conséquente dans les côtes, surtout avec une remorque pleine. Avec un tracteur trop petit, il sera même possible de rester 'planté' dans une côte. Il faudra alors réfléchir à un itinéaire plus facile ou éviter de remplir la remorque à fond." />
+		<text name="mr_helpText_12_04" type="paragraph" text="La densité des cultures varie de 0,42 pour les graines de tournesol à 0,83 pour les grains de maïs." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Missions" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Il y a maintenant un certain facteur aléatoire lors du choix d'une mission. Le travail sera plus ou moins rémunérateur en fonction du temps alloué pour le faire. Attention de ne pas surestimer vos capacités et prendre une mission avec un objectif de temps impossible à tenir." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Les revenus des missions ont été équilibrés de manière à ce que ce ne soit pas si avantageux de travailler pour les autres agriculteurs que pour soit même." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Tableau des ventes" />
+		<text name="mr_helpText_14_01" type="paragraph" text="Avec le 'MR', les différentes couleurs du tableau des ventes seront plus parlantes pour savoir si on devrait ou pas vendre notre production. Les chiffres verts sont maintenant toujours meilleurs que les blancs ou les rouges. Il n'est plus nécessaire de lire le tableau entier pour savoir s'il y a de bons prix." />
+
+		<text name="mr_helpTitle_15" type="headline" text="Interface" />
+		<text name="mr_helpText_15_01" type="paragraph" text="En dessous des informations du véhicule (vitesse, régulateur, etc...) on peut retrouver 2 nouvelles valeurs qui seront utiles pour jouer 'MR'." />
+		<text name="mr_helpText_15_02" type="paragraph" text="Le taux de patinage moyen, sur la gauche, donne une bonne indication de la traction du véhicule. Il n'est pas facile de sentir une différence de lestage dans le jeu, mais ce sera visible ici. Au travail, un tracteur à roue devrait se situer entre 8 et 15% de patinage." />
+		<text name="mr_helpText_15_03" type="paragraph" text="Côté droit, on peut lire la consommation moyenne de carburant par heure. Cette valeur est plus ou moins proportionnelle à la charge du moteur." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Cet affichage peut être déplacé sur l'écran en maintenant enfoncée la touche de modification (par défaut = CTRL droit) et en le glissant avec la souris." />
+		<text name="mr_helpText_15_05" type="paragraph" text="En appuyant sur 'CTRL droit et la touche 7 du pavé numérique', on peut masquer ou non cet affichage." />
+		<text name="mr_helpText_15_06" type="paragraph" text="En multijoueur, l'hôte ou un joueur 'admin' peut désactiver l'utilisation réseau de la fonctionnalité d'affichage en appuyant sur 'CTRL droit et la touche 8 du pavé numérique'. Cela peut être utile si la connection du serveur est mauvaise." />
+		
+		<text name="input_REALISTIC_GUI" text="MR GUI activation" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI utilisation réseau ON/OFF" />		
+		<text name="input_REALISTIC_MOUSE" text="MR activation souris" />
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Transmission de données désactivée" />
+		
+	</texts>
+</l10n>
