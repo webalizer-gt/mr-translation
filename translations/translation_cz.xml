@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		Roman71
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="Co můžete očekávat?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="Jednoduše, moreRealistic mod (MR) přidává vylepšenou fyziku základu hry, která lépe simuluje realistické chování se skoro vším dostupným vybavením. Toto způsobuje několik změn ve hře." />
+		<text name="mr_helpText_01_02" type="paragraph" text="Jedna z nejvíce pocítitelných změn je snížená schopnost traktorem tahat těžké vleky nebo příslušenství. Opravdu už budete potřebovat traktory, které mají dostatečný výkon, aby byly schopné pracovat s různým příslušenstvím a nebo vleky." />
+		<text name="mr_helpText_01_03" type="paragraph" text="Všeobecně, traktory zpomalí pokud pojedete do kopce, zrychlí pokud pojedete z kopce a budou mít delší rozjezd, pokud budou táhnout náklad." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Ale tohle není všechno..." />
+		<text name="mr_helpText_01_05" type="caption" text="Obrázky: 1 a 2 = realistická fyzika, 3 = maximální rychlost není limitována hrou." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Vozidla (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Všechny základní vozidla převedené do MR jsou obvykle více pohyblivé, což znamená jednodušší a preciznější kontrolu nad malými pohyby. Příklad: Je jednodušší připojit nářadí, příslušenství nebo vlek (máte větší kontrolu, toto zvláštně platí pokud hrajete na klávesnici)." />
+		<text name="mr_helpText_02_02" type="paragraph" text="Všechny základní převedené vozidla získali realistickou maximální rychlost, jak pro jízdu vpřed tak vzad. Už neexistuje limit 15 km/h pro couvání." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Už neexistuje žádná 'nekonečná' schopnost brzdění motorem. Pokud je zatížení motoru příliš vysoké aby udržel rychlost (plný vlek, jízda z kopce), stroj může jet rychleji než jeho maximální rychlost. Stejně jako v běžném životě při této příležitosti uslyšíte motor ve velmi vysokých otáčkách. Z tohoto důvodu stejně jako v běžném životě budete muset použít brzdový pedál abyste snížili rychlost nebo zastavili stroj."/>
+		<text name="mr_helpText_02_04" type="paragraph" text="Používají se skutečné křivky točivého momentu motoru a spotřeba paliva vychází z dodaného výkonu a otáček. Přibyla také nová CVT převodovka, která ovládá otáčky motoru podle potřeby výkonu (méně výkonu = méně otáček, potřeba motorové brzdy = více otáček)." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Vozidla (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="MoreRealistic počítá také s valivým odporem. Znamená to, že bude těžší tahat vlek v pooraném poli než na silnici. Také to znamená, že nebudete schopni dosáhnout a udržet maximální rychlost vozidla, dokonce ani na rovné silnici, pokud výkon vozidla není dostatečný." />
+		<text name="mr_helpText_03_02" type="paragraph" text="Velikost kol a jejich typ mají nyní také vliv na hru. Použitím 'silničních' pneumatik budete mít výhodu pouze na silnici, nikoliv však na poli. Široké pneumatiky sníží valivý odpor na poli, ale zvýší ho na silnici. Vyšší pneumatiky jsou vždy lepší pro jakýkoliv účel. Poznámka: Krabí chod má velmi vysoký valivý odpor (stejně jako v běžném životě není dobrý pro odvoz)" />
+		<text name="mr_helpText_03_03" type="paragraph" text="Síly, které působí kola na zem jsou nyní blíže k těm, které najdeme v běžném životě. To znamená, že váha tažného vozidla je velmi důležitá, pokud hrajete s MR vozidly." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Závaží už nejsou 'pouze pro parádu' a budou hrát velkou roli v konečné 'tažné účinnosti' každého vozidla při práci. Při příliš velké zátěži spotřebujete více paliva na stejnou pracovní oblast. Bez dostatečné zátěže nebudete schopni tahat příslušenství nebo ztratíte hodně rychlost a výkonu díky prokluzování kol. Uvědomte si, že 'optimální' pracovní rozsah je relativně velký pro většinu pracovních situací." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Příslušenství" />
+		<text name="mr_helpText_04_01" type="paragraph" text="S MR už není žádné zapínání/vypínání potřebného výkonu pro příslušenství. Pokud používáte příslušenství, spotřebovaný výkon kardanu nebo síla potřebná k tažení bude záležet na tom, co vlastně s tím příslušenstvím děláte. Pokud používáte příslušenství, síla potřebná k tažení bude záležet na tom, co vlastně s tím příslušenstvím děláte. To znamená, že můžete tahat větší příslušenství se středním traktorem při nižších pracovních rychlostech a s dostatečným závažím. Znatelný rozdíl bude vidět při použití silnějšího traktor." />
+		<text name="mr_helpText_04_02" type="paragraph" text="Všechno příslušenství má nějaké omezení.. Nejběžnější je rychlostní omezení, které i když budete používat monstrózní traktor, nebudete schopni pracovat s příslušenstvím při nerealistických rychlostech." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Pro některé příslušenství jsou i jiné omezení. Příklad: Balíkovač mají omezený průtok. Nemůžete sbírat obrovské množství materiálu v krátkém čase. Také to bude záležet na materiálu, který sbíráte. Tráva je náročnější na zpracování než sláma." />
+		<text name="mr_helpText_04_04" type="paragraph" text="MR vozidla jsou více citlivá na těžiště (rozložení váhy). I když to může být těžké převrátit prázdný vlek, je to velmi jednoduché s plně naloženým (zvlášť pokud je náklad těžký)." />
+
+		<text name="mr_helpTitle_05" type="headline" text="Setí" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Prosím vezměte na vědomí, že při hraní s MR bude spotřeba osiva podobná tomu, co můžeme čekat v běžném životě." />
+		<text name="mr_helpText_05_02" type="paragraph" text="To znamená, že nebudete muset plnit vaši sečku tak často jako v základní hře. Můžete dokonce osít několik polí bez doplnění pro některé plodiny, třeba řepka nebo cukrová řepa." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Pro přímé setí bude mnohem jednodušší táhnout sečku po již zkultivovaném/pooraném poli." />		
+		<text name="mr_helpText_05_04" type="caption" text="Obrázky: již zkultivované pole (vlevo), přímé setí (vpravo)." />			
+
+		<text name="mr_helpTitle_06" type="headline" text="Hnojení" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Všechny MR postřikovače a rozmetadla závisí na rychlosti použití. To znamená, že nemusíte jet na plnou rychlost abyste neplýtvali hnojivo. Můžete jet vlastním tempem a strávit více času na této práci." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Při použití secího stroje s přihnojováním, bude spotřeba hnojiva menší než při použití rozmetadel." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Hnojivo je jeden z nejtěžších produktů ve hře. Základní hustota tuhého hnojiva je 1.1 a pro tekuté hnojivo je dokonce vyšší a to 1.28 !" />
+
+		<text name="mr_helpTitle_07" type="headline" text="Sklízení" />
+		<text name="mr_helpText_07_01" type="paragraph" text="Pracovní rychlost MR kombajnu záleží na výkonu motoru, plodině, výtěžnosti a také na liště (spotřeba výkonu pro lištu)." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Pokud budete drtit slámu, spotřeba výkonu se zvýší. To samé platí i pro vykládání za jízdy." />
+		<text name="mr_helpText_07_03" type="caption" text="Obrázky: plná šířka (vlevo), poloviční šířka (vpravo)." />	
+
+		<text name="mr_helpTitle_08" type="headline" text="Lisování" />
+		<text name="mr_helpText_08_01" type="paragraph" text="S MR je lisování více výdělečné než prodávání volně loženého materiálu. Malý hranatý balík je nejméně výdělečný balík, potom je kulatý balík a nejvíce výdělečný je velký hranatý balík." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Balíky mají také více realistickou váhu, která je závislá na 'úrovni naplnění' a jeho materiálu. Příklad: Bude těžší tahat vlek plný balíků sena než balíků slámy." />
+
+		<text name="mr_helpTitle_09" type="headline" text="Přesun objektů" />
+		<text name="mr_helpText_09_01" type="paragraph" text="Původní 'úchytové' nástroje jako vidle na klády nebo vidle na balíky nyní mají 'MR dráp' funkci. To znamená, že pokud jsou úplně u nářadí, objekt se při zvedání uzamkne a nebude se náhodně pohybovat." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Tohle se hlavně hodí pokud se snažíte umístit klády nebo balíky na vlek. Můžete také 'uchytit' palety pokud neuspějete s vidlemi." />
+
+		<text name="mr_helpTitle_10" type="headline" text="Lesnictví" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Všechny nástroje opravdu využijí výkonu traktoru. Štěpkovače byly upraveny aby byly více zábavné. I malý Heizomat je lehký pro použití." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Při použití 'MR dráp' funkce je také jednodušší přemisťovat klády s jeřábem na vleku pro klády a na překladači." />
+		
+		<text name="mr_helpTitle_11" type="headline" text="Vlhkost země" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Při a po dešti je 'vlhokost' země opravdu důležitá když hrajete s MR. V závislosti na typu deště, délce a intenzitě, se může stát nemožné pracovat na poli. Právě když je na poli nějaký svah a nebo když není traktor velikostně srovnatelný s příslušenstvím." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Může to také nějakou dobu trvat, než se vlhkost objeví, ale nakonec ztratíte trakční sílu a valivý odpor se zvýší." />
+		<text name="mr_helpText_11_03" type="caption" text="Obrázky: 0% vlhkost (vlevo), 70% vlhkost (vpravo). Kultivované pole, silniční pneumatiky na vleku, 26 tun celková váha." />	
+
+		<text name="mr_helpTitle_12" type="headline" text="Hustota, objem, váha" />
+		<text name="mr_helpText_12_01" type="paragraph" text="V základní hře váha naplněného vleku není úplně realistická. Příklad: Pokud naplníte 20 m3 (metrů krychlových [kubických]) vlek s 20 000 litry vody, váha nákladu by měla být 20 tun. Ve skutečnosti ale dostanete pouze 10 tun protože hustoty plodin jsou redukovány na 50% z důvodů hratelnosti." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Počkat! Co je hustota? Pokud máte homogenní látka, třeba voda, hmotnost látky je proporcionální s její velikostí. Poměr hmotnosti k objemu je pak konstanta nazývaná hustota. Hustota objektu je proto zjištěna dělením hmotnosti podle objemu. Jinými slovy, hustota = hmotnost / objem." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR využívá realistické hodnoty hustoty pro každou plodinu. Sami poznáte, že přeprava plodin je nyní více náročná. I s výkonným traktorem se projeví celkem velký pokles rychlosti při tažení plného vleku do kopce. S méně výkonnými traktory už do kopce možná vůbec nevyjedete. Budete muset zvolit objízdnou trasu a nebo táhnout pouze napůl naplněný vlek." />
+		<text name="mr_helpText_12_04" type="paragraph" text="Hustoty plodin se liší od 0.42 pro slunečnici až po 0.83 pro kukuřici." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Práce na poli" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Ve hře je nyní náhodný faktor při výběru mise. Můžete získat více času ale méně peněz. Nebo také můžete dostat méně času ale více peněz." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Odměny byly také vyrovnány, takže už není tak výhodné plnit mise oproti starání se o svoji vlastní farmu." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Výkupní ceny" />
+		<text name="mr_helpText_14_01" type="paragraph" text="S aktivovaným moreRealistic značí různé barvy v obchodě zda-li byste měli nebo neměli prodat produkt. Zelená barva je vždycky lepší než bílá nebo červená. Nikdo tedy nemusí číst celou tabuly cen, aby veděl, zda-li tam jsou nějaké dobré ceny pro vaše produkty." />
+
+		<text name="mr_helpTitle_15" type="headline" text="Obrazovka" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Pod ukazatelem vozidla (rychlost atd ...) můžete také najít dvě hodnoty, které můžou být užitečné pro vaše hraní." />
+		<text name="mr_helpText_15_02" type="paragraph" text="Průměrné 'proklouznutí' na levé straně ukazuje jak moc dobrá nebo špatná je trakce vozidla. Pokud nemůžete poznat sílu závaží, možná to můžete vidět tam. Kolový traktor při práci by měl být mezi 8 a 15% prokluzu. "/>
+		<text name="mr_helpText_15_03" type="paragraph" text="Na pravé straně můžete vidět průměrnou spotřebu paliva za hodinu." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Můžete posunout obrazovku držením určené klávesy (standartně = pravé CTRL) a tažením myši." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Po stisknustí 'pravý CTRL + Numpad 7' můžete zapnout a vypnout obrazovku. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
+		<text name="mr_helpText_15_06" type="paragraph" text="Hostitel hry nebo admin může vypnout přenost prokluzování a spotřeby palivy stisknutím 'pravý CTRL + Numpad 8'. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
+		
+		<text name="input_REALISTIC_GUI" text="MR aktivovat GUI" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI přenos dat ON/OFF" />
+		<text name="input_REALISTIC_MOUSE" text="MR aktivovat myš" />	
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Přenos dat je zakázán!" />
+	</texts>
+</l10n>
