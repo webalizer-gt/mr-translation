@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		Lii
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="La ce vă puteți aștepta?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="Practic, modul moreRealistic (MR) adaugă o fizică îmbunătățită jocului, simulând mai bine realitatea. Acesta are mai multe efecte." />
+		<text name="mr_helpText_01_02" type="paragraph" text="Unul dintre cele mai notabile efecte este reducerea capacitații vehiculelor de a tracta remorci sau utilaje grele. Veți fi nevoiți să folosiți tractoare cu puterea și greutatea potrivite pentru a tracta respectivele echipamente sau remorci." />
+		<text name="mr_helpText_01_03" type="paragraph" text="În general vehiculele vor încetini la deal, vor accelera la vale iar la tractare va dura mai mult timp până să atingă viteza dorită." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Dar asta nu e tot..." />
+		<text name="mr_helpText_01_05" type="caption" text="Imagini: 1 și 2 = fizică ralistă, 3 = viteza maximă nu mai este limitată de către joc." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Vehicule (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Toate vehiculele din joc ce au fost convertite la MR sunt in general mai manevrabile, cu un control mai bun al mișcărilor de precizie. Spre exemplu atașarea uneltelor, echipamentelor sau remorcilor este mai  ușor de realizat (aveți mai mult control, în special pentru cei ce folosesc tastatura)." />
+		<text name="mr_helpText_02_02" type="paragraph" text="Vehiculele convertite au o viteză maximă la fel ca în realitate, atât pe direcția înainte cât și înapoi. Nu mai sunt limitate la 15 km/h în marșarier." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Nu mai există frână de motor nelimitată. Dacă încărcătura este prea mare pentru ca motorul să menține o anumită viteză (de ex. o remorcă plina, la vale), vehiculul poate atinge viteze mai mari decât cea maximă. La fel ca în realitate, veți auzi cum crește turația motorului, putând depăși uneori limita admisă. În aceste situații va trebui să folosiți frâna de serviciu(de picior) pentru a reduce viteza sau a opri." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Sunt utilizate curbe de cuplu reale, iar consumul de carburant este calculat în funcție de puterea livrată și de turații. Există de asemenea o noua transmisie CVT care reglează turația motorului în funcție de puterea cerută (cu cât puterea necesară este mai mică cu atât turațiile sunt mai scăzute, iar frâna de motor determină  turații mai mari).." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Vehicule (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="Modul moreRealistic implementează rezistența la rulare. Va fi mai greu de tractat o remorcă pe un câmp arat decât pe un drum obișnuit. De asemenea, nu veți putea atinge viteza maximă, chiar și pe un drum drept, dacă vehiculul nu dispune de puterea necesară." />
+		<text name="mr_helpText_03_02" type="paragraph" text="Dimensiunea și tipul pneurilor sunt importante acum. Un pneu “de șosea” va rula mai ușor pe șosea decât pe câmp. Un pneu mai lat va reduce rezistența la rulare în câmp dar o va crește pe șosea. Diametrul, cu cât este mai mare, cu atât cresc avantajele. Notă: șenilele au o foarte mare rezistență la rulare (nerecomandate în transportul obișnuit, ca și în realitate)." />
+		<text name="mr_helpText_03_03" type="paragraph" text="Forțele și contactul roților cu solul sunt acum asemănătoare realității. Aceasta înseamnă că greutatea vehiculului tractor este foarte importantă când folosim vehicule MR." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Masele nu mai sunt de acum doar “cosmetice” și au un rol foarte important în calculul puterii de tractare finale. Cu prea mult balast veți consuma mai mult carburant și timp pentru aceeași suprafață lucrată. Cu prea puțin, nu veți avea putere de tractare și nici viteză pentru că roțile vor patina. Țineți cont că balastarea optimă variază foarte mult în funcție de utilaje și condițiile de lucru." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Echipamente" />
+		<text name="mr_helpText_04_01" type="paragraph" text="Cu MR puterea necesară echipamentelor nu mai este de tip Pornit/Oprit. Când folosiți un echipament, puterea consumată la priza de putere (PTO, cardan) sau forța necesară pentru tractare va depinde de condițiile de lucru. Adică veți putea tracta un echipament mare cu un tractor subdimensionat dar la o viteza mai mică (presupunând ca acesta are o greutate suficienta pentru a nu patina). De asemenea veți remarca ușor diferența folosind un tractor mai mare." />
+		<text name="mr_helpText_04_02" type="paragraph" text="Toate echipamentele au anumite limitări. Cea mai frecventa este limita de viteză, ceea ce înseamnă că nu veți putea atinge viteze nerealiste chiar dacă folosiți cel mai puternic tractor." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Alte utilaje au limitări speciale. De exemplu presele de balotat au o limitare a fluxului de material procesat. Nu veți putea procesa cantități uriașe în câteva secunde. Fluxul depinde totodată și de tipul materialului. Iarba este mai greu de procesat decât paiele." />
+		<text name="mr_helpText_04_04" type="paragraph" text="O mare importanță pentru vehicule o are acum și distribuția maselor (centrul de greutate). Deși este greu de răsturnat o remorcă goală, aceasta se va răsturna destul de ușor când este plină și cu un conținut greu." />
+
+		<text name="mr_helpTitle_05" type="headline" text="Însămânțarea" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Rețineți că folosind modul MR consumul de semințe va fi similar cu cel din realitate." />
+		<text name="mr_helpText_05_02" type="paragraph" text="Aceasta înseamnă că nu veți fi nevoiți să reîncărcați semănătoarea la fel de des ca in cazul jocului original.  Veți putea însămânța mai multe câmpuri fără reumplere, mai ales in cazul rapiței sau a sfeclei de zahăr." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Semănătoarele directe vor fi mai ușor de tractat pe un teren care a fost pregătit deja (scarificare, arare, discuire, etc.)." />
+		<text name="mr_helpText_05_04" type="caption" text="Imagini: sol pregătit in prealabil (stânga), semănare directă (dreapta)." />
+
+
+		<text name="mr_helpTitle_06" type="headline" text="Fertilizarea" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Toate pulverizatoarele și distribuitoarele MR au fluxul dependent de viteză. În consecință nu va mai trebui să vă grăbiți să atingeți viteza maximă pentru a nu risipi îngrășământul. Veți putea folosi viteza preferată." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Când folosiți o semănătoare care și fertilizează, în cele mai multe cazuri consumul de îngrășământ va fi mai mic decât la fertilizatoarelor obișnuite." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Fertilizatorul este unul dintre cele mai grele materiale din joc. Fertilizatorul solid are densitatea 1,1 kg/L iar cel lichid 1,28 kg/L !" />
+
+		<text name="mr_helpTitle_07" type="headline" text="Recoltarea" />
+		<text name="mr_helpText_07_01" type="paragraph" text="Viteza maximă a combinelor MR depinde de capacitatea de treierare, de puterea motorului, de tipul și randamentul recoltei și de  capul tăietor (puterea consumată și lățimea)." />
+		<text name="mr_helpText_07_02" type="paragraph" text="La mărunțirea paielor puterea consumată crește. La fel și când se descarcă în timpul mersului." />
+		<text name="mr_helpText_07_03" type="caption" text="Imagini: toată lățimea (stânga), jumătate din lățime (dreapta)." />
+
+		<text name="mr_helpTitle_08" type="headline" text="Balotarea" />
+		<text name="mr_helpText_08_01" type="paragraph" text="Folosind MR utilizarea baloților este mai eficientă economic decât vânzarea materialului vrac. Cei mai profitabili sunt baloții dreptunghiulari mici, apoi cei rotunzi și apoi cei dreptunghiulari mari." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Baloții de asemenea au o greutate apropiată de cea reală și care depinde de volumul balotului și tipul materialului. Exemplu: va fi mai greu de tractat o remorcă plină cu baloți de fân față una cu paie." />
+
+		<text name="mr_helpTitle_09" type="headline" text="Manevrarea obiectelor" />
+		<text name="mr_helpText_09_01" type="paragraph" text="Uneltele „de apucat” originale, cum ar fi cleștele pentru bușteni sau brațele pentru baloți, au acum proprietatea 'MR claw'. Cu ajutorul acesteia, atunci când închideți unealta, obiectul apucat este fixat și nu se va desprinde la întâmplare." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Acest lucru este util în special atunci când încercați să așezați cu precizie bușteni sau baloți pe o remorcă. Puteți de asemenea “apuca” și paleți dacă nu vă descurcați cu furca (lama) pentru paleți." />
+
+		<text name="mr_helpTitle_10" type="headline" text="Silvicultură" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Utilajele forestiere folosesc acum cu adevărat puterea tractoarelor.  Cele trei concasoare pentru lemn au fost îmbunătățite pentru a fi mai confortabil de folosit. Până și micul Heziomat este acum ușor de alimnetat cu lemn." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Folosind funcția 'MR claw', este de asemenea mai ușor să manevrați buștenii cu macaraua." />
+
+		<text name="mr_helpTitle_11" type="headline" text="Umiditatea solului" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Umiditatea pământului este acum foarte importantă, în timpul sau în urma unei ploi. În funcție de tipul, durata și intensitatea ploii, poate deveni acum imposibil să lucrați în câmp, în special pe teren înclinat sau când tractorul este la limita puterii sau gabaritului pentru echipamentul folosit." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Poate dura ceva timp până se va acumula umiditate în sol, dar la un moment dat veți pierde din tracțiune iar rezistența la rulare va crește." />
+		<text name="mr_helpText_11_03" type="caption" text="Imagini: 0% umiditate (stânga), 70% umiditate (dreapta). Sol pregătit, cauciucuri de asfalt la remorcă, 26T masa totală a vehiculelor." />
+
+		<text name="mr_helpTitle_12" type="headline" text="Densități, volume, mase" />
+		<text name="mr_helpText_12_01" type="paragraph" text="În jocul original, greutatea unei remorci încărcate nu este nici pe departe apropiată de cea din realitate. Exemplu: dacă umpleți o remorcă de 20 m3 cu 20.000 litri de apă, conținutul ar trebui să cântărească 20 de tone. De fapt, veți avea doar 10 tone pentru că densitatea este redusă la 50% pentru dinamica jocului." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Dar ce este densitatea? Dacă aveți o substanță omogenă, cum ar fi apa, greutatea unei cantități din aceasta este proporțională cu volumul acestei cantități. Relația dintre greutate(masă) și volum este deci o constantă, numită densitate. Densitatea unui obiect este deci obținută împărțind masa la volum.  Densitate = masa/volum." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR folosește cifre reale pentru densitățile diferitor tipuri de mărfuri. Veți observa că transportul grânelor este diferit. Chiar și cu un tractor foarte puternic, veți constata o scădere a vitezei atunci când tractați o remorcă plină la deal. Cu un tractor mai puțin puternic este posibil chiar să nu puteți urca dealul. Veți fi nevoiți să căutați alt drum sau să continuați drumul doar cu o parte din încărcătură." />
+		<text name="mr_helpText_12_04" type="paragraph" text="Densitățile grânelor variază de la 0,42 kg/L pentru floarea soarelui până la 0,83 kg/L pentru porumbul boabe." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Misiuni" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Misiunile au acum un caracter aleatoriu. Puteți avea mai mult timp la dispoziție, dar mai puțini bani pe unitatea de timp lucrat. Sau puteți avea un timp mai scurt dar o remunerație mai mare." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Câștigul a fost și el echilibrat astfel încât misiunile nu mai sunt acum atât de avantajoase față de lucratul propriului pământ." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Tabelul prețurilor" />
+		<text name="mr_helpText_14_01" type="paragraph" text="Folosind modul moreRealistic, diferitele culori ale prețurilor vă vor indica mult mai bine dacă ar trebui sau nu să vă vindeți produsele. Cele mai bune prețuri sunt întotdeauna marcate cu verde. Nu mai este nevoie să citiți tot tabelul pentru a găsi prețul cel mai bun."/>
+
+		<text name="mr_helpTitle_15" type="headline" text="Afișajul" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Dedesubtul afișajului pentru vehicul (viteză, etc...) puteți citi două valori ce vă pot fi utile în joc." />
+		<text name="mr_helpText_15_02" type="paragraph" text="“Patinarea medie”, în partea stângă, vă arată cât de eficientă este tracțiunea vehiculului vostru. Dacă nu “simțiți” efectul balastului, îl veți observa aici. Un tractor echipat cu roți, în lucru, ar trebui să se încadreze între valorile 8 și 15% ale patinării." />
+		<text name="mr_helpText_15_03" type="paragraph" text="În partea dreaptă puteți vedea consumul mediu de carburant pe oră." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Puteți muta afișajul ținând apăsată tasta dedicată (implicit = CTRL dreapta) și trăgând cu mouse-ul." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Apăsând 'CTRL dreapta + TastaNumerică 7' puteți activa/dezactiva afișajul. Dacă aveți o conexiune de rețea (Internet) lentă puteți reduce transferul de date dezactivând afișajul!" />
+		<text name="mr_helpText_15_06" type="paragraph" text="„Gazda” sau „Admin”-ul pot dezactiva transferul datelor privind patinarea sau consumul de carburant apăsând 'CTRL dreapta + TastaNumerică 8'. Dacă aveți o conexiune de rețea (Internet) lentă puteți reduce transferul de date dezactivând afișajul!" />
+
+		<text name="input_REALISTIC_GUI" text="MR GUI activare" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI utilizare rețea Pornit/Oprit" />
+		<text name="input_REALISTIC_MOUSE" text="MR activare mouse" />
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Transfer de date dezactivat" />
+	</texts>
+</l10n>
