@@ -86,9 +86,16 @@
 		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'STRG rechts + Keypad 7' kann man die Anzeige ein- und ausschalten." />
 		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'STRG rechts + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
 
+		<text name="mr_helpTitle_16" type="headline" text="Leistungsbedarf" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Wie im realen Leben auch, ist der Leistungsbedarf für jedes Gerät lediglich eine Empfehlung. Ein Wert von 200 PS bedeutet nicht, dass man das Gerät in jedem Fall mit einem beliebigen 200 PS Traktor ziehen kann." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Grundsätzlich sollte es möglich sein, das Gerät auch mit einem weniger starken Traktor zu nutzen, aber mit einer geringeren Geschwindigkeit. Man sollte darauf achten, einen leistungsfähigeren Traktor zu benutzen, wenn man auf hügeligen Feldern arbeitet." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Auch wenn es nicht explizit erwähnt wird, benötigen einige Geräte eine hohe Zugkraft (das Traktorgewicht + Ballast ist ebenso wichtig wie die Motorleistung), während andere meist nur genügend PS-Leistung benötigen (zapfwellenbetriebene Geräte)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Die bei Traktoren angegebenen Leistungsdaten beziehen sich meistens auf die maximal mögliche PS-Zahl. Da einige Traktoren eine Boost-Funktion haben können, kann es im Spiel genau wie in der Realität einen großen Unterschied zwischen zwei Traktoren mit der gleichen PS-Zahl geben. Beispiel: New Holland T6.160 und Fendt 716. Letzterer ist bei der Feldarbeit effizienter." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Beim Kauf eines neuen Traktors muss man also über die benötigte Leistung aber auch die Größe nachdenken. Der Kauf eines kleinen Traktors mit hoher Leistung ist nicht unbedingt die beste Wahl." />
+
 		<text name="input_REALISTIC_GUI" text="MR GUI aktivieren" />
-		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI Datenübertragung AN/AUF" />
-		<text name="input_REALISTIC_MOUSE" text="MR Maus aktivieren" />	
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI Datenübertragung AN/AUS" />
+		<text name="input_REALISTIC_MOUSE" text="MR Maus aktivieren" />
 		<text name="REALISTIC_GUI_NETWORK_OFF" text="Datenübertragung deaktiviert!" />
 	</texts>
 </l10n>
