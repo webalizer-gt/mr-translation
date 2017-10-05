@@ -86,6 +86,13 @@
 		<text name="mr_helpText_15_05" type="paragraph" text="By pressing 'right CTRL + Keypad 7' you can turn the display on and off. If you have a limited network connection you can save traffic by turning it off!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="The Host or Admin can turn off the transfer of slippage and fuel data by pressing 'right CTRL + Keypad 8'. If you have a limited network connection you can save traffic by turning it off!" />
 		
+		<text name="mr_helpTitle_16" type="headline" text="Power Requirement" />
+		<text name="mr_helpText_16_01" type="paragraph" text="As what we can found in real life, the power requirement displayed for each implement is a recommended power. A 200Hp value doesn't mean you will be able to pull the implement in any condition with any 200Hp tractors." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Most of the time, it will be possible to handle the implement with a less powerful tractor, but at a slower speed. Make sure to use a more powerful tractor if you are going to work in hilly fields though." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Even if this is not clearly stated, some implements require pulling force (ballasted tractor weight is as important as engine horsepower here) whereas others mostly rely on horsepower (PTO driven implements)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Tractors displayed horsepowers are most of the time 'max engine Hp possible'. Since some tractors can feature a boost, there can be quite a difference both in game and IRL between 2 tractors with the same Hp rating. Example : New Holland T6.160 and Fendt 716. The latter being more efficient in field work." />
+		<text name="mr_helpText_16_05" type="paragraph" text="So, when buying a new tractor, you have to think about the horsepower and also the size you need. Buying a small frame tractor with high horsepower is not necessarily the best choice." />
+		
 		<text name="input_REALISTIC_GUI" text="MR GUI activate" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI network use ON/OFF" />		
 		<text name="input_REALISTIC_MOUSE" text="MR mouse activate" />	
