@@ -57,7 +57,7 @@
 		<text name="mr_helpText_09_02" type="paragraph" text="Cette fonctionnalité est particulièrement utile pour placer correctement les troncs ou les balles de paille dans une remorque. Il est aussi possible de 'verrouiller' des palettes si vous n'êtes pas très à l'aise avec les fourches." />
 
 		<text name="mr_helpTitle_10" type="headline" text="Sylviculture" />
-		<text name="mr_helpText_10_01" type="paragraph" text="Tous les outils utilisent réellement la puissance des moteurs. Les 3 broyeurs ont été améliorés pour être 100% opérationnel. Même le petit Heizomat est maintenant facile à alimenter et utile dans le jeu." />
+		<text name="mr_helpText_10_01" type="paragraph" text="Tous les outils utilisent réellement la puissance des moteurs. Les 3 broyeurs ont été améliorés pour être 100% opérationnels. Même le petit Heizomat est maintenant facile à alimenter et utile dans le jeu." />
 		<text name="mr_helpText_10_02" type="paragraph" text="Grâce à la fonctionnalité 'griffe MR', c'est aussi plus facile de manipuler les troncs avec la grue de la remorque forestière ou du porteur. Les troncs ne peuvent plus se 'sauver' si on est trop lent." />
 
 		<text name="mr_helpTitle_11" type="headline" text="Humidité du sol" />
