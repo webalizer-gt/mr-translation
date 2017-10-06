@@ -85,6 +85,13 @@
 		<text name="mr_helpText_15_05" type="paragraph" text="Met de rechter CTRL en numpad 7 kun je de weergave van de extra waarden aan en uit zetten. Heb je beperkt dataverkeer dan kun je hierop besparen door het uit te zetten!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="In multiplayer kan de host of de admin dit voor de server uitzetten door de rechter CTRL + numpad 8 te gebruiken. Heb je beperkt dataverkeer dan kun je hierop besparen door het uit te zetten!" />
 
+		<text name="mr_helpTitle_16" type="headline" text="Vereist vermogen" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Zoals ook in de realiteit is het vereiste vermogen slechts een aanbeveling. Dit betekend dus dat de aanbevolen hoeveelheid vermogen niet altijd voldoende is. " />
+		<text name="mr_helpText_16_02" type="paragraph" text="In veel gevallen kan de machine ook aangedreven worden met minder vermogen, maar wel op een lagere snelheid. Ben je van plan een machine te gebruiken in een heuvelachtige veld, zorg dan dat de tractor meer vermogen heeft dan is aanbevolen." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Sommige machines vereisen meer trekkracht (hier is (extra) ballast minstens net zo belangrijk als vermogen) en sommige machines hebben juist alleen motor vermogen nodig (PTO machines)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="De aangegeven hoeveelheid vermogen is vaak het maximale van de motor. Omdat sommige tractors een boost hebben kan het zijn dat deze zich anders gedragen dan andere tractors met evenveel vermogen, zowel in het spel als in het echt. Bijvoorbeeld: New Holland T6.160 en de Fendt 716. De Fendt 716 is veel effiecenter in het bewerken van een akker." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Houd bij het kopen van een tractor dus rekenen met zowel motor vermogen als de grootte van de tractor. Het kopen van een kleine tractor met veel vermogen is niet altijd de beste keus." />
+		
 		<text name="input_REALISTIC_GUI" text="MR interface activeren" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR interface netwerk aan/uit" />
 		<text name="input_REALISTIC_MOUSE" text="MR muis activeren" />
