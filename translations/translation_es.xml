@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		Lepes
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="¿Qué puedes esperar?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="Basicamente, el mod moreRealistic (MR) añade y mejora el motor de físicas simulando mejor la vida real para casi todo el equipamiento del juego. Esto tiene diferentes efectos en el juego." />
+		<text name="mr_helpText_01_02" type="paragraph" text="Uno de los mas notables efectos es la habilidad de reducir la capacidad de tirar de remolques o aperos muy pesados. Deberás usar tractores que tengan los caballos adecuados para tirar de varios remolques o aperos." />
+		<text name="mr_helpText_01_03" type="paragraph" text="En general, los tractores reducirán su velocidad al subir colinas, aumentarán la velocidad al bajarlas, y tardará más tiempo en acelerar cuando están tirando cargas." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Pero aún hay más..." />
+		<text name="mr_helpText_01_05" type="caption" text="Imagen: 1 y 2 = físicas realistas, 3 = máxima velocidad no limitada por el motor del juego." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Vehículos (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Todos los vehículos convertidos a MR son normalmente más maniobrables, lo que significa más facilidad y precisión en movimientos a baja velocidad. Por ejemplo: es más fácil enganchar herramientas, aperos o remolques (tienes más control, se nota especialmente jugando con teclado)." />
+		<text name="mr_helpText_02_02" type="paragraph" text="Todos los vehículos convertidos por defecto toman la velocidad de la vida real, en marcha atrás y marcha hacia delante. No más limitación de 15 km/h en reversa." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Se acabó la habilidad de frenar infinitamente con el freno motor. Si la carga es demasiado grande para que el vehículo mantenga la velocidad (trailer cargado al máximo, yendo colina abajo), el vehículo irá más rápido de la máxima velocidad del vehículo. Como en la vida real, oirás el motor sobrerevolucionado (muchas rpm) en este caso. Por esta razón, tendrás que usar los pedales de freno para disminuir la velocidad del vehículo como en la vida real." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Se aplicará la curva real de par de motor y el consumo de combustible se basará en la potencia suministrada y rpm. También hay una nueva transmisión CVT que administra las revoluciones del motor (rpm) según la demanda (menos potencia = menos rpm, más freno motor necesitado = más rpm)." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Vehículos (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="El motor moreRealistic incorpora la resistencia de rodadura. Significa que será más difícil tirar de un remolque en un campo arado que en una carretera. También significa que no serás capaz de mantener la velocidad máxima del vehículo, incluso en carreteras planas, si el vehículo no tiene la suficiente potencia." />
+		<text name="mr_helpText_03_02" type="paragraph" text="El tamaño de los neumáticos y el tipo, ahora tienen influencia en el juego. Será más fácil tirar de un remolque con un neumático 'de calle' sobre una carretera, que con otros tipos de neumáticos, pero más costoso en un campo. Un neumático más ancho reducirá la resistencia de rodadura en el campo, pero la aumentará en carretera. Los neumáticos más anchos, son mejores para casi todos los propósitos. Nota: Los tractores tienen una alta resistencia a la rodadura (nada bueno para transporte por carretera, como en la vida real)" />
+		<text name="mr_helpText_03_03" type="paragraph" text="Las fuerzas aplicadas por las ruedas al suelo, son ahora más cercanas a lo que puede encontrarse en la vida real. Esto significa que el peso del vehículo tractor es muy importante cudando se juega con un vehículo MR." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Los pesos no son 'solo para mostrarlo', ahora juegan un papel crucial en la 'eficiencia de la tracción' de tu vehículo en el trabajo. Con mucho lastre consumirás más combustible y tiempo para el mismo área de trabajo. Sin el suficiente lastre, no serás capaz de tirar del apero o perderás mucha velocidad y caballos porque patina. Ten en cuenta que el rango 'óptimo' de trabajo es relativamente largo para la mayoría de los trabajos." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Aperos" />
+		<text name="mr_helpText_04_01" type="paragraph" text="Con MR, ya no hay más requerimiento de aperos en modo ENCENDIDO/APAGADO. Cuando usas un apero, la potencia consumida por la toma de fuerza o la fuerza requerida para tirar, dependerá de qué estes haciendo con el apero. Esto significa	que puedes tirar de un apero muy grande con un tractor mediano a bajas velocidades (si el tractor tiene el suficiente peso sobre sus ruedas). También significa que podrás ver una clara diferencia cuando uses un tractor con muchos más caballos. " />
+		<text name="mr_helpText_04_02" type="paragraph" text="Todos los aperos tienen capacidad limitada. El más común es la velocidad de trabajo limitada, lo que significa que aunque uses los tractores más monstruosos, no podrás alcanzar altas velocidades irrealistas con ese apero." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Para algunos aperos, hay otros límites. Por ejemplo: las empacadoras tienen una capacidad limitada de flujo de material. No puedes administrarle grandes cantidades de material en corto espacio de tiempo. También dependerá en el tipo de material que estás cogiendo. La hierba es más difícil de procesar que la paja." />
+		<text name="mr_helpText_04_04" type="paragraph" text="Los vehículos MR son más sensibles con el centro de gravedad (distribución de peso). Incluso si es difícil volcar un semirremolque vacío, es muy fácil de volcarlo con uno completamente cargado (especialmente con cargas muy pesadas)." />
+
+		<text name="mr_helpTitle_05" type="headline" text="Sembrando" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Por favor, tenga en cuenta que jugando con MR, el consumo de semillas será similar a lo que puede esperar en la vida real." />
+		<text name="mr_helpText_05_02" type="paragraph" text="Esto significa que no tendrá que rellenar su sembradora tan a menudo como en el juego base. Puede sembrar incluso múltiples campos sin rellenar para algunos frutos como la colza, o remolacha. " />
+		<text name="mr_helpText_05_03" type="paragraph" text="En siembra directa, será será más fácil tirar de la sembradorea en un campo ya cultivado/arado" />
+		<text name="mr_helpText_05_04" type="caption" text="Imágenes: Campo ya cultivado (izquierda), siembra directa (derecha)." />			
+
+		<text name="mr_helpTitle_06" type="headline" text="Fertilizando" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Todos los pulverizadores y esparcidores MR se caracterizan por un variable flujo de material dependiendo de la velocidad. Esto significa que no tienen por qué conducir a máxima velocidad para no malgastar fertilizante. Puede tomarse su tiempo en hacer el trabajo." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Cuando use una sembradora con fertilizante, la mayoría de las veces, la cantidad de fertilizante necesario será menor que usando herramientas propias de fertilización." />
+		<text name="mr_helpText_06_03" type="paragraph" text="El fertilizante es uno de los productos en el juego con más peso. La densidad base para fertilizantes sólidos es de 1.1 y para fertilizantes líquidos, es incluso más mayor, ¡hasta 1.28!" />
+
+		<text name="mr_helpTitle_07" type="headline" text="Cosechando" />
+		<text name="mr_helpText_07_01" type="paragraph" text="La máxima velocidad de trabajo de las cosechadoras MR, dependen de la capacidad trilladora de la cosechadora, la potencia del motor, el fruto, la cosecha y el peine (ancho de trabajo y consumo de potencia del peine)" />
+		<text name="mr_helpText_07_02" type="paragraph" text="Cuando se pica la paja, la potencia consumida es mayor, lo mismo que al descargar en movimiento la cosechadora." />
+		<text name="mr_helpText_07_03" type="caption" text="Imágenes: Ancho completo (Izquierda), mitad de ancho (derecha)" />	
+
+		<text name="mr_helpTitle_08" type="headline" text="Empacando" />
+		<text name="mr_helpText_08_01" type="paragraph" text="Con MR, empacar se recompensa más que vendiendo la paja sin empacar. Una paca cuadrada pequeña es la más recompensada, después la paca redonda y después la paca grande cuadrada." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Las pacas también tienen un peso más acorde con la vida real, dependiendo de la capacidad de llenado 'fillLevel' y el material. Por ejemplo: Será más complicado tirar de un trailer lleno de pacas de heno comparado con uno de pacas de paja." />
+
+		<text name="mr_helpTitle_09" type="headline" text="Manipulando objetos" />
+		<text name="mr_helpText_09_01" type="paragraph" text="Las herramientas que permiten agarrar objetos, como las pinzas de troncos o pinzas de pacas, ahora tienen la característica 'pinza MR'. Esto significa que al estar cerca de la herramienta, el objeto será agarrado y bloqueado, impidiendo que se caiga aleatoriamente." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Especialmente útil al intentar cargar con precisión troncos o pacas en un remolque. También puede pinzar palets si no obtiene buenos resultados con los portapalets del juego" />
+
+		<text name="mr_helpTitle_10" type="headline" text="Silvicultura" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Todas las herramientas hacen uso de la potencia del tractor. Los tres picadores de árboles han sido mejorados para que su uso sea más divertido. Incluso la pequeña Heizomat es ahora fácil de alimentar" />
+		<text name="mr_helpText_10_02" type="paragraph" text="Usando la función 'pinza MR', también es ahora más fácil manipular troncos con las grúas o los remolques de troncos y el PONSSE Buffalo " />
+
+		<text name="mr_helpTitle_11" type="headline" text="Humedad del suelo" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Durante y después de llover, la 'humedad' del suelo importa durante una partida MR. Dependiendo del tipo de lluvia, duración e intensidad, puede volverse imposible trabajar en el campo. Especialmente cuando hay pendientes o tu tractor no supera con creces la potencia requerida por el apero." />
+		<text name="mr_helpText_11_02" type="paragraph" text="También toma tiempo en incrementarse la humedad, pero ocasionalmente, perderás tracción y la resistencia de rodadura se incrementará." />
+		<text name="mr_helpText_11_03" type="caption" text="Imágenes: 0% humedad (izquierda), 70% humedad (derecha). Campo cultivado, neumáticos de calle en el remolque, 26T de peso total (incluyendo vehículos)" />	
+
+		<text name="mr_helpTitle_12" type="headline" text="Densidad, volumen, masa" />
+		<text name="mr_helpText_12_01" type="paragraph" text="En el juego base, el peso de un remolque lleno no es ni remotamente realista. Ejemplo: Si llenas un remolque con 20 m3 (metros cúbicos) con 20.000 litros de agua, La masa total del llenado debería ser 20 toneladas. De hecho, solo obtendrás 10 toneladas porque la densidad de los productos han sido reducidas al 50% por razones de jugabilidad." />
+		<text name="mr_helpText_12_02" type="paragraph" text="¡Espera!, ¿Qué es la densidad?. Si tienes una sustancia homogénea, como el agua, la masa de una cantidad de sustancia es proporcional a su volumen. El ratio de la masa con el volumen se convierte en una constante, llamado densidad. La densidad de un objeto se encuentra por tanto dividiendo la masa por su volumen. En otras palabras, densidad = masa / volumen." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR hace uso de las cifras de la vida real para la densidad de cada tipo de llenado. Notarás que transportar grano se ha convertido en algo muy diferente. Incluso con un tractor muy potente, notarás un descenso considerable de velocidad al subir colinas con un remolque cargado completamente de grano. Con tractores menos potentes, puede que no seas capaz de alcanzar la cima de la colina. Tendrás que tomar una ruta diferente o no cargar al máximo el remolque." />
+		<text name="mr_helpText_12_04" type="paragraph" text="La densidad de los cultivos varían desde 0.42 del girasol hasta 0.83 del maiz." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Trabajos de campo" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Ahora tenemos más factores aleatorios al elegir una misión. Puedes obtener más tiempo pero menos dinero por unidad de tiempo. Y puedes tener menos tiempo pero más dinero por unidad de tiempo." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Las recompensa por misiones han sido balanceadas por lo que no tendrás amplias ventajas haciendo misiones, comparadas con las que haces en tu propia granja." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Tablón de precios" />
+		<text name="mr_helpText_14_01" type="paragraph" text="Activado MR, los diferentes colores en el tablón de precios reflejará mejor si debes o no vender tus productos.Verde indica ahora siempre que es mejor que el blanco o rojo. No hay necesidad de leer toda la tabla para saber si hay buenas ofertas para uno de tus productos." />
+
+		<text name="mr_helpTitle_15" type="headline" text="Pantalla" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Debajo del salpicadero del vehículo (velocidad etc...) puedes leer dos valores que pueden ser de mucha utilidad para tu partida." />
+		<text name="mr_helpText_15_02" type="paragraph" text="La 'media de derrapaje' a la izquierda muestra cuan buena o mala es la tracción del vehículo. Si no puedes sentir el impacto del lastre, lo verás aquí." />
+		<text name="mr_helpText_15_03" type="paragraph" text="A la derecha, puedes ver el consumo medio de combustible por hora." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Puedes mover el display manteniendo pulsado la tecla modificadora (standar = CTRL derecha) y arrastrarla con el ratón." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Pulsando 'CTRL derecha + teclaldo numérico 7' puedes mostrar u ocultar la pantalla. Si tienes una conexión limitada a internet, ¡puedes obtener mejoría ocultándolo!" />
+		<text name="mr_helpText_15_06" type="paragraph" text="El servidor o Administrador puede deshabilitar la transferencia del derrapaje y consumo de combustible pulsando 'CTRL derecha + teclado numérico 8'. Si tienes una conexión limitada a internet, ¡puedes obtener mejoría ocultándolo!" />
+		
+		<text name="mr_helpTitle_16" type="headline" text="Requerimiento de potencia" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Del mismo modo que lo encontramos en la vida real, el requerimiento de potencia mostrado para cada apero es una recomendación. Un valor de 200Hp no significa que puedas tirar del apero en todas las situaciones con un tractor de 200Hp." />
+		<text name="mr_helpText_16_02" type="paragraph" text="En la mayoría de las ocasiones, será posible manejar el apero con un tractor de menor potencia, pero a menor velocidad. Aseguresé de usar un tractor más potente si va a trabajar en campos con grandes pendientes." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Aunque no se dice explicitamente, algunos aperos necesitan más fuerza de empuje (los contrapesos para tractores son tan importantes aquí como los caballos del motor) mientras que otros aperos solo necesitan caballos (aperos con toma de fuerza)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Los caballos de vapor mostrado en los tractores, es la mayoría de las veces, 'valor máximo en Hp'. Puesto que algunos tractores pueden tener Turbo, Puede haber diferencias entre dos tractores con el mismo caballaje, tanto en el juego como en la vida real. Ejemplo: New Holland T6.160 y Fend 716. El último es más eficiente en trabajos de campo." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Así que, al comprar un tractor, debes pensar tanto en los caballos como en el tamaño que necesitas. Comprando un tractor de pequeño tamaño con muchos caballos no es necesariamente la mejor opción." />
+		
+		<text name="input_REALISTIC_GUI" text="MR activar interfaz" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR interfaz usa red ON/OFF" />		
+		<text name="input_REALISTIC_MOUSE" text="MR ratón activado" />	
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Transf. datos desactivada" />
+	</texts>
+</l10n>

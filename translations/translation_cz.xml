@@ -86,6 +86,13 @@
 		<text name="mr_helpText_15_05" type="paragraph" text="Po stisknustí 'pravý CTRL + Numpad 7' můžete zapnout a vypnout obrazovku. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="Hostitel hry nebo admin může vypnout přenost prokluzování a spotřeby palivy stisknutím 'pravý CTRL + Numpad 8'. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
 		
+		<text name="mr_helpTitle_16" type="headline" text="Potřebný výkon" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Stejně jako v obyčejném životě, potřebný výkon pro každé příslušenství je doporučený výkon. Hodnota 200HP neznamená, že budete schopni táhnout příslušenství v jakýkoliv podmínkách s 200HP traktorem." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Většinu času budete schopni používat příslušenství s méně výkonným traktorem, ale na nižších rychlostech. Ujistěte se, abyste použíly výkonný traktor pokud budete pracovat v kopcovitém terénu." />
+		<text name="mr_helpText_16_03" type="paragraph" text="I když to není přesně stanoveno, některé příslušenství potřebují tažnou sílu (zde je závaží na traktoru stejně důležité jako výkon motoru) zatímco jiné většinou záleží na výkonu (příslušenství s připojeným kardanem)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Hodnota výkonu zobrazená u traktorů je většinou 'maximální možný výkon motoru'. Jenomže některé traktory mohou použít zvýšení, může tam být celkem velký rozdíl jak ve hře tak v běžném světě mezi dvěma traktory se stejným výkonem. Například: New Holland T.160 a Fendt 716. Poslední je více efektivní pro práci na poli." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Takže, když kupujete nový traktor, musíte přemýšlet o výkonu a také o velikosti, kterou potřebujete. Koupí malého traktoru s velkým výkonem není vždycky nejlepší volba." />
+		
 		<text name="input_REALISTIC_GUI" text="MR aktivovat GUI" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI přenos dat ON/OFF" />
 		<text name="input_REALISTIC_MOUSE" text="MR aktivovat myš" />	
