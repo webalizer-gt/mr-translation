@@ -11,7 +11,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="Grundsätzlich fügt der moreRealistic Mod (MR) dem Spiel eine verbesserte Physik-Engine hinzu, welche die realen Eigenschaften für fast jedes Gerät besser simuliert. Dies hat eine Reihe von Auswirkungen auf das Spiel." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Einer der herausragendsten Effekte ist die geringere Zugkraft von Traktoren beim Ziehen von schweren Anhängern oder Geräten. Man muss tatsächlich Traktoren verwenden, die die richtige Leistung haben, um verschiedene Geräte zu ziehen. Das gleiche gilt für das Ziehen von Anhängern." />
 		<text name="mr_helpText_01_03" type="paragraph" text="Wenn der Traktor sehr schwach ist, wird man es nicht auf den Hügel schaffen. Grundsätzlich werden Traktoren langsamer, wenn sie bergauf fahren, und schneller, wenn sie bergab fahren. Das Beschleunigen wird beim Ziehen von Lasten länger dauern." />
-		<text name="mr_helpText_01_04" type="paragraph" text="Aber das ist längst nicht alles..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Aber das ist längst nicht alles...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Bilder: 1 und 2 = realistische Physik, 3 = Geschwindigkeit nicht durch Game-Engine limitiert." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Fahrzeuge (1)" />
@@ -32,37 +33,51 @@
 		<text name="mr_helpText_04_03" type="paragraph" text="Für einige Geräte gibt es noch andere Limitierungen. Beispiel: Ballenpressen haben eine begrenzte Durchflussleistung. Man kann in kurzer Zeit keine riesigen Mengen an Material aufnehmen. Es hängt auch vom zu sammelnden Material ab: Gras ist schwerer zu verarbeiten als Stroh." />
 		<text name="mr_helpText_04_04" type="paragraph" text="MR-Fahrzeuge reagieren empfindlicher auf den Schwerpunkt (Massenverteilung). Auch wenn es schwierig sein kann, einen leeren Anhänger umzuwerfen, passiert es ziemlich einfach mit einem voll beladenen (besonders wenn die Ladung schwer ist)." />
 
+		<text name="mr_helpTitle_16" type="headline" text="Leistungsbedarf" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Wie im realen Leben auch, ist der Leistungsbedarf für jedes Gerät lediglich eine Empfehlung. Ein Wert von 200 PS bedeutet nicht, dass man das Gerät in jedem Fall mit einem beliebigen 200 PS Traktor ziehen kann." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Grundsätzlich sollte es möglich sein, das Gerät auch mit einem weniger starken Traktor zu nutzen, aber mit einer geringeren Geschwindigkeit. Man sollte darauf achten, einen leistungsfähigeren Traktor zu benutzen, wenn man auf hügeligen Feldern arbeitet." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Auch wenn es nicht explizit erwähnt wird, benötigen einige Geräte eine hohe Zugkraft (das Traktorgewicht + Ballast ist ebenso wichtig wie die Motorleistung), während andere meist nur genügend PS-Leistung benötigen (zapfwellenbetriebene Geräte)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Die bei Traktoren angegebenen Leistungsdaten beziehen sich meistens auf die maximal mögliche PS-Zahl. Da einige Traktoren eine Boost-Funktion haben können, kann es im Spiel genau wie in der Realität einen großen Unterschied zwischen zwei Traktoren mit der gleichen PS-Zahl geben. Beispiel: New Holland T6.160 und Fendt 716. Letzterer ist bei der Feldarbeit effizienter." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Beim Kauf eines neuen Traktors muss man also über die benötigte Leistung aber auch die Größe nachdenken. Der Kauf eines kleinen Traktors mit hoher Leistung ist nicht unbedingt die beste Wahl." />
+
 		<text name="mr_helpTitle_05" type="headline" text="Aussaat" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Beim Spielen mit MR fällt der Saatgutverbrauch ähnlich aus, wie in Wirklichkeit." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Das bedeutet, dass man die Sämaschine nicht so oft nachfüllen muss, wie im Basisspiel. Mit Raps- oder Zuckerrübensamen kann man mehrere Felder säen, ohne nachfüllen zu müssen." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Beim Säen lässt sich die Maschine leichter ziehen, wenn das Feld bereits gegrubbert/gepflügt ist." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Beim Säen lässt sich die Maschine leichter ziehen, wenn das Feld bereits gegrubbert/gepflügt ist.">
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
 +		<text name="mr_helpText_05_04" type="caption" text="Bilder: bereits kultivierter Boden (links), Direktsaat (rechts)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Düngen" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Alle MR Spritzen und Streuer verfügen über eine geschwindigkeitsabhängige Durchflussmenge. Das bedeutet, dass man nicht mit voller Geschwindigkeit fahren muss, um keinen Dünger zu verschwenden. Man kann in beliebigem Tempo fahren und sich Zeit lassen, um die Arbeit zu erledigen." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Bei der Verwendung einer Sämaschine mit Düngereinheit benötigt man in der Regel weniger Dünger als mit anderen Geräten." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Dünger ist eines der schwersten Produkte im Spiel. Die Dichte für Mineraldünger beträgt 1.1 und für Flüssigdünger sogar 1.28!" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Dünger ist eines der schwersten Produkte im Spiel. Die Dichte für Mineraldünger beträgt 1.1 und für Flüssigdünger sogar 1.28!">
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Ernten" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Die maximale Arbeitsgeschwindigkeit von MR-Dreschern hängt von der Reinigungskapazität, der Motorleistung, der Frucht, dem Ertrag und vom Schneidwerk (Leistungsaufnahme und Breite) ab." />
-		<text name="mr_helpText_07_02" type="paragraph" text="Beim Häckseln des Strohs erhöht sich der Leistungsbedarf ebenso wie beim Abtanken." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Beim Häckseln des Strohs erhöht sich der Leistungsbedarf ebenso wie beim Abtanken.">
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
 		<text name="mr_helpText_07_03" type="caption" text="Bilder: volle Arbeitsbreite (links), halbe Arbeitsbreite (rechts)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Ballen pressen" />
 		<text name="mr_helpText_08_01" type="paragraph" text="Mit MR lohnt sich der Verkauf von Ballen mehr als von losem Material. Kleine Quaderballen sind am lukrativsten, gefolgt von Rundballen und großen Quaderballen." />
-		<text name="mr_helpText_08_02" type="paragraph" text="Ballen haben auch ein nahezu realistisches Gewicht, das von der 'Füllmenge' und dem Material abhängig ist. Beispiel: Es ist schwieriger, einen Anhänger mit Heuballen als mit Strohballen zu ziehen." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Ballen haben auch ein nahezu realistisches Gewicht, das von der 'Füllmenge' und dem Material abhängig ist. Beispiel: Es ist schwieriger, einen Anhänger mit Heuballen als mit Strohballen zu ziehen.">
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Objekte bewegen" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Greif-Werkzeuge haben jetzt eine MR-Verriegelung. Das bedeutet, dass wenn Sie eine Forst- oder Ballenzange vollständig schließen, das gepackte Objekt nicht mehr aus dem Gerät 'entkommen' kann." />
-		<text name="mr_helpText_09_02" type="paragraph" text="Das ist besonders nützlich, wenn man versucht, Baumstämme oder Ballen vorsichtig auf einem Anhänger zu platzieren. Man kann auch Paletten greifen, wenn man mit der Gabel nicht zurecht kommt." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Das ist besonders nützlich, wenn man versucht, Baumstämme oder Ballen vorsichtig auf einem Anhänger zu platzieren. Man kann auch Paletten greifen, wenn man mit der Gabel nicht zurecht kommt.">
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Forst" />
 		<text name="mr_helpText_10_01" type="paragraph" text="Alle Geräte benötigen wirklich Traktorleistung. Das Handling der drei Holzhacker wurde enorm verbessert. Auch der kleine Heizomat ist jetzt einfach zu 'füttern'." />
-		<text name="mr_helpText_10_02" type="paragraph" text="Durch die Verwendung der MR-Verriegelung ist es nun auch einfacher Baumstämme mit dem Holzanhänger oder dem Forwarder zu bewegen." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Durch die Verwendung der MR-Verriegelung ist es nun auch einfacher Baumstämme mit dem Holzanhänger oder dem Forwarder zu bewegen.">
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Bodenfeuchte" />
 		<text name="mr_helpText_11_01" type="paragraph" text="Während und nach einem Regen spielt die Bodenfeuchte mit MR eine große Rolle. Je nach Regenart, -dauer und -intensität kann es schwierig bis unmöglich werden, auf Feldern zu arbeiten. Insbesondere, wenn es hügelig ist oder der Traktor für das Gerät etwas unterdimensioniert ist." />
-		<text name="mr_helpText_11_02" type="paragraph" text="Es kann einige Zeit dauern, bis sich die Bodenfeuchte erhöht, aber in jedem Fall wird sich die Traktion verschlechtern und der Rollwiderstand erhöhen." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Es kann einige Zeit dauern, bis sich die Bodenfeuchte erhöht, aber in jedem Fall wird sich die Traktion verschlechtern und der Rollwiderstand erhöhen.">
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
 		<text name="mr_helpText_11_03" type="caption" text="Bilder: 0% Bodenfeuchte (links), 70% Bodenfeuchte (rechts). Bearbeitetes Feld, Straßenbereifung auf dem Anhänger, 26T Gesamtgewicht." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Dichte, Volumen, Masse" />
@@ -76,22 +91,17 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Die Entlohnungen wurden ebenfalls angeglichen, so dass es nicht immer eindeutig ist, ob man besser Missionen erfüllt oder die Zeit für den eigenen Betrieb nutzt." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Verkaufspreise" />
-		<text name="mr_helpText_14_01" type="paragraph" text="MR macht es leichter erkennbar, ob man ein Produkt verkaufen sollte, oder nicht. Eine grüne Anzeige ist nun immer besser als eine weiße oder rote. Man muss nicht die ganze Tabelle lesen, um herauszufinden, ob es gute Preise für ein Produkt gibt." />
+		<text name="mr_helpText_14_01" type="paragraph" text="MR macht es leichter erkennbar, ob man ein Produkt verkaufen sollte, oder nicht. Eine grüne Anzeige ist nun immer besser als eine weiße oder rote. Man muss nicht die ganze Tabelle lesen, um herauszufinden, ob es gute Preise für ein Produkt gibt.">
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Anzeige" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Unterhalb der Fahrzeuganzeige (Geschwindigkeit etc ...) kann man zwei Werte ablesen, die für das Gameplay nützlich sein können." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Unterhalb der Fahrzeuganzeige (Geschwindigkeit etc ...) kann man zwei Werte ablesen, die für das Gameplay nützlich sein können.">
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="Der 'durchschnittliche Schlupf' auf der linken Seite zeigt an, wie gut oder schlecht die Traktion des Fahrzeugs ist. Wenn man die Auswirkungen von Zusatzgewichten nicht fühlen kann, sind sie dort sichtbar. Ein Traktor mit normaler Bereifung sollte bei der Arbeit zwischen 8 und 15% Schlupf haben." />
 		<text name="mr_helpText_15_03" type="paragraph" text="Auf der rechten Seite sieht man den durchschnittlichen Kraftstoffverbrauch pro Stunde." />
 		<text name="mr_helpText_15_04" type="paragraph" text="Die Anzeige kann beliebig verschoben werden, indem man die Modifikatortaste (Standard = STRG rechts) gedrückt hält und mit der Maus am erscheinenden Handsymbol zieht." />
 		<text name="mr_helpText_15_05" type="paragraph" text="Durch Drücken von 'STRG rechts + Keypad 7' kann man die Anzeige ein- und ausschalten." />
 		<text name="mr_helpText_15_06" type="paragraph" text="Der Host oder Admin kann die Übertragung der Schlupf- und Verbauchsdaten unterbinden, indem er 'STRG rechts + Keypad 8' drückt. Bei einer niedrigen Bandbreite der Netzwerkverbindung kann durch Ausschalten etwas Traffic eingespart werden!" />
-
-		<text name="mr_helpTitle_16" type="headline" text="Leistungsbedarf" />
-		<text name="mr_helpText_16_01" type="paragraph" text="Wie im realen Leben auch, ist der Leistungsbedarf für jedes Gerät lediglich eine Empfehlung. Ein Wert von 200 PS bedeutet nicht, dass man das Gerät in jedem Fall mit einem beliebigen 200 PS Traktor ziehen kann." />
-		<text name="mr_helpText_16_02" type="paragraph" text="Grundsätzlich sollte es möglich sein, das Gerät auch mit einem weniger starken Traktor zu nutzen, aber mit einer geringeren Geschwindigkeit. Man sollte darauf achten, einen leistungsfähigeren Traktor zu benutzen, wenn man auf hügeligen Feldern arbeitet." />
-		<text name="mr_helpText_16_03" type="paragraph" text="Auch wenn es nicht explizit erwähnt wird, benötigen einige Geräte eine hohe Zugkraft (das Traktorgewicht + Ballast ist ebenso wichtig wie die Motorleistung), während andere meist nur genügend PS-Leistung benötigen (zapfwellenbetriebene Geräte)." />
-		<text name="mr_helpText_16_04" type="paragraph" text="Die bei Traktoren angegebenen Leistungsdaten beziehen sich meistens auf die maximal mögliche PS-Zahl. Da einige Traktoren eine Boost-Funktion haben können, kann es im Spiel genau wie in der Realität einen großen Unterschied zwischen zwei Traktoren mit der gleichen PS-Zahl geben. Beispiel: New Holland T6.160 und Fendt 716. Letzterer ist bei der Feldarbeit effizienter." />
-		<text name="mr_helpText_16_05" type="paragraph" text="Beim Kauf eines neuen Traktors muss man also über die benötigte Leistung aber auch die Größe nachdenken. Der Kauf eines kleinen Traktors mit hoher Leistung ist nicht unbedingt die beste Wahl." />
 
 		<text name="input_REALISTIC_GUI" text="MR GUI aktivieren" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI Datenübertragung AN/AUS" />

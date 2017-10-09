@@ -11,7 +11,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="De moreRealistic mod (MR) voegt een verbeterde physics engine toe die bijna alle standaard machines en voertuigen realistischer simuleert." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Een belangrijk en goed merkbaar effect is het verminderd vermogen van tractoren voor het vervoeren van zware ladingen en machines. Het is nog belangrijker dat je de de juiste tractor kiest met voldoende vermogen." />
 		<text name="mr_helpText_01_03" type="paragraph" text="Over het algemeen zullen tractoren vertragen bij het oprijden van een heuvel, versnellen bij het afrijden van een heuvel en duurt het acceleren langer bij het trekken van een zware lading of machine. " />
-		<text name="mr_helpText_01_04" type="paragraph" text="En er is meer..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="En er is meer...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Afbeelding 1 en 2 = realistische physics, 3 = maximale snelheid, niet gelimiteerd door de game engine" />
 
 		<text name="mr_helpTitle_02" type="headline" text="Voertuigen (1)" />
@@ -32,36 +33,50 @@
 		<text name="mr_helpText_04_03" type="paragraph" text="Niet alle machines kennen dezelfde limieten. Een balenpers bijvoorbeeld heeft een maximale invoer capaciteit. Het verwerken van enorme hoeveelheden in een korte tijd is onmogelijk. Ook het materiaal speelt een rol. Het persen van gras is bijvoorbeeld lastiger dan stro." />
 		<text name="mr_helpText_04_04" type="paragraph" text="Bij voertuigen omgezet naar MR speelt het zwaartepunt een grote rol. Zo is het eenvoudig om een zwaar beladen trailer omver te krijgen. Een onbeladen trailer heeft hier minder last van." />
 
+		<text name="mr_helpTitle_16" type="headline" text="Vereist vermogen" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Zoals ook in de realiteit is het vereiste vermogen slechts een aanbeveling. Dit betekend dus dat de aanbevolen hoeveelheid vermogen niet altijd voldoende is. " />
+		<text name="mr_helpText_16_02" type="paragraph" text="In veel gevallen kan de machine ook aangedreven worden met minder vermogen, maar wel op een lagere snelheid. Ben je van plan een machine te gebruiken in een heuvelachtige veld, zorg dan dat de tractor meer vermogen heeft dan is aanbevolen." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Sommige machines vereisen meer trekkracht (hier is (extra) ballast minstens net zo belangrijk als vermogen) en sommige machines hebben juist alleen motor vermogen nodig (PTO machines)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="De aangegeven hoeveelheid vermogen is vaak het maximale van de motor. Omdat sommige tractors een boost hebben kan het zijn dat deze zich anders gedragen dan andere tractors met evenveel vermogen, zowel in het spel als in het echt. Bijvoorbeeld: New Holland T6.160 en de Fendt 716. De Fendt 716 is veel effiecenter in het bewerken van een akker." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Houd bij het kopen van een tractor dus rekenen met zowel motor vermogen als de grootte van de tractor. Het kopen van een kleine tractor met veel vermogen is niet altijd de beste keus." />
+
 		<text name="mr_helpTitle_05" type="headline" text="Zaaien" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Bij het gebruik van de MR engine ligt de benodigde hoeveelheid zaad dicht bij de realiteit." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Dit betekend dat je je zaaimachine minder vaak hoeft bij te vullen vergeleken met het orginele spel. In sommige gevallen is het zelfs mogelijk dat er meerdere velden worden gezaaid zonder bij  te vullen, bijvoorbeeld bij het zaaien van koolzaad of suikerbieten." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Bij het direct zaaien kost het minder vermogen om dit op een bewerkt of geploegd veld te doen, dan wanneer je dit direct na de oogst op een onbewerkt veld doet." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Bij het direct zaaien kost het minder vermogen om dit op een bewerkt of geploegd veld te doen, dan wanneer je dit direct na de oogst op een onbewerkt veld doet.">
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
 		<text name="mr_helpText_05_04" type="caption" text="Afbeeldingen: voorbereide (bewerkt d.m.v. cultivator) grond (links), direct zaaien (rechts)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Kunstmest" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Alle machines omgezet naar MR hebben verbruiken kunstmest aan de hand van de rijsnelheid. Je hoeft dus niet meer de maximale snelheid te rijden om verlies van materiaal te voorkomen. Je kunt je eigen tempo hanteren." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Een zaaimachine met kunstmest-uitvoering zal over het algemeen minder kunstmest gebruiken dan wanneer dit apart wordt gedaan." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Kunstmest is één van de zwaarste producten in het spel. De dichtheid van droge kunstmest is 1.1 en voor vloeibare kunstmest zelfs 1.28!" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Kunstmest is één van de zwaarste producten in het spel. De dichtheid van droge kunstmest is 1.1 en voor vloeibare kunstmest zelfs 1.28!" >
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Oogsten" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Bij combines die zijn omgezet naar MR is de maximale snelheid waarmee geoogst kan worden afhankelijk van de dorscapaciteit, het vermogen van de motor, het gewas, de opbrengst en het maaibord." />
-		<text name="mr_helpText_07_02" type="paragraph" text="Zowel het hakselen van stro als het lossen tijdens het oogsten vragen extra vermogen." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Zowel het hakselen van stro als het lossen tijdens het oogsten vragen extra vermogen." >
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
 		<text name="mr_helpText_07_03" type="paragraph" text="Afbeeldingen: volle breedte (links), halve breedte (rechts)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Balen persen" />
-		<text name="mr_helpText_08_02" type="paragraph" text="Met MR brengen balen meer op dan los materiaal. Een kleine vierkante baal brengt het meest op, gevolgd door ronde balen en als laatst grote vierkante balen." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Met MR brengen balen meer op dan los materiaal. Een kleine vierkante baal brengt het meest op, gevolgd door ronde balen en als laatst grote vierkante balen." >
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Omgang met objecten" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Het standaard 'grijp gereedschap' zoals een balen grijper of een hout grijper maken nu gebruik van de 'MR claw' feature. Dit betekend dat zodra je de grijper volledig sluit, heb object dat wordt opgepakt wordt vastgezet zodat deze er niet spontaan uit valt." />
-		<text name="mr_helpText_09_02" type="paragraph" text="Dit is vooral handig wanneer men boomstammen of balen aan het laden is. Ook pallets kunnen opgepakt worden met een grijper." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Dit is vooral handig wanneer men boomstammen of balen aan het laden is. Ook pallets kunnen opgepakt worden met een grijper." >
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Bosbouw" />
 		<text name="mr_helpText_10_01" type="paragraph" text="Alle machines maken nu gebruik van het vermogen van de tractor. De drie houtversnipperaars zijn verbeterd zodat deze prettiger zijn om te gebruiken. Zelfs de kleine Heizomat is makkelijker te voorzien van hout." />
-		<text name="mr_helpText_10_02" type="paragraph" text="Met de MR claw feature is het nu ook makkelijker om stammen op een trailer of een forwarder te laden middels een kraan." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Met de MR claw feature is het nu ook makkelijker om stammen op een trailer of een forwarder te laden middels een kraan." >
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Natte grond" />
 		<text name="mr_helpText_11_01" type="paragraph" text="Bij het gebruik van MR speelt de natheid van de grond tijdens en na regen een grote rol. Afhankelijk van het type regen, de duur en de intensiteit kan het bewerken van akker onmogelijk zijn. Dit is met name merkbaar wanneer de grond omhoog loopt, of de tractor niet groot genoeg is voor de machine." />
-		<text name="mr_helpText_11_02" type="paragraph" text="Het kan even duren voordat de grond merkbaar verzadigd is met regenwater, maar uiteindelijk verliest het voertuig tractie (grip) en wordt de rolweerstand hoger." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Het kan even duren voordat de grond merkbaar verzadigd is met regenwater, maar uiteindelijk verliest het voertuig tractie (grip) en wordt de rolweerstand hoger." >
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
 		<text name="mr_helpText_11_03" type="caption" text="Afbeeldingen: 0% natheid (left), 70% natheid (rechts). Bewerkte akker, straat banden op de trailer, gewicht van voertuig is 26 ton." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Dichtheid, volume, massa" />
@@ -75,23 +90,18 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Ook de oprbrengst van missies is aangepast. Het verschil van opbrengst tussen missies en eigen landbouw is nu minder groot." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Prijzen" />
-		<text name="mr_helpText_14_01" type="paragraph" text="Met moreRealistic geactiveerd is het makkelijker om onderscheid te maken tussen de verschillende verkoop prijzen van gewassen, en is het eenvoudiger te herkennen of dit de juiste tijd is om je oogst te verkopen. Met MR is een groene prijs altijd beter dan een witte of een rode. Het is niet meer nodig om de hele tabel af te gaan voor de hoogste prijs." />
+		<text name="mr_helpText_14_01" type="paragraph" text="Met moreRealistic geactiveerd is het makkelijker om onderscheid te maken tussen de verschillende verkoop prijzen van gewassen, en is het eenvoudiger te herkennen of dit de juiste tijd is om je oogst te verkopen. Met MR is een groene prijs altijd beter dan een witte of een rode. Het is niet meer nodig om de hele tabel af te gaan voor de hoogste prijs." >
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Weergave" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Onder de informatie weergave van het voertuig (snelheid etc ... ) kun je nu ook twee andere waarden aflezen die van pas kunnen komen bij het spelen." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Onder de informatie weergave van het voertuig (snelheid etc ... ) kun je nu ook twee andere waarden aflezen die van pas kunnen komen bij het spelen." >
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="De gemiddelde slip kun je links aflezen. Dit is in een indicator voor de tractie (de grip van het voertuig op de grond) van het voertuig. Als je het verschil met of zonder ballast niet kunt merken, dan kun je het hier misschien aflezen. Normaal gesproken heeft een voertuig op wielen tussen de 8% en 15% slip." />
 		<text name="mr_helpText_15_03" type="paragraph" text="De waarde die rechts af te lezen is, is het gemiddelde brandstof verbruik." />
 		<text name="mr_helpText_15_04" type="paragraph" text="Je kunt beide waardes verplaatsen door de 'modifier key' in te houden (normaal is dit de rechter CTRL-knop) en met de muis de waardes te slepen." />
 		<text name="mr_helpText_15_05" type="paragraph" text="Met de rechter CTRL en numpad 7 kun je de weergave van de extra waarden aan en uit zetten. Heb je beperkt dataverkeer dan kun je hierop besparen door het uit te zetten!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="In multiplayer kan de host of de admin dit voor de server uitzetten door de rechter CTRL + numpad 8 te gebruiken. Heb je beperkt dataverkeer dan kun je hierop besparen door het uit te zetten!" />
 
-		<text name="mr_helpTitle_16" type="headline" text="Vereist vermogen" />
-		<text name="mr_helpText_16_01" type="paragraph" text="Zoals ook in de realiteit is het vereiste vermogen slechts een aanbeveling. Dit betekend dus dat de aanbevolen hoeveelheid vermogen niet altijd voldoende is. " />
-		<text name="mr_helpText_16_02" type="paragraph" text="In veel gevallen kan de machine ook aangedreven worden met minder vermogen, maar wel op een lagere snelheid. Ben je van plan een machine te gebruiken in een heuvelachtige veld, zorg dan dat de tractor meer vermogen heeft dan is aanbevolen." />
-		<text name="mr_helpText_16_03" type="paragraph" text="Sommige machines vereisen meer trekkracht (hier is (extra) ballast minstens net zo belangrijk als vermogen) en sommige machines hebben juist alleen motor vermogen nodig (PTO machines)." />
-		<text name="mr_helpText_16_04" type="paragraph" text="De aangegeven hoeveelheid vermogen is vaak het maximale van de motor. Omdat sommige tractors een boost hebben kan het zijn dat deze zich anders gedragen dan andere tractors met evenveel vermogen, zowel in het spel als in het echt. Bijvoorbeeld: New Holland T6.160 en de Fendt 716. De Fendt 716 is veel effiecenter in het bewerken van een akker." />
-		<text name="mr_helpText_16_05" type="paragraph" text="Houd bij het kopen van een tractor dus rekenen met zowel motor vermogen als de grootte van de tractor. Het kopen van een kleine tractor met veel vermogen is niet altijd de beste keus." />
-		
 		<text name="input_REALISTIC_GUI" text="MR interface activeren" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR interface netwerk aan/uit" />
 		<text name="input_REALISTIC_MOUSE" text="MR muis activeren" />

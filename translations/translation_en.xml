@@ -11,7 +11,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="Basically, the moreRealistic mod (MR) adds an enhanced physics engine that better simulates real life with almost all available pieces of equipment. This has a number of effects on the game." />
 		<text name="mr_helpText_01_02" type="paragraph" text="One of the most notable effects is the reduced ability of tractors to pull heavy trailers or implements. You will actually have to use tractors that have the proper horsepower requirements to pull various implements or trailers." />
 		<text name="mr_helpText_01_03" type="paragraph" text="In general, tractors will slow down when going uphill, speed up when going downhill, and take longer to accelerate when they are pulling a load." />
-		<text name="mr_helpText_01_04" type="paragraph" text="But there is more..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="But there is more...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Pictures: 1 and 2 = realistic physics, 3 = max speed not limited by the game engine." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Vehicles (1)" />
@@ -32,38 +33,52 @@
 		<text name="mr_helpText_04_03" type="paragraph" text="For some implements, there are other limits. Example: Balers do have a limited flow capacity. You can't pickup huge amounts of material in short time. It will also depend on the material you are picking up. Grass being harder to process than straw." />
 		<text name="mr_helpText_04_04" type="paragraph" text="MR vehicles are more sensitive to center of gravity (mass distribution). Even if it can be hard to tip over an empty trailer, it's pretty easy with a fully loaded one (especially when the cargo is heavy)." />
 
+		<text name="mr_helpTitle_16" type="headline" text="Power Requirement" />
+		<text name="mr_helpText_16_01" type="paragraph" text="As what we can found in real life, the power requirement displayed for each implement is a recommended power. A 200Hp value doesn't mean you will be able to pull the implement in any condition with any 200Hp tractors." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Most of the time, it will be possible to handle the implement with a less powerful tractor, but at a slower speed. Make sure to use a more powerful tractor if you are going to work in hilly fields though." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Even if this is not clearly stated, some implements require pulling force (ballasted tractor weight is as important as engine horsepower here) whereas others mostly rely on horsepower (PTO driven implements)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Tractors displayed horsepowers are most of the time 'max engine Hp possible'. Since some tractors can feature a boost, there can be quite a difference both in game and IRL between 2 tractors with the same Hp rating. Example : New Holland T6.160 and Fendt 716. The latter being more efficient in field work." />
+		<text name="mr_helpText_16_05" type="paragraph" text="So, when buying a new tractor, you have to think about the horsepower and also the size you need. Buying a small frame tractor with high horsepower is not necessarily the best choice." />
+
 		<text name="mr_helpTitle_05" type="headline" text="Seeding" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Please note that when playing MR, the seeds consumption will be similar to what we can expect in real life." />
 		<text name="mr_helpText_05_02" type="paragraph" text="It means you will not have to refill your seeder as often as with the base game. You can even sow multiple fields without refilling for some fruits like rapeseed or sugarbeet." />
-		<text name="mr_helpText_05_03" type="paragraph" text="When direct seeding, it will be easier to pull the seeder on already cultivated/ploughed land." />
-		<text name="mr_helpText_05_04" type="caption" text="Pictures: already cultivated ground (left), direct seeding (right)." />			
+		<text name="mr_helpText_05_03" type="paragraph" text="When direct seeding, it will be easier to pull the seeder on already cultivated/ploughed land." >
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
+		<text name="mr_helpText_05_04" type="caption" text="Pictures: already cultivated ground (left), direct seeding (right)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilising" />
 		<text name="mr_helpText_06_01" type="paragraph" text="All MR sprayers and spreaders feature speed dependant flowrate. It means you don't have to drive at full speed to not waste fertiliser. You can go at your own pace and take your time doing the job." />
 		<text name="mr_helpText_06_02" type="paragraph" text="When using a seeder featuring a fertilising unit, most of the time, the fertiliser quantity used will be smaller than by using other fertilising tools." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Fertiliser is one of the heaviest product in the game. Base density for bulk fertiliser is 1.1 and for liquid fertiliser, this is even greater at 1.28 !" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Fertiliser is one of the heaviest product in the game. Base density for bulk fertiliser is 1.1 and for liquid fertiliser, this is even greater at 1.28 !" >
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Harvesting" />
 		<text name="mr_helpText_07_01" type="paragraph" text="MR's combines max working speed depends on the combines threshing capacity, the engine power, the fruit, the yield and the cutter bar (header power consumption and width)." />
-		<text name="mr_helpText_07_02" type="paragraph" text="When chopping the straw, the power consumption is increased. Same as when unloading on the move." />
-		<text name="mr_helpText_07_03" type="caption" text="Pictures: full width (left), half width (right)." />	
+		<text name="mr_helpText_07_02" type="paragraph" text="When chopping the straw, the power consumption is increased. Same as when unloading on the move." >
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
+		<text name="mr_helpText_07_03" type="caption" text="Pictures: full width (left), half width (right)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Baling" />
 		<text name="mr_helpText_08_01" type="paragraph" text="With MR, baling is more rewarding than selling loose windrow material. A small square bale being the more rewarding, then round bales and then large square bales." />
-		<text name="mr_helpText_08_02" type="paragraph" text="Bales also have close to real life weight, which is dependant of the bale 'fillLevel' and its material. Example: It will be harder to pull a bale trailer full of hay bales compared to straw bales." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Bales also have close to real life weight, which is dependant of the bale 'fillLevel' and its material. Example: It will be harder to pull a bale trailer full of hay bales compared to straw bales." >
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Object handling" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Default 'grabbing' tools such as the log fork or bale grab, now have the 'MR claw' feature. This means that when you fully close the tool, the object being picked up is locked and will not release randomly." />
-		<text name="mr_helpText_09_02" type="paragraph" text="This is especially useful when trying to carefully place logs or bales in a trailer. You can also 'grab' pallets if you can't get good result with forks." />
+		<text name="mr_helpText_09_02" type="paragraph" text="This is especially useful when trying to carefully place logs or bales in a trailer. You can also 'grab' pallets if you can't get good result with forks." >
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Forestry" />
 		<text name="mr_helpText_10_01" type="paragraph" text="All tools really make use of tractors engines power. The three woodcrushers have been enhanced to be more enjoyable to use. Even the small Heizomat is now easy to feed." />
-		<text name="mr_helpText_10_02" type="paragraph" text="By using the 'MR claw' feature, it is also easier to handle logs with the crane on the log trailer and on the forwarder." />
+		<text name="mr_helpText_10_02" type="paragraph" text="By using the 'MR claw' feature, it is also easier to handle logs with the crane on the log trailer and on the forwarder." >
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Ground wetness" />
 		<text name="mr_helpText_11_01" type="paragraph" text="During and after a rain, the ground 'wetness' really matters when playing MR. Depending on the rain type, duration and intensity, it can become impossible to work in fields. Especially true when there are some slopes or your tractor is not oversized compared to the implement." />
-		<text name="mr_helpText_11_02" type="paragraph" text="It can also take some time for the wetness to build up, but eventually you will lose traction force and the rolling resistance will be increased." />
-		<text name="mr_helpText_11_03" type="caption" text="Pictures: 0% wetness (left), 70% wetness (right). Cultivated field, street tires on the trailer, 26T total vehicles mass." />	
+		<text name="mr_helpText_11_02" type="paragraph" text="It can also take some time for the wetness to build up, but eventually you will lose traction force and the rolling resistance will be increased." >
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
+		<text name="mr_helpText_11_03" type="caption" text="Pictures: 0% wetness (left), 70% wetness (right). Cultivated field, street tires on the trailer, 26T total vehicles mass." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Density, volume, mass" />
 		<text name="mr_helpText_12_01" type="paragraph" text="In the basic game, the weight of a filled trailer is not nearly realistic. Example: If you fill a 20 m3 (cubic metre) trailer with 20,000 liters of water, the mass of the filling should be 20 tons. In fact, you will get only 10 tons because the density of the filltypes are reduced up to 50% for playability reasons." />
@@ -76,26 +91,21 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Rewards have also been balanced so that it is not so clearly advantageous to do missions, rather than tend to your own farm." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Pricing board" />
-		<text name="mr_helpText_14_01" type="paragraph" text="With moreRealistic activated, the different colours in the sell prices board will better reflect if you should or should not sell your product. Green figures are now always better than white or red ones. No need to read the whole table to know if there are good prices for one of your crops." />
+		<text name="mr_helpText_14_01" type="paragraph" text="With moreRealistic activated, the different colours in the sell prices board will better reflect if you should or should not sell your product. Green figures are now always better than white or red ones. No need to read the whole table to know if there are good prices for one of your crops." >
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Display" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Below the vehicle display (speed etc ...) you can read two values that can be useful for your gameplay." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Below the vehicle display (speed etc ...) you can read two values that can be useful for your gameplay." >
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="The 'average slippage' on the left side shows you how good or bad the traction of your vehicle is. If you can't feel the impact of ballast maybe you can see it there. A wheeled tractor at work should be between 8 and 15% slippage." />
 		<text name="mr_helpText_15_03" type="paragraph" text="On the righthand side you can see the average fuel consumption per hour." />
 		<text name="mr_helpText_15_04" type="paragraph" text="You can move the display by holding down the modifier key (standard = right CTRL) and dragging it with your mouse." />
 		<text name="mr_helpText_15_05" type="paragraph" text="By pressing 'right CTRL + Keypad 7' you can turn the display on and off. If you have a limited network connection you can save traffic by turning it off!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="The Host or Admin can turn off the transfer of slippage and fuel data by pressing 'right CTRL + Keypad 8'. If you have a limited network connection you can save traffic by turning it off!" />
-		
-		<text name="mr_helpTitle_16" type="headline" text="Power Requirement" />
-		<text name="mr_helpText_16_01" type="paragraph" text="As what we can found in real life, the power requirement displayed for each implement is a recommended power. A 200Hp value doesn't mean you will be able to pull the implement in any condition with any 200Hp tractors." />
-		<text name="mr_helpText_16_02" type="paragraph" text="Most of the time, it will be possible to handle the implement with a less powerful tractor, but at a slower speed. Make sure to use a more powerful tractor if you are going to work in hilly fields though." />
-		<text name="mr_helpText_16_03" type="paragraph" text="Even if this is not clearly stated, some implements require pulling force (ballasted tractor weight is as important as engine horsepower here) whereas others mostly rely on horsepower (PTO driven implements)." />
-		<text name="mr_helpText_16_04" type="paragraph" text="Tractors displayed horsepowers are most of the time 'max engine Hp possible'. Since some tractors can feature a boost, there can be quite a difference both in game and IRL between 2 tractors with the same Hp rating. Example : New Holland T6.160 and Fendt 716. The latter being more efficient in field work." />
-		<text name="mr_helpText_16_05" type="paragraph" text="So, when buying a new tractor, you have to think about the horsepower and also the size you need. Buying a small frame tractor with high horsepower is not necessarily the best choice." />
-		
+
 		<text name="input_REALISTIC_GUI" text="MR GUI activate" />
-		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI network use ON/OFF" />		
-		<text name="input_REALISTIC_MOUSE" text="MR mouse activate" />	
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI network use ON/OFF" />
+		<text name="input_REALISTIC_MOUSE" text="MR mouse activate" />
 		<text name="REALISTIC_GUI_NETWORK_OFF" text="Data transfer disabled" />
 	</texts>
 </l10n>

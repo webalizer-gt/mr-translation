@@ -9,7 +9,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="W zasadzie, mod moreRealistic (MR) dodaje ulepszony silnik fizyki do gry, który lepiej symuluje rzeczywiste właściwości dla niemal każdego pojazdu, maszyny, narzędzia. Przekłada się to na wiele efektów w grze." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Jednym z najbardziej znaczących efektów jest zmniejszenie zdolności ciągników do ciągnięcia ciężkich przyczep lub maszyn. Będziesz musiał używać ciągników, które spełniają odpowiednie wymagania dotyczące mocy, aby pociągnąć różne maszyny lub przyczepy." />
 		<text name="mr_helpText_01_03" type="paragraph" text="Przyczepa pełna ziarna jest bardzo ciężka i wymaga dużej siły, aby ją pociągnąć. Jest to najbardziej widoczne, gdy chcesz wjechać z przyczepą pod górę. W takiej sytuacji ciągnik znacznie zwolni." />
-		<text name="mr_helpText_01_04" type="paragraph" text="A to dopiero początek..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="A to dopiero początek...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Zdjęcia: 1 i 2 = realistyczna fizyka, 3 = Prędkość nieograniczana silnikiem gry." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Pojazdy (1)" />
@@ -30,37 +31,51 @@
 		<text name="mr_helpText_04_03" type="paragraph" text="W przypadku niektórych maszyn/narzędzi istnieją inne ograniczenia. Przykład: Prasy bel mają ograniczoną przepustowość. W krótkim czasie nie można zebrać ogromnej ilości materiału. Zależy to również od typu materiału, który ma być zebrany: Trawa jest trudniejsza do przetworzenia niż słoma." />
 		<text name="mr_helpText_04_04" type="paragraph" text="Pojazdy MR szybciej reagują na środek ciężkości (rozkład masy). Nawet jeśli trudno jest wywrócić pustą przyczepę, to jest to dość łatwe w przypadku załadowanej do pełna (zwłaszcza, jeśli ładunek jest ciężki)." />
 
+		<text name="mr_helpTitle_16" type="headline" text="Zapotrzebowanie na moc" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Tak jak w rzeczywistości, zapotrzebowanie na moc dla danych maszyn i narzędzi jest jedynie zalecanym. Wyświetlana wartość np. 200KM, nie oznacza że możesz i musisz ciągnąć daną maszynę lub narzędzie tylko i wyłącznie ciągnikiem o mocy 200KM." />
+		<text name="mr_helpText_16_02" type="paragraph" text="W zasadzie powinna być możliwość pracy z maszyną lub narzędziem, słabszym ciągnikiem, ale z małą prędkością. Na pagórkowatym terenie powinieneś jednak używać silniejszego ciągnika." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Chociaż nie jest to wyraźnie wymienione, niektóre maszyny/narzędzia wymagają dużej siły pociągowej (masa ciągnika + dodatkowe obciążenie, jest równie ważna jak moc silnika), podczas gdy inne wymagają jedynie odpowiedniej ilości przekazanej mocy (poprzez WOM)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Moc podawana dla danego pojazdu, zazwyczaj dotyczy maksymalnej mocy osiąganej przez silnik. Niektóre ciągniki mogą posiadać funkcję doładowania, więc możliwe będzie zaobserwowanie różnicy między dwoma ciągnikami z tą samą mocą, w grze jak i w rzeczywistości. Przykład: New Holland T6.160 i Fendt 716. Ten drugi jest bardziej wydajny w pracy terenowej." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Przy zakupie nowego ciągnika należy pomyśleć o odpowiedniej mocy, ale także o wielkości. Zakup małego ciągnika o dużej mocy niekoniecznie jest najlepszym wyborem." />
+
 		<text name="mr_helpTitle_05" type="headline" text="Siew" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Podczas grania z MR zużycie nasion jest podobne do rzeczywistego." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Oznacza to, że siewnik nie musi być napełniany tak często, jak w podstawowej grze. Nasionami rzepaku lub buraka cukrowego, możesz obsiać kilka pól bez konieczności napełniania." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Siewnik łatwiej jest ciągnąć, gdy pole jest już zaorane lub zakultywatorowane." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Siewnik łatwiej jest ciągnąć, gdy pole jest już zaorane lub zakultywatorowane." >
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
 		<text name="mr_helpText_05_04" type="caption" text="Zdjęcia: zakultywatorowana gleba (po lewej), siew bezpośredni (po prawej)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Nawożenie" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Wszystkie opryskiwacze, rozsiewacze i rozrzutniki MR, mają szybkość rozładunku zależną od prędkości jazdy. Oznacza to, że nie musisz jeździć z pełną prędkością, aby nie marnować nawozu. Możesz jechać w dowolnym tempie i poświęcić więcej czasu wykonywanej pracy." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Używając siewników z funkcją nawożenia, w większości przypadków, zużycie nawozu będzie mniejsze niż w innych maszynach do nawożenia." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Nawóz jest jednym z najcięższych towarów w grze. Gęstość nawozów mineralnych wynosi 1,1, a nawozów płynnych nawet 1,28!" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Nawóz jest jednym z najcięższych towarów w grze. Gęstość nawozów mineralnych wynosi 1,1, a nawozów płynnych nawet 1,28!" >
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Żniwa" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Maksymalna prędkość robocza kombajnów MR jest zależna od pojemności czyszczącej, mocy silnika, rodzaju uprawy, plonu i hederu (zapotrzebowanie mocy i szerokość)." />
-		<text name="mr_helpText_07_02" type="paragraph" text="Załączona sieczkarnia słomy jak i wyładunek ziarna zwiększają zużycie mocy." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Załączona sieczkarnia słomy jak i wyładunek ziarna zwiększają zużycie mocy." >
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
 		<text name="mr_helpText_07_03" type="caption" text="Zdjęcia: cała szerokość robocza (po lewej), połowa szerokości roboczej (po prawej)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Prasowanie" />
 		<text name="mr_helpText_08_01" type="paragraph" text="Z MR, sprzedaż bel jest bardziej opłacalna niż sprzedaż luźnego materiału. Najbardziej opłacalne są małe prostokątne bele (tzw. kostka), następnie bele okrągłe, a potem duże prostokątne bele." />
-		<text name="mr_helpText_08_02" type="paragraph" text="Bele również mają wagę bardziej rzeczywistą, która jest zależna od 'poziomu wypełnienia' beli i typu materiału. Przykład: Trudniej będzie pociągnąć przyczepę pełną bel siana niż bel słomy." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Bele również mają wagę bardziej rzeczywistą, która jest zależna od 'poziomu wypełnienia' beli i typu materiału. Przykład: Trudniej będzie pociągnąć przyczepę pełną bel siana niż bel słomy." >
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Przenoszenie obiektów" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Domyślne narzędzia chwytakowe, takie jak chwytak kłód lub beli, mają teraz funkcję 'blokady MR'. Oznacza to, że po całkowitym zamknięciu narzędzia, obiekt, który jest podnoszony, jest zablokowany i nie wypadnie z niego." />
-		<text name="mr_helpText_09_02" type="paragraph" text="Jest to szczególnie użyteczne przy starannym układaniu kłód lub beli na przyczepie. Możesz też 'złapać' palety, jeśli męczy cię przenoszenie ich za pomocą wideł." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Jest to szczególnie użyteczne przy starannym układaniu kłód lub beli na przyczepie. Możesz też 'złapać' palety, jeśli męczy cię przenoszenie ich za pomocą wideł." >
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Leśnictwo" />
 		<text name="mr_helpText_10_01" type="paragraph" text="Wszystkie narzędzia potrzebują teraz naprawdę moc ciągnika. Obsługa trzech rębaków drewna została znacznie usprawniona. Nawet mały Heizomat jest łatwy do 'karmienia'." />
-		<text name="mr_helpText_10_02" type="paragraph" text="Dzięki zastosowaniu funkcji 'blokady MR' łatwiej jest przenosić kłody HDS-em przyczepy leśnej czy też forwardera." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Dzięki zastosowaniu funkcji 'blokady MR' łatwiej jest przenosić kłody HDS-em przyczepy leśnej czy też forwardera." >
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Wilgotność gleby" />
 		<text name="mr_helpText_11_01" type="paragraph" text="W trakcie i po deszczu, wilgotność gleby ma duże znaczenie podczas gry z MR. W zależności od rodzaju deszczu, czasu trwania i intensywności, praca na polach może być trudna lub niemożliwa. Szczególnie wtedy, gdy teren jest pagórkowaty lub ciągnik nie jest odpowiednio duży w porównaniu do maszyny." />
-		<text name="mr_helpText_11_02" type="paragraph" text="Może minąć trochę czasu, zanim wilgotność gleby wzrośnie, ale w końcu stracisz przyczepność, a opór toczenia wzrośnie." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Może minąć trochę czasu, zanim wilgotność gleby wzrośnie, ale w końcu stracisz przyczepność, a opór toczenia wzrośnie." >
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
 		<text name="mr_helpText_11_03" type="caption" text="Zdjęcia: 0% wilgotności (po lewej), 70% wilgotności (po prawej). Uprawione pole, drogowe opony w przyczepie, całkowity ciężar 26t." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Gęstość, objętość, masa" />
@@ -74,10 +89,12 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Wynagrodzenie również zostało zbilansowane tak, że bardziej opłaca się częściej prowadzić własne gospodarstwo niż wykonywać misje." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Cennik" />
-		<text name="mr_helpText_14_01" type="paragraph" text="MR ułatwia sprawdzenie czy warto sprzedawać dany produkt. Zielony kolor oznacza najkorzystniejszą ofertę, czerwony najgorszą."/>
+		<text name="mr_helpText_14_01" type="paragraph" text="MR ułatwia sprawdzenie czy warto sprzedawać dany produkt. Zielony kolor oznacza najkorzystniejszą ofertę, czerwony najgorszą.">
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Dodatkowy HUD" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Pod HUDem pojazdu (prędkość, paliwo, itd.) możesz dostrzec dwie wartości, które mogą być użyteczne podczas rozgrywki." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Pod HUDem pojazdu (prędkość, paliwo, itd.) możesz dostrzec dwie wartości, które mogą być użyteczne podczas rozgrywki." >
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="Po lewej widoczny jest średni poślizg kół, pokazuje on jak dobra lub zła jest przyczepność pojazdu. Jeśli nie odczuwasz wpływu dodatkowych obciążników, możesz zobaczyć to w tym miejscu. Dla ciągnika z normalnymi oponami, podczas pracy, wartość powinna wynosić od 8 do 15%." />
 		<text name="mr_helpText_15_03" type="paragraph" text="Po prawej widoczne jest średnie zużycie paliwa na godzinę." />
 		<text name="mr_helpText_15_04" type="paragraph" text="HUD możesz dowolnie przesuwać, przytrzymując klawisz modyfikatora (domyślnie = Prawy CTRL), klikając na ikonę ręki, która się pojawiła i przeciągając myszkę w dowolne miejsce. Ponowne kliknięcie LPM puszcza HUD w miejscu przez ciebie wybranym." />
@@ -85,17 +102,10 @@
 		<text name="mr_helpText_15_06" type="paragraph" text="Host lub admin może wyłączyć przesyłanie danych poślizgu i spalania poprzez wciśnięcie 'Prawy CTRL i Num 8'.
 	!!UWAGA!!
 	Jeśli masz limitowane połączenie z siecią, wyłączając go, możesz oszczędzić transfer!" />
-		
-		<text name="mr_helpTitle_16" type="headline" text="Zapotrzebowanie na moc" />
-		<text name="mr_helpText_16_01" type="paragraph" text="Tak jak w rzeczywistości, zapotrzebowanie na moc dla danych maszyn i narzędzi jest jedynie zalecanym. Wyświetlana wartość np. 200KM, nie oznacza że możesz i musisz ciągnąć daną maszynę lub narzędzie tylko i wyłącznie ciągnikiem o mocy 200KM." />
-		<text name="mr_helpText_16_02" type="paragraph" text="W zasadzie powinna być możliwość pracy z maszyną lub narzędziem, słabszym ciągnikiem, ale z małą prędkością. Na pagórkowatym terenie powinieneś jednak używać silniejszego ciągnika." />
-		<text name="mr_helpText_16_03" type="paragraph" text="Chociaż nie jest to wyraźnie wymienione, niektóre maszyny/narzędzia wymagają dużej siły pociągowej (masa ciągnika + dodatkowe obciążenie, jest równie ważna jak moc silnika), podczas gdy inne wymagają jedynie odpowiedniej ilości przekazanej mocy (poprzez WOM)." />
-		<text name="mr_helpText_16_04" type="paragraph" text="Moc podawana dla danego pojazdu, zazwyczaj dotyczy maksymalnej mocy osiąganej przez silnik. Niektóre ciągniki mogą posiadać funkcję doładowania, więc możliwe będzie zaobserwowanie różnicy między dwoma ciągnikami z tą samą mocą, w grze jak i w rzeczywistości. Przykład: New Holland T6.160 i Fendt 716. Ten drugi jest bardziej wydajny w pracy terenowej." />
-		<text name="mr_helpText_16_05" type="paragraph" text="Przy zakupie nowego ciągnika należy pomyśleć o odpowiedniej mocy, ale także o wielkości. Zakup małego ciągnika o dużej mocy niekoniecznie jest najlepszym wyborem." />
-		
+
 		<text name="input_REALISTIC_GUI" text="MR: Pokaż/Ukryj HUD" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR: Włącz/Wyłącz przesyłanie danych" />
-		<text name="input_REALISTIC_MOUSE" text="MR: Pokaż kursor myszy" />	
+		<text name="input_REALISTIC_MOUSE" text="MR: Pokaż kursor myszy" />
 		<text name="REALISTIC_GUI_NETWORK_OFF" text="Przesyłanie danych wyłączone!" />
 	</texts>
 </l10n>

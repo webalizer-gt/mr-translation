@@ -11,7 +11,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="Jednoduše, moreRealistic mod (MR) přidává vylepšenou fyziku základu hry, která lépe simuluje realistické chování se skoro vším dostupným vybavením. Toto způsobuje několik změn ve hře." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Jedna z nejvíce pocítitelných změn je snížená schopnost traktorem tahat těžké vleky nebo příslušenství. Opravdu už budete potřebovat traktory, které mají dostatečný výkon, aby byly schopné pracovat s různým příslušenstvím a nebo vleky." />
 		<text name="mr_helpText_01_03" type="paragraph" text="Všeobecně, traktory zpomalí pokud pojedete do kopce, zrychlí pokud pojedete z kopce a budou mít delší rozjezd, pokud budou táhnout náklad." />
-		<text name="mr_helpText_01_04" type="paragraph" text="Ale tohle není všechno..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Ale tohle není všechno...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Obrázky: 1 a 2 = realistická fyzika, 3 = maximální rychlost není limitována hrou." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Vozidla (1)" />
@@ -32,38 +33,52 @@
 		<text name="mr_helpText_04_03" type="paragraph" text="Pro některé příslušenství jsou i jiné omezení. Příklad: Balíkovač mají omezený průtok. Nemůžete sbírat obrovské množství materiálu v krátkém čase. Také to bude záležet na materiálu, který sbíráte. Tráva je náročnější na zpracování než sláma." />
 		<text name="mr_helpText_04_04" type="paragraph" text="MR vozidla jsou více citlivá na těžiště (rozložení váhy). I když to může být těžké převrátit prázdný vlek, je to velmi jednoduché s plně naloženým (zvlášť pokud je náklad těžký)." />
 
+		<text name="mr_helpTitle_16" type="headline" text="Potřebný výkon" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Stejně jako v obyčejném životě, potřebný výkon pro každé příslušenství je doporučený výkon. Hodnota 200HP neznamená, že budete schopni táhnout příslušenství v jakýkoliv podmínkách s 200HP traktorem." />
+		<text name="mr_helpText_16_02" type="paragraph" text="Většinu času budete schopni používat příslušenství s méně výkonným traktorem, ale na nižších rychlostech. Ujistěte se, abyste použíly výkonný traktor pokud budete pracovat v kopcovitém terénu." />
+		<text name="mr_helpText_16_03" type="paragraph" text="I když to není přesně stanoveno, některé příslušenství potřebují tažnou sílu (zde je závaží na traktoru stejně důležité jako výkon motoru) zatímco jiné většinou záleží na výkonu (příslušenství s připojeným kardanem)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="Hodnota výkonu zobrazená u traktorů je většinou 'maximální možný výkon motoru'. Jenomže některé traktory mohou použít zvýšení, může tam být celkem velký rozdíl jak ve hře tak v běžném světě mezi dvěma traktory se stejným výkonem. Například: New Holland T.160 a Fendt 716. Poslední je více efektivní pro práci na poli." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Takže, když kupujete nový traktor, musíte přemýšlet o výkonu a také o velikosti, kterou potřebujete. Koupí malého traktoru s velkým výkonem není vždycky nejlepší volba." />
+
 		<text name="mr_helpTitle_05" type="headline" text="Setí" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Prosím vezměte na vědomí, že při hraní s MR bude spotřeba osiva podobná tomu, co můžeme čekat v běžném životě." />
 		<text name="mr_helpText_05_02" type="paragraph" text="To znamená, že nebudete muset plnit vaši sečku tak často jako v základní hře. Můžete dokonce osít několik polí bez doplnění pro některé plodiny, třeba řepka nebo cukrová řepa." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Pro přímé setí bude mnohem jednodušší táhnout sečku po již zkultivovaném/pooraném poli." />		
-		<text name="mr_helpText_05_04" type="caption" text="Obrázky: již zkultivované pole (vlevo), přímé setí (vpravo)." />			
+		<text name="mr_helpText_05_03" type="paragraph" text="Pro přímé setí bude mnohem jednodušší táhnout sečku po již zkultivovaném/pooraném poli.">
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
+		<text name="mr_helpText_05_04" type="caption" text="Obrázky: již zkultivované pole (vlevo), přímé setí (vpravo)." />
 
 		<text name="mr_helpTitle_06" type="headline" text="Hnojení" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Všechny MR postřikovače a rozmetadla závisí na rychlosti použití. To znamená, že nemusíte jet na plnou rychlost abyste neplýtvali hnojivo. Můžete jet vlastním tempem a strávit více času na této práci." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Při použití secího stroje s přihnojováním, bude spotřeba hnojiva menší než při použití rozmetadel." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Hnojivo je jeden z nejtěžších produktů ve hře. Základní hustota tuhého hnojiva je 1.1 a pro tekuté hnojivo je dokonce vyšší a to 1.28 !" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Hnojivo je jeden z nejtěžších produktů ve hře. Základní hustota tuhého hnojiva je 1.1 a pro tekuté hnojivo je dokonce vyšší a to 1.28 !" >
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Sklízení" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Pracovní rychlost MR kombajnu záleží na výkonu motoru, plodině, výtěžnosti a také na liště (spotřeba výkonu pro lištu)." />
-		<text name="mr_helpText_07_02" type="paragraph" text="Pokud budete drtit slámu, spotřeba výkonu se zvýší. To samé platí i pro vykládání za jízdy." />
-		<text name="mr_helpText_07_03" type="caption" text="Obrázky: plná šířka (vlevo), poloviční šířka (vpravo)." />	
+		<text name="mr_helpText_07_02" type="paragraph" text="Pokud budete drtit slámu, spotřeba výkonu se zvýší. To samé platí i pro vykládání za jízdy." >
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
+		<text name="mr_helpText_07_03" type="caption" text="Obrázky: plná šířka (vlevo), poloviční šířka (vpravo)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Lisování" />
 		<text name="mr_helpText_08_01" type="paragraph" text="S MR je lisování více výdělečné než prodávání volně loženého materiálu. Malý hranatý balík je nejméně výdělečný balík, potom je kulatý balík a nejvíce výdělečný je velký hranatý balík." />
-		<text name="mr_helpText_08_02" type="paragraph" text="Balíky mají také více realistickou váhu, která je závislá na 'úrovni naplnění' a jeho materiálu. Příklad: Bude těžší tahat vlek plný balíků sena než balíků slámy." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Balíky mají také více realistickou váhu, která je závislá na 'úrovni naplnění' a jeho materiálu. Příklad: Bude těžší tahat vlek plný balíků sena než balíků slámy." >
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Přesun objektů" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Původní 'úchytové' nástroje jako vidle na klády nebo vidle na balíky nyní mají 'MR dráp' funkci. To znamená, že pokud jsou úplně u nářadí, objekt se při zvedání uzamkne a nebude se náhodně pohybovat." />
-		<text name="mr_helpText_09_02" type="paragraph" text="Tohle se hlavně hodí pokud se snažíte umístit klády nebo balíky na vlek. Můžete také 'uchytit' palety pokud neuspějete s vidlemi." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Tohle se hlavně hodí pokud se snažíte umístit klády nebo balíky na vlek. Můžete také 'uchytit' palety pokud neuspějete s vidlemi." >
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Lesnictví" />
 		<text name="mr_helpText_10_01" type="paragraph" text="Všechny nástroje opravdu využijí výkonu traktoru. Štěpkovače byly upraveny aby byly více zábavné. I malý Heizomat je lehký pro použití." />
-		<text name="mr_helpText_10_02" type="paragraph" text="Při použití 'MR dráp' funkce je také jednodušší přemisťovat klády s jeřábem na vleku pro klády a na překladači." />
-		
+		<text name="mr_helpText_10_02" type="paragraph" text="Při použití 'MR dráp' funkce je také jednodušší přemisťovat klády s jeřábem na vleku pro klády a na překladači." >
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
+
 		<text name="mr_helpTitle_11" type="headline" text="Vlhkost země" />
 		<text name="mr_helpText_11_01" type="paragraph" text="Při a po dešti je 'vlhokost' země opravdu důležitá když hrajete s MR. V závislosti na typu deště, délce a intenzitě, se může stát nemožné pracovat na poli. Právě když je na poli nějaký svah a nebo když není traktor velikostně srovnatelný s příslušenstvím." />
-		<text name="mr_helpText_11_02" type="paragraph" text="Může to také nějakou dobu trvat, než se vlhkost objeví, ale nakonec ztratíte trakční sílu a valivý odpor se zvýší." />
-		<text name="mr_helpText_11_03" type="caption" text="Obrázky: 0% vlhkost (vlevo), 70% vlhkost (vpravo). Kultivované pole, silniční pneumatiky na vleku, 26 tun celková váha." />	
+		<text name="mr_helpText_11_02" type="paragraph" text="Může to také nějakou dobu trvat, než se vlhkost objeví, ale nakonec ztratíte trakční sílu a valivý odpor se zvýší." >
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
+		<text name="mr_helpText_11_03" type="caption" text="Obrázky: 0% vlhkost (vlevo), 70% vlhkost (vpravo). Kultivované pole, silniční pneumatiky na vleku, 26 tun celková váha." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Hustota, objem, váha" />
 		<text name="mr_helpText_12_01" type="paragraph" text="V základní hře váha naplněného vleku není úplně realistická. Příklad: Pokud naplníte 20 m3 (metrů krychlových [kubických]) vlek s 20 000 litry vody, váha nákladu by měla být 20 tun. Ve skutečnosti ale dostanete pouze 10 tun protože hustoty plodin jsou redukovány na 50% z důvodů hratelnosti." />
@@ -76,26 +91,21 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Odměny byly také vyrovnány, takže už není tak výhodné plnit mise oproti starání se o svoji vlastní farmu." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Výkupní ceny" />
-		<text name="mr_helpText_14_01" type="paragraph" text="S aktivovaným moreRealistic značí různé barvy v obchodě zda-li byste měli nebo neměli prodat produkt. Zelená barva je vždycky lepší než bílá nebo červená. Nikdo tedy nemusí číst celou tabuly cen, aby veděl, zda-li tam jsou nějaké dobré ceny pro vaše produkty." />
+		<text name="mr_helpText_14_01" type="paragraph" text="S aktivovaným moreRealistic značí různé barvy v obchodě zda-li byste měli nebo neměli prodat produkt. Zelená barva je vždycky lepší než bílá nebo červená. Nikdo tedy nemusí číst celou tabuly cen, aby veděl, zda-li tam jsou nějaké dobré ceny pro vaše produkty." >
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Obrazovka" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Pod ukazatelem vozidla (rychlost atd ...) můžete také najít dvě hodnoty, které můžou být užitečné pro vaše hraní." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Pod ukazatelem vozidla (rychlost atd ...) můžete také najít dvě hodnoty, které můžou být užitečné pro vaše hraní." >
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="Průměrné 'proklouznutí' na levé straně ukazuje jak moc dobrá nebo špatná je trakce vozidla. Pokud nemůžete poznat sílu závaží, možná to můžete vidět tam. Kolový traktor při práci by měl být mezi 8 a 15% prokluzu. "/>
 		<text name="mr_helpText_15_03" type="paragraph" text="Na pravé straně můžete vidět průměrnou spotřebu paliva za hodinu." />
 		<text name="mr_helpText_15_04" type="paragraph" text="Můžete posunout obrazovku držením určené klávesy (standartně = pravé CTRL) a tažením myši." />
 		<text name="mr_helpText_15_05" type="paragraph" text="Po stisknustí 'pravý CTRL + Numpad 7' můžete zapnout a vypnout obrazovku. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
 		<text name="mr_helpText_15_06" type="paragraph" text="Hostitel hry nebo admin může vypnout přenost prokluzování a spotřeby palivy stisknutím 'pravý CTRL + Numpad 8'. Pokud máte omezené internetové připojení, můžete ušetřit přenost jejím vypnutím!" />
-		
-		<text name="mr_helpTitle_16" type="headline" text="Potřebný výkon" />
-		<text name="mr_helpText_16_01" type="paragraph" text="Stejně jako v obyčejném životě, potřebný výkon pro každé příslušenství je doporučený výkon. Hodnota 200HP neznamená, že budete schopni táhnout příslušenství v jakýkoliv podmínkách s 200HP traktorem." />
-		<text name="mr_helpText_16_02" type="paragraph" text="Většinu času budete schopni používat příslušenství s méně výkonným traktorem, ale na nižších rychlostech. Ujistěte se, abyste použíly výkonný traktor pokud budete pracovat v kopcovitém terénu." />
-		<text name="mr_helpText_16_03" type="paragraph" text="I když to není přesně stanoveno, některé příslušenství potřebují tažnou sílu (zde je závaží na traktoru stejně důležité jako výkon motoru) zatímco jiné většinou záleží na výkonu (příslušenství s připojeným kardanem)." />
-		<text name="mr_helpText_16_04" type="paragraph" text="Hodnota výkonu zobrazená u traktorů je většinou 'maximální možný výkon motoru'. Jenomže některé traktory mohou použít zvýšení, může tam být celkem velký rozdíl jak ve hře tak v běžném světě mezi dvěma traktory se stejným výkonem. Například: New Holland T.160 a Fendt 716. Poslední je více efektivní pro práci na poli." />
-		<text name="mr_helpText_16_05" type="paragraph" text="Takže, když kupujete nový traktor, musíte přemýšlet o výkonu a také o velikosti, kterou potřebujete. Koupí malého traktoru s velkým výkonem není vždycky nejlepší volba." />
-		
+
 		<text name="input_REALISTIC_GUI" text="MR aktivovat GUI" />
 		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI přenos dat ON/OFF" />
-		<text name="input_REALISTIC_MOUSE" text="MR aktivovat myš" />	
+		<text name="input_REALISTIC_MOUSE" text="MR aktivovat myš" />
 		<text name="REALISTIC_GUI_NETWORK_OFF" text="Přenos dat je zakázán!" />
 	</texts>
 </l10n>

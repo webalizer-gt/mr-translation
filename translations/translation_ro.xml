@@ -11,7 +11,8 @@
 		<text name="mr_helpText_01_01" type="paragraph" text="Practic, modul moreRealistic (MR) adaugă o fizică îmbunătățită jocului, simulând mai bine realitatea. Acesta are mai multe efecte." />
 		<text name="mr_helpText_01_02" type="paragraph" text="Unul dintre cele mai notabile efecte este reducerea capacitații vehiculelor de a tracta remorci sau utilaje grele. Veți fi nevoiți să folosiți tractoare cu puterea și greutatea potrivite pentru a tracta respectivele echipamente sau remorci." />
 		<text name="mr_helpText_01_03" type="paragraph" text="În general vehiculele vor încetini la deal, vor accelera la vale iar la tractare va dura mai mult timp până să atingă viteza dorită." />
-		<text name="mr_helpText_01_04" type="paragraph" text="Dar asta nu e tot..." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Dar asta nu e tot...">
+		<item type="image" value="img_01_01" /></text>
 		<text name="mr_helpText_01_05" type="caption" text="Imagini: 1 și 2 = fizică ralistă, 3 = viteza maximă nu mai este limitată de către joc." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Vehicule (1)" />
@@ -35,35 +36,42 @@
 		<text name="mr_helpTitle_05" type="headline" text="Însămânțarea" />
 		<text name="mr_helpText_05_01" type="paragraph" text="Rețineți că folosind modul MR consumul de semințe va fi similar cu cel din realitate." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Aceasta înseamnă că nu veți fi nevoiți să reîncărcați semănătoarea la fel de des ca in cazul jocului original.  Veți putea însămânța mai multe câmpuri fără reumplere, mai ales in cazul rapiței sau a sfeclei de zahăr." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Semănătoarele directe vor fi mai ușor de tractat pe un teren care a fost pregătit deja (scarificare, arare, discuire, etc.)." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Semănătoarele directe vor fi mai ușor de tractat pe un teren care a fost pregătit deja (scarificare, arare, discuire, etc.)." >
+		<item type="image" value="img_05_01" heightScale="1" /> </text>
 		<text name="mr_helpText_05_04" type="caption" text="Imagini: sol pregătit in prealabil (stânga), semănare directă (dreapta)." />
 
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilizarea" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Toate pulverizatoarele și distribuitoarele MR au fluxul dependent de viteză. În consecință nu va mai trebui să vă grăbiți să atingeți viteza maximă pentru a nu risipi îngrășământul. Veți putea folosi viteza preferată." />
 		<text name="mr_helpText_06_02" type="paragraph" text="Când folosiți o semănătoare care și fertilizează, în cele mai multe cazuri consumul de îngrășământ va fi mai mic decât la fertilizatoarelor obișnuite." />
-		<text name="mr_helpText_06_03" type="paragraph" text="Fertilizatorul este unul dintre cele mai grele materiale din joc. Fertilizatorul solid are densitatea 1,1 kg/L iar cel lichid 1,28 kg/L !" />
+		<text name="mr_helpText_06_03" type="paragraph" text="Fertilizatorul este unul dintre cele mai grele materiale din joc. Fertilizatorul solid are densitatea 1,1 kg/L iar cel lichid 1,28 kg/L !" >
+		<item type="image" value="img_06_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Recoltarea" />
 		<text name="mr_helpText_07_01" type="paragraph" text="Viteza maximă a combinelor MR depinde de capacitatea de treierare, de puterea motorului, de tipul și randamentul recoltei și de  capul tăietor (puterea consumată și lățimea)." />
-		<text name="mr_helpText_07_02" type="paragraph" text="La mărunțirea paielor puterea consumată crește. La fel și când se descarcă în timpul mersului." />
+		<text name="mr_helpText_07_02" type="paragraph" text="La mărunțirea paielor puterea consumată crește. La fel și când se descarcă în timpul mersului." >
+		<item type="image" value="img_07_01" heightScale="1" /> </text>
 		<text name="mr_helpText_07_03" type="caption" text="Imagini: toată lățimea (stânga), jumătate din lățime (dreapta)." />
 
 		<text name="mr_helpTitle_08" type="headline" text="Balotarea" />
 		<text name="mr_helpText_08_01" type="paragraph" text="Folosind MR utilizarea baloților este mai eficientă economic decât vânzarea materialului vrac. Cei mai profitabili sunt baloții dreptunghiulari mici, apoi cei rotunzi și apoi cei dreptunghiulari mari." />
-		<text name="mr_helpText_08_02" type="paragraph" text="Baloții de asemenea au o greutate apropiată de cea reală și care depinde de volumul balotului și tipul materialului. Exemplu: va fi mai greu de tractat o remorcă plină cu baloți de fân față una cu paie." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Baloții de asemenea au o greutate apropiată de cea reală și care depinde de volumul balotului și tipul materialului. Exemplu: va fi mai greu de tractat o remorcă plină cu baloți de fân față una cu paie." >
+		<item type="image" value="img_08_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_09" type="headline" text="Manevrarea obiectelor" />
 		<text name="mr_helpText_09_01" type="paragraph" text="Uneltele „de apucat” originale, cum ar fi cleștele pentru bușteni sau brațele pentru baloți, au acum proprietatea 'MR claw'. Cu ajutorul acesteia, atunci când închideți unealta, obiectul apucat este fixat și nu se va desprinde la întâmplare." />
-		<text name="mr_helpText_09_02" type="paragraph" text="Acest lucru este util în special atunci când încercați să așezați cu precizie bușteni sau baloți pe o remorcă. Puteți de asemenea “apuca” și paleți dacă nu vă descurcați cu furca (lama) pentru paleți." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Acest lucru este util în special atunci când încercați să așezați cu precizie bușteni sau baloți pe o remorcă. Puteți de asemenea “apuca” și paleți dacă nu vă descurcați cu furca (lama) pentru paleți." >
+		<item type="image" value="img_09_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_10" type="headline" text="Silvicultură" />
 		<text name="mr_helpText_10_01" type="paragraph" text="Utilajele forestiere folosesc acum cu adevărat puterea tractoarelor.  Cele trei concasoare pentru lemn au fost îmbunătățite pentru a fi mai confortabil de folosit. Până și micul Heziomat este acum ușor de alimnetat cu lemn." />
-		<text name="mr_helpText_10_02" type="paragraph" text="Folosind funcția 'MR claw', este de asemenea mai ușor să manevrați buștenii cu macaraua." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Folosind funcția 'MR claw', este de asemenea mai ușor să manevrați buștenii cu macaraua." >
+		<item type="image" value="img_10_01" heightScale="1" /> </text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Umiditatea solului" />
 		<text name="mr_helpText_11_01" type="paragraph" text="Umiditatea pământului este acum foarte importantă, în timpul sau în urma unei ploi. În funcție de tipul, durata și intensitatea ploii, poate deveni acum imposibil să lucrați în câmp, în special pe teren înclinat sau când tractorul este la limita puterii sau gabaritului pentru echipamentul folosit." />
-		<text name="mr_helpText_11_02" type="paragraph" text="Poate dura ceva timp până se va acumula umiditate în sol, dar la un moment dat veți pierde din tracțiune iar rezistența la rulare va crește." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Poate dura ceva timp până se va acumula umiditate în sol, dar la un moment dat veți pierde din tracțiune iar rezistența la rulare va crește." >
+		<item type="image" value="img_11_01" heightScale="1" /> </text>
 		<text name="mr_helpText_11_03" type="caption" text="Imagini: 0% umiditate (stânga), 70% umiditate (dreapta). Sol pregătit, cauciucuri de asfalt la remorcă, 26T masa totală a vehiculelor." />
 
 		<text name="mr_helpTitle_12" type="headline" text="Densități, volume, mase" />
@@ -77,10 +85,12 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Câștigul a fost și el echilibrat astfel încât misiunile nu mai sunt acum atât de avantajoase față de lucratul propriului pământ." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Tabelul prețurilor" />
-		<text name="mr_helpText_14_01" type="paragraph" text="Folosind modul moreRealistic, diferitele culori ale prețurilor vă vor indica mult mai bine dacă ar trebui sau nu să vă vindeți produsele. Cele mai bune prețuri sunt întotdeauna marcate cu verde. Nu mai este nevoie să citiți tot tabelul pentru a găsi prețul cel mai bun."/>
+		<text name="mr_helpText_14_01" type="paragraph" text="Folosind modul moreRealistic, diferitele culori ale prețurilor vă vor indica mult mai bine dacă ar trebui sau nu să vă vindeți produsele. Cele mai bune prețuri sunt întotdeauna marcate cu verde. Nu mai este nevoie să citiți tot tabelul pentru a găsi prețul cel mai bun.">
+		<item type="image" value="img_14_01" heightScale="2" /> </text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Afișajul" />
-		<text name="mr_helpText_15_01" type="paragraph" text="Dedesubtul afișajului pentru vehicul (viteză, etc...) puteți citi două valori ce vă pot fi utile în joc." />
+		<text name="mr_helpText_15_01" type="paragraph" text="Dedesubtul afișajului pentru vehicul (viteză, etc...) puteți citi două valori ce vă pot fi utile în joc." >
+		<item type="image" value="img_15_01" heightScale="0.25" /> </text>
 		<text name="mr_helpText_15_02" type="paragraph" text="“Patinarea medie”, în partea stângă, vă arată cât de eficientă este tracțiunea vehiculului vostru. Dacă nu “simțiți” efectul balastului, îl veți observa aici. Un tractor echipat cu roți, în lucru, ar trebui să se încadreze între valorile 8 și 15% ale patinării." />
 		<text name="mr_helpText_15_03" type="paragraph" text="În partea dreaptă puteți vedea consumul mediu de carburant pe oră." />
 		<text name="mr_helpText_15_04" type="paragraph" text="Puteți muta afișajul ținând apăsată tasta dedicată (implicit = CTRL dreapta) și trăgând cu mouse-ul." />
