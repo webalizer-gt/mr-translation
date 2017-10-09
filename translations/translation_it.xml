@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<translationContributors>
+		*TurboStar*
+	</translationContributors>
+
+	<texts>
+		<text name="mr_helpCategory" type="title" text="moreRealistic (MR)" />
+
+		<text name="mr_helpTitle_01" type="headline" text="Cosa ti aspetti?" />
+		<text name="mr_helpText_01_01" type="paragraph" text="In pratica, la moreRealistic mod (MR) implementa un avanzato motore fisico che simula al meglio la vita reale con quasi tutte le attrezzature disponibili. Questo ha delle conseguenze nelle meccaniche di gioco."	/>
+		<text name="mr_helpText_01_02" type="paragraph" text="Uno degli effetti maggiormenti visibili è la ridotta abilità di un trattore a trainare pesanti rimorchi o attrezzi. Dovrai utilizzare trattori con un adeguato numeri di cavalli per trainare vari attrezzi o rimorchi." />
+		<text name="mr_helpText_01_03" type="paragraph" text="In generale, i trattori rallenteranno in salita, accelereranno in discesa e ci metteranno più tempo ad accelerare durante il traino di un carico." />
+		<text name="mr_helpText_01_04" type="paragraph" text="Ma c'è di più..." >
+		<item type="image" value="img_01_01" /></text>
+		<text name="mr_helpText_01_05" type="caption" text="Foto: 1 e 2 = fisica realistica, 3 = velocità massima non limitata dal motore di gioco." />
+
+		<text name="mr_helpTitle_02" type="headline" text="Veicoli (1)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Tutti i veicoli di default convertiti per MR sono più manovrabili, ovvero permettono un controllo più facile e preciso su piccoli movimenti. Esempio: È più facile agganciare strumenti, attrezzi o rimorchi (hai più controllo, specialmente giocando con una tastiera.)" />
+		<text name="mr_helpText_02_02" type="paragraph" text="Tutti i veicoli standard convertiti raggiungono velocità massime reali, sia avanti che in retromarcia. Niente più limite di 15 km/h in retromarcia." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Non c'è più il freno motore 'infinito'. Se il carico è troppo elevato per il motore a mantenere la velocità (rimorchio pieno, discesa), il veicolo può superare la sua velocità massima. Come nella realtà, sentirai il motore fuori giri in quel caso. Per questo motivo devi usare i freni per ridurre la velocità o fermare il veicolo." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Reali curve della coppia motore sono applicate e il consumo di carburante è basato sulla potenza erogata e sugli rpm. C'è anche una nuova trasmissione CVT che gestisce i giri motore secondo la richiesta di potenza (meno potenza = meno rpm, freno motore necessario = più rpm)." />
+
+		<text name="mr_helpTitle_03" type="headline" text="Veicoli (2)" />
+		<text name="mr_helpText_03_01" type="paragraph" text="Il motore di gioco moreRealistic applica la resistenza al rotolamento. Ciò significa che sarà più difficile trainare un rimorchio in un campo arato rispetto ad una strada. Significa inoltre che non sarai in grado di mantenere la velocità massima di un veicolo, perfino su una strada piana, se la potenza di esso non è sufficiente." />
+		<text name="mr_helpText_03_02" type="paragraph" text="La grandezza degli pneumatici e il tipo ora influiscono nel gioco. Uno pneumatico 'stradale' sarà più facile da tirare su strada rispetto ad altri pneumatici, ma più difficile in campo. Uno pneumatico largo ridurra la resistenza in campo, ma la aumenterà in strada. Gli pneumatici stretti sono sempre i migliori per ogni scopo. N.B.: I sistemi cingolati oppongono una resistenza molto alta (non adatti per trasporti come nella realtà)." />
+		<text name="mr_helpText_03_03" type="paragraph" text="Le forze assegnate dalle ruote al suolo sono ora più simili a ciò che si può trovare nella vita reale. Questo significa che il peso del veicolo trainante è molto importante quando si gioca con un veicolo MR." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Le zavorre ora non sono più 'per bellezza' e giocano un ruolo importante nella efficienza di trazione finale del tuo mezzo in campo. Con troppa zavorra consumerai più carburante e tempo per la stessa area lavorata. Senza zavorra non sarai in grado di tirare l'attrezzo o perderai troppa velocità e potenza nello slittamento delle ruote. Tieni presente che la larghezza di lavoro 'ottimale' è relativamente ampia per la maggior parte delle situazioni di lavoro." />
+
+		<text name="mr_helpTitle_04" type="headline" text="Attrezzi" />
+		<text name="mr_helpText_04_01" type="paragraph" text="Con la MR non c'è più una potenza fissa richiesta per accendere/spegnere un attrezzo. Quando usi un attrezzo, la potenza consumata dalla PTO o la forza richiesta per tirarlo dipenderà da cosa stai facendo in quel preciso momento. Significa che puoi trainare un grande attrezzo con un trattore di media grandezza a basse velocità di lavoro (a patto di avere abbastanza peso sugli pneumatici). Significa anche che vedrai chiaramente la differenza usando un trattore più potente." />
+		<text name="mr_helpText_04_02" type="paragraph" text="Tutti gli attrezzi hanno limitazioni fisiche. L'esempio più comune è la velocità di lavoro che anche usando un trattore mostruoso non raggiungerà valori irrealistici." />
+		<text name="mr_helpText_04_03" type="paragraph" text="Per alcuni attrezzi ci sono altre limitazioni. Esempio: Le imballatrici hanno una portata limitata. Non puoi raccogliere grandissime quantità di materiale in poco tempo. Dipende anche dal materiale che stai attualmente raccogliendo. L'erba è più difficile da processare rispetto alla paglia." />
+		<text name="mr_helpText_04_04" type="paragraph" text="I veicoli MR sono più sensibili al centro di gravità (distribuzione della massa). Anche se può essere difficile ribaltare un rimorchio vuoto, è abbastanza facile ribaltarne uno completamento pieno (specialmente se il carico è pesante)." />
+
+		<text name="mr_helpTitle_16" type="headline" text="Potenza richiesta" />
+		<text name="mr_helpText_16_01" type="paragraph" text="Come ci possiamo aspettare nella realtà, la potenza richiesta visualizzata per ogni attrezzo è la potenza raccomandata. Una richiesta di 200Hp non significa che sarai in grado di tirare l'attrezzo in ogni situazione con qualsiasi trattore da 200Hp."/>
+		<text name="mr_helpText_16_02" type="paragraph" text="La maggiorparte delle volte è possibile gestire l'attrezzo con un trattore meno potente, ma ad una velocità minore. Assicurati di usare un trattore più potente se dovrai lavorare su campi in pendenza." />
+		<text name="mr_helpText_16_03" type="paragraph" text="Anche se non chiaramente indicato, alcuni attrezzi richiedono forza di trazione (il peso del trattore zavorrato è importante quanto la potenza del motore qui) mentre altri si affidano per lo più ai soli cavalli motore (attrezzi azionati dalla presa di forza)." />
+		<text name="mr_helpText_16_04" type="paragraph" text="I cavalli visualizzati di un trattore solitamente rappresentano la 'massima potenza possibile'. Dal momento che alcuni trattori possono avere un boost, ci può essere una notevole differenza sia in gioco sia nella realtà con lo stesso numero di cavalli. Esempio: New Holland T6.160 e Fendt 716. Il secondo è più efficiente nei lavori in campo." />
+		<text name="mr_helpText_16_05" type="paragraph" text="Quindi, quando compri un trattore, devi pensare ai cavalli ma anche alla dimensione che ti serve. Comprare un trattore con un telaio piccolo e tanti cavalli non è necessariamente la scelta migliore." />
+		
+		<text name="mr_helpTitle_05" type="headline" text="Semina" />
+		<text name="mr_helpText_05_01" type="paragraph" text="Con la MR il consumo di semi sarà simile a quello che ti aspetti nella vita reale." />
+		<text name="mr_helpText_05_02" type="paragraph" text="Significa che non dovrai riempire la seminatrice spesso come il gioco base. Puoi perfino seminare molti campi senza rifornimento per alcune colture come rafano oleifero o barbabietole." />
+		<text name="mr_helpText_05_03" type="paragraph" text="Sarà più facile tirare la seminatrice se il campo è già coltivato/arato." >
+		<item type="image" value="img_05_01" heightScale="1" /></text>
+		<text name="mr_helpText_05_04" type="caption" text="Foto: campo già coltivato (sinistra), semina su sodo." />			
+
+		<text name="mr_helpTitle_06" type="headline" text="Fertilizzazione" />
+		<text name="mr_helpText_06_01" type="paragraph" text="Tutti gli spandifertilizzanti e spandiconcimi MR sono dotati della portata dipendente dalla velocità. Significa che non dovrai guidare alla massima velocità per non sprecare fertilizzante. Puoi andare tranquillo e prendere il tempo necessario." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Quando usi una seminatrice con l'unità fertilizzante, la maggiorparte delle volte, la quantità di fertilizzante usata sarà minore rispetto all'utilizzo di uno strumento di fertilizzazione dedicato." />
+		<text name="mr_helpText_06_03" type="paragraph" text="Il fertilizzante è uno dei prodotti più pesanti nel gioco. Densità base per concimi sfusi è 1.1 e per il fertilizzante liquido è ancora di più, 1.28." >
+		<item type="image" value="img_06_01" heightScale="1" /></text>
+
+		<text name="mr_helpTitle_07" type="headline" text="Trebbiatura" />
+		<text name="mr_helpText_07_01" type="paragraph" text="La velovità delle trebbie MR dipende dalla capacità di trebbiatura, potenza del motore, coltura, raccolto e barra falciante (consumo energetico e larghezza della barra)." />
+		<text name="mr_helpText_07_02" type="paragraph" text="Quando triti la paglia il consumo energetico aumenta. Uguale per lo scaricamento in movimento." >
+		<item type="image" value="img_07_01" heightScale="1" /></text>
+		<text name="mr_helpText_07_03" type="caption" text="Foto: larghezza completa (sinistra), metà larghezza (destra)." />	
+
+		<text name="mr_helpTitle_08" type="headline" text="Imballatura" />
+		<text name="mr_helpText_08_01" type="paragraph" text="Con la MR, l'imballatura è più rimunerativa rispetto a vendere il materiale sfuso. Una piccola balla quadrata è più pagata, poi balle tonde e grandi balle quadre." />
+		<text name="mr_helpText_08_02" type="paragraph" text="Le balle sono più simili al loro peso reale, il quale dipende dalla quantità e dal relativo materiale. Esempio: Sarà più difficile trainare un carro di balle di fieno rispetto a uno di balle di paglia." >
+		<item type="image" value="img_08_01" heightScale="1" /></text>
+
+		<text name="mr_helpTitle_09" type="headline" text="Controllo oggetti" />
+		<text name="mr_helpText_09_01" type="paragraph" text="Gli strumenti afferra-oggetti come la pinza per tronchi o la pinza per balle ora hanno la feature 'MR claw'. Significa che quando chiudi completamente la benna, gli oggetti raccolti saranno bloccati e non cadranno più casualmente." />
+		<text name="mr_helpText_09_02" type="paragraph" text="Questo è particolarmente utile quando provi a posizionare attentamente tronchi o balle su un rimorchio. Puoi inoltre 'afferrare' pallet se non ottieni buoni risultati con le forche da pallet." >
+		<item type="image" value="img_09_01" heightScale="1" /></text>
+
+		<text name="mr_helpTitle_10" type="headline" text="Silvicoltura" />
+		<text name="mr_helpText_10_01" type="paragraph" text="Tutti gli attrezzi faranno realmente uso della potenza del motore del trattore. Le tre cippatrici sono state migliorate per essere più piacevoli da usare. Perfino la piccola Heizomat è ora facile da rifornire." />
+		<text name="mr_helpText_10_02" type="paragraph" text="Utilizzando la feature 'MR claw' è inoltre più facile gestire i tronchi con la gru sulla Poonse Buffalo." >
+		<item type="image" value="img_10_01" heightScale="1" /></text>
+
+		<text name="mr_helpTitle_11" type="headline" text="Umidità terreno" />
+		<text name="mr_helpText_11_01" type="paragraph" text="Durante e dopo la pioggia, l'umidità del terreno conterà davvero con la MR. In base al tipo di pioggia, durata e intensità, può diventare impossibile lavorare in campo. Specialmente vero quando ci sono pendenze o quando il tuo trattore è sottodimensionato rispetto all'attrezzo collegato." />
+		<text name="mr_helpText_11_02" type="paragraph" text="Può impiegare anche abbastanza tempo per riprendere un valore di umidità asciutto, ma eventualmente perderai forza di trazione e la resistenza aumenterà." >
+		<item type="image" value="img_11_01" heightScale="1" /></text>
+		<text name="mr_helpText_11_03" type="caption" text="Foto: Umidità 0% (sinistra), Umidità 70% (destra). Campo coltivato, ruote stradali sul rimorchio, 26T massa totale veicolo." />	
+
+		<text name="mr_helpTitle_12" type="headline" text="Densità, volume e massa" />
+		<text name="mr_helpText_12_01" type="paragraph" text="Nel gioco base, il peso di un carro carico non è per niente realistico. Esempio: Se carichi un rimorchio con 20 m3 (metri cubi) di acqua, la massa del liquido dovrebbe essere 20 tonnellate. In pratica, avrai solamente 10 tonnellate perché le densità dei prodotti sono ridotte per motivi di giocabilità." />
+		<text name="mr_helpText_12_02" type="paragraph" text="Aspetta! Cos'è la densità? Se hai una sostanza omogenea, come l'acqua, la massa di una quantità di sostanza è proporzionale al suo volume. Il rapporto fra massa e volume è una costante, chiamata densità. La densità di un oggetto è perciò trovata dividendo la massa per il volume. In altre parole, densità = massa / volume." />
+		<text name="mr_helpText_12_03" type="paragraph" text="MR utilizza reali cifre di densità per ogni tipo di prodotto. Noterai che trasportare il grano sarà molto diverso. Perfino con un trattore potente, noterai una considerevole perdita di velocità quando proverai a trasportarlo su una collina. Con trattori meno potenti potresti non essere in grado di superare le pendenze. Dovresti cercare una strada alternativa o portare il carro a destinazione con metà del carico." />
+		<text name="mr_helpText_12_04" type="paragraph" text="Le densità delle colture variano da 0.42 per i girasoli a 0.83 per il mais." />
+
+		<text name="mr_helpTitle_13" type="headline" text="Missioni" />
+		<text name="mr_helpText_13_01" type="paragraph" text="Ci sono alcuni fattori random mentre scegli la missione. Puoi avere più tempo ma meno denaro per unità di tempo. Oppure meno tempo ma più denaro per unità di tempo." />
+		<text name="mr_helpText_13_02" type="paragraph" text="Le ricompense sono state bilanciate cosicché non è troppo vantaggioso effettuare missioni, preferendo la gestione della tua farm." />
+
+		<text name="mr_helpTitle_14" type="headline" text="Tabellone prezzi" />
+		<text name="mr_helpText_14_01" type="paragraph" text="Con la MR, i vari colori nel tabellone dei prezzi riflettono al meglio se dovresti o non dovresti vendere i tuoi prodotti. I prezzi in verde saranno sempre meglio di prezzi bianchi o rossi. Non è più necessario leggere l'intera tabella per sapere se ci sono buoni prezzi di una coltura." >
+		<item type="image" value="img_14_01" heightScale="2" /></text>
+
+		<text name="mr_helpTitle_15" type="headline" text="Display" />
+		<text name="mr_helpText_15_01" type="paragraph" text="Sotto all'HUD del veicolo (velocità, etc...) puoi leggere due valori che possono esserti utili per la tua carriera." >
+		<item type="image" value="img_15_01" heightScale="0.25" /></text>
+		<text name="mr_helpText_15_02" type="paragraph" text="Lo 'slittamento medio' sul lato sinistro ti mostra quanto sia buona o cattiva la trazione del tuo veicolo. Se non riesci a sentire l'impatto delle zavorre forse lì hai un riferimento numerico. Lo slittamento di un trattore gommato durante il lavoro dovrebbe essere compreso tra l'8 e il 15%." />
+		<text name="mr_helpText_15_03" type="paragraph" text="Sul lato destro puoi vedere il consumo medio di carburante per ora di gioco." />
+		<text name="mr_helpText_15_04" type="paragraph" text="Puoi muovere l'HUD tenendo premuto il tasto principale (standard = CTRL destro) e trascinandolo con il mouse." />
+		<text name="mr_helpText_15_05" type="paragraph" text="Con la pressione di 'CTRL destro + Keypad 7' puoi accendere o spegnere il display. Se hai una connessione internet lenta e/o limitata puoi risparmiare banda disattivandolo." />
+		<text name="mr_helpText_15_06" type="paragraph" text="L'Host o l'Admin può spegnere globalmente il trasferimento dello 'slittamento medio' e del consumo medio premendo 'CTRL destro + Keypad 8'. Se hai una connessione internet lenta e/o limitata puoi risparmiare banda spegnendolo!" />
+		
+		<text name="input_REALISTIC_GUI" text="MR GUI: attiva" />
+		<text name="input_REALISTIC_GUI_NETWORK_USE" text="MR GUI: utilizzo rete ON/OFF" />
+		<text name="input_REALISTIC_MOUSE" text="MR: attiva mouse" />
+		<text name="REALISTIC_GUI_NETWORK_OFF" text="Trasferimento dati disattivato" />
+	</texts>
+</l10n>
