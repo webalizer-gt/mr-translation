@@ -16,10 +16,10 @@
 		<text name="mr_helpText_01_05" type="caption" text="Foto: 1 e 2 = fisica realistica, 3 = velocità massima non limitata dal motore di gioco." />
 
 		<text name="mr_helpTitle_02" type="headline" text="Veicoli (1)" />
-		<text name="mr_helpText_02_01" type="paragraph" text="Tutti i veicoli di default convertiti per MR sono più manovrabili, ovvero permettono un controllo più facile e preciso su piccoli movimenti. Esempio: È più facile agganciare strumenti, attrezzi o rimorchi (hai più controllo, specialmente giocando con una tastiera.)" />
+		<text name="mr_helpText_02_01" type="paragraph" text="Tutti i veicoli di default convertiti per MR sono più manovrabili, ovvero permettono un controllo più facile e preciso su piccoli movimenti. Esempio: È più facile agganciare strumenti, attrezzi o rimorchi (hai più controllo, specialmente giocando con una tastiera)." />
 		<text name="mr_helpText_02_02" type="paragraph" text="Tutti i veicoli standard convertiti raggiungono velocità massime reali, sia avanti che in retromarcia. Niente più limite di 15 km/h in retromarcia." />
-		<text name="mr_helpText_02_03" type="paragraph" text="Non c'è più il freno motore 'infinito'. Se il carico è troppo elevato per il motore a mantenere la velocità (rimorchio pieno, discesa), il veicolo può superare la sua velocità massima. Come nella realtà, sentirai il motore fuori giri in quel caso. Per questo motivo devi usare i freni per ridurre la velocità o fermare il veicolo." />
-		<text name="mr_helpText_02_04" type="paragraph" text="Reali curve della coppia motore sono applicate e il consumo di carburante è basato sulla potenza erogata e sugli rpm. C'è anche una nuova trasmissione CVT che gestisce i giri motore secondo la richiesta di potenza (meno potenza = meno rpm, freno motore necessario = più rpm)." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Non c'è più il freno motore 'infinito'. Se il carico è troppo elevato per il motore a mantenere la velocità (rimorchio pieno in discesa), il veicolo può superare la sua velocità massima. Come nella realtà, sentirai il motore fuori giri in quel caso. Per questo motivo devi usare i freni per ridurre la velocità o fermare il veicolo." />
+		<text name="mr_helpText_02_04" type="paragraph" text="Reali curve della coppia motore sono applicate e il consumo di carburante è basato sulla potenza erogata e sugli rpm. C'è anche una nuova trasmissione CVT che gestisce i giri motore secondo la richiesta di potenza (meno potenza = meno rpm, freno motore = più rpm)." />
 
 		<text name="mr_helpTitle_03" type="headline" text="Veicoli (2)" />
 		<text name="mr_helpText_03_01" type="paragraph" text="Il motore di gioco moreRealistic applica la resistenza al rotolamento. Ciò significa che sarà più difficile trainare un rimorchio in un campo arato rispetto ad una strada. Significa inoltre che non sarai in grado di mantenere la velocità massima di un veicolo, perfino su una strada piana, se la potenza di esso non è sufficiente." />
@@ -35,21 +35,21 @@
 
 		<text name="mr_helpTitle_16" type="headline" text="Potenza richiesta" />
 		<text name="mr_helpText_16_01" type="paragraph" text="Come ci possiamo aspettare nella realtà, la potenza richiesta visualizzata per ogni attrezzo è la potenza raccomandata. Una richiesta di 200Hp non significa che sarai in grado di tirare l'attrezzo in ogni situazione con qualsiasi trattore da 200Hp."/>
-		<text name="mr_helpText_16_02" type="paragraph" text="La maggiorparte delle volte è possibile gestire l'attrezzo con un trattore meno potente, ma ad una velocità minore. Assicurati di usare un trattore più potente se dovrai lavorare su campi in pendenza." />
+		<text name="mr_helpText_16_02" type="paragraph" text="La maggior parte delle volte è possibile gestire l'attrezzo con un trattore meno potente, ma ad una velocità minore. Assicurati di usare un trattore più potente se devi lavorare su campi in pendenza." />
 		<text name="mr_helpText_16_03" type="paragraph" text="Anche se non chiaramente indicato, alcuni attrezzi richiedono forza di trazione (il peso del trattore zavorrato è importante quanto la potenza del motore qui) mentre altri si affidano per lo più ai soli cavalli motore (attrezzi azionati dalla presa di forza)." />
 		<text name="mr_helpText_16_04" type="paragraph" text="I cavalli visualizzati di un trattore solitamente rappresentano la 'massima potenza possibile'. Dal momento che alcuni trattori possono avere un boost, ci può essere una notevole differenza sia in gioco sia nella realtà con lo stesso numero di cavalli. Esempio: New Holland T6.160 e Fendt 716. Il secondo è più efficiente nei lavori in campo." />
 		<text name="mr_helpText_16_05" type="paragraph" text="Quindi, quando compri un trattore, devi pensare ai cavalli ma anche alla dimensione che ti serve. Comprare un trattore con un telaio piccolo e tanti cavalli non è necessariamente la scelta migliore." />
 		
 		<text name="mr_helpTitle_05" type="headline" text="Semina" />
-		<text name="mr_helpText_05_01" type="paragraph" text="Con la MR il consumo di semi sarà simile a quello che ti aspetti nella vita reale." />
+		<text name="mr_helpText_05_01" type="paragraph" text="Con MR il consumo di semi sarà simile a quello che ti aspetti nella vita reale." />
 		<text name="mr_helpText_05_02" type="paragraph" text="Significa che non dovrai riempire la seminatrice spesso come il gioco base. Puoi perfino seminare molti campi senza rifornimento per alcune colture come rafano oleifero o barbabietole." />
-		<text name="mr_helpText_05_03" type="paragraph" text="Sarà più facile tirare la seminatrice se il campo è già coltivato/arato." >
+		<text name="mr_helpText_05_03" type="paragraph" text="Sarà inoltre più facile tirare la seminatrice se il campo è già coltivato/arato." >
 		<item type="image" value="img_05_01" heightScale="1" /></text>
 		<text name="mr_helpText_05_04" type="caption" text="Foto: campo già coltivato (sinistra), semina su sodo." />			
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilizzazione" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Tutti gli spandifertilizzanti e spandiconcimi MR sono dotati della portata dipendente dalla velocità. Significa che non dovrai guidare alla massima velocità per non sprecare fertilizzante. Puoi andare tranquillo e prendere il tempo necessario." />
-		<text name="mr_helpText_06_02" type="paragraph" text="Quando usi una seminatrice con l'unità fertilizzante, la maggiorparte delle volte, la quantità di fertilizzante usata sarà minore rispetto all'utilizzo di uno strumento di fertilizzazione dedicato." />
+		<text name="mr_helpText_06_02" type="paragraph" text="Quando usi una seminatrice con l'unità fertilizzante, la maggior parte delle volte, la quantità di fertilizzante usata sarà minore rispetto all'utilizzo di uno strumento di fertilizzazione dedicato." />
 		<text name="mr_helpText_06_03" type="paragraph" text="Il fertilizzante è uno dei prodotti più pesanti nel gioco. Densità base per concimi sfusi è 1.1 e per il fertilizzante liquido è ancora di più, 1.28." >
 		<item type="image" value="img_06_01" heightScale="1" /></text>
 
@@ -60,7 +60,7 @@
 		<text name="mr_helpText_07_03" type="caption" text="Foto: larghezza completa (sinistra), metà larghezza (destra)." />	
 
 		<text name="mr_helpTitle_08" type="headline" text="Imballatura" />
-		<text name="mr_helpText_08_01" type="paragraph" text="Con la MR, l'imballatura è più rimunerativa rispetto a vendere il materiale sfuso. Una piccola balla quadrata è più pagata, poi balle tonde e grandi balle quadre." />
+		<text name="mr_helpText_08_01" type="paragraph" text="Con MR, l'imballatura è più rimunerativa rispetto alla vendita del materiale sfuso. Una piccola balla quadrata è più pagata, seguono balle tonde e grandi balle quadre." />
 		<text name="mr_helpText_08_02" type="paragraph" text="Le balle sono più simili al loro peso reale, il quale dipende dalla quantità e dal relativo materiale. Esempio: Sarà più difficile trainare un carro di balle di fieno rispetto a uno di balle di paglia." >
 		<item type="image" value="img_08_01" heightScale="1" /></text>
 
@@ -75,7 +75,7 @@
 		<item type="image" value="img_10_01" heightScale="1" /></text>
 
 		<text name="mr_helpTitle_11" type="headline" text="Umidità terreno" />
-		<text name="mr_helpText_11_01" type="paragraph" text="Durante e dopo la pioggia, l'umidità del terreno conterà davvero con la MR. In base al tipo di pioggia, durata e intensità, può diventare impossibile lavorare in campo. Specialmente vero quando ci sono pendenze o quando il tuo trattore è sottodimensionato rispetto all'attrezzo collegato." />
+		<text name="mr_helpText_11_01" type="paragraph" text="Durante e dopo la pioggia, l'umidità del terreno conterà davvero con MR. In base al tipo di pioggia, durata e intensità, può diventare impossibile lavorare in campo, specialmente se ci sono pendenze o quando il tuo trattore è sottodimensionato rispetto all'attrezzo collegato." />
 		<text name="mr_helpText_11_02" type="paragraph" text="Può impiegare anche abbastanza tempo per riprendere un valore di umidità asciutto, ma eventualmente perderai forza di trazione e la resistenza aumenterà." >
 		<item type="image" value="img_11_01" heightScale="1" /></text>
 		<text name="mr_helpText_11_03" type="caption" text="Foto: Umidità 0% (sinistra), Umidità 70% (destra). Campo coltivato, ruote stradali sul rimorchio, 26T massa totale veicolo." />	
