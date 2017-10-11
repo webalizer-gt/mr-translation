@@ -9,7 +9,7 @@
 
 		<text name="mr_helpTitle_01" type="headline" text="Cosa ti aspetti?" />
 		<text name="mr_helpText_01_01" type="paragraph" text="In pratica, la moreRealistic mod (MR) implementa un avanzato motore fisico che simula al meglio la vita reale con quasi tutte le attrezzature disponibili. Questo ha delle conseguenze nelle meccaniche di gioco."	/>
-		<text name="mr_helpText_01_02" type="paragraph" text="Uno degli effetti maggiormenti visibili è la ridotta abilità di un trattore a trainare pesanti rimorchi o attrezzi. Dovrai utilizzare trattori con un adeguato numeri di cavalli per trainare vari attrezzi o rimorchi." />
+		<text name="mr_helpText_01_02" type="paragraph" text="Uno degli effetti maggiormente visibili è la ridotta abilità di un trattore a trainare pesanti rimorchi o attrezzi. Dovrai utilizzare trattori con un adeguato numeri di cavalli per trainare vari attrezzi o rimorchi." />
 		<text name="mr_helpText_01_03" type="paragraph" text="In generale, i trattori rallenteranno in salita, accelereranno in discesa e ci metteranno più tempo ad accelerare durante il traino di un carico." />
 		<text name="mr_helpText_01_04" type="paragraph" text="Ma c'è di più..." >
 		<item type="image" value="img_01_01" /></text>
@@ -18,17 +18,17 @@
 		<text name="mr_helpTitle_02" type="headline" text="Veicoli (1)" />
 		<text name="mr_helpText_02_01" type="paragraph" text="Tutti i veicoli di default convertiti per MR sono più manovrabili, ovvero permettono un controllo più facile e preciso su piccoli movimenti. Esempio: È più facile agganciare strumenti, attrezzi o rimorchi (hai più controllo, specialmente giocando con una tastiera)." />
 		<text name="mr_helpText_02_02" type="paragraph" text="Tutti i veicoli standard convertiti raggiungono velocità massime reali, sia avanti che in retromarcia. Niente più limite di 15 km/h in retromarcia." />
-		<text name="mr_helpText_02_03" type="paragraph" text="Non c'è più il freno motore 'infinito'. Se il carico è troppo elevato per il motore a mantenere la velocità (rimorchio pieno in discesa), il veicolo può superare la sua velocità massima. Come nella realtà, sentirai il motore fuori giri in quel caso. Per questo motivo devi usare i freni per ridurre la velocità o fermare il veicolo." />
+		<text name="mr_helpText_02_03" type="paragraph" text="Non c'è più il freno motore 'infinito'. Se il carico è troppo elevato per il motore a mantenere la velocità (rimorchio pieno in discesa), il veicolo può superare la sua velocità massima e, come nella realtà, sentirai il motore fuori giri. Per questo motivo dovrai usare i freni per ridurre la velocità o fermare il veicolo." />
 		<text name="mr_helpText_02_04" type="paragraph" text="Reali curve della coppia motore sono applicate e il consumo di carburante è basato sulla potenza erogata e sugli rpm. C'è anche una nuova trasmissione CVT che gestisce i giri motore secondo la richiesta di potenza (meno potenza = meno rpm, freno motore = più rpm)." />
 
 		<text name="mr_helpTitle_03" type="headline" text="Veicoli (2)" />
 		<text name="mr_helpText_03_01" type="paragraph" text="Il motore di gioco moreRealistic applica la resistenza al rotolamento. Ciò significa che sarà più difficile trainare un rimorchio in un campo arato rispetto ad una strada. Significa inoltre che non sarai in grado di mantenere la velocità massima di un veicolo, perfino su una strada piana, se la potenza di esso non è sufficiente." />
 		<text name="mr_helpText_03_02" type="paragraph" text="La grandezza degli pneumatici e il tipo ora influiscono nel gioco. Uno pneumatico 'stradale' sarà più facile da tirare su strada rispetto ad altri pneumatici, ma più difficile in campo. Uno pneumatico largo ridurra la resistenza in campo, ma la aumenterà in strada. Gli pneumatici stretti sono sempre i migliori per ogni scopo. N.B.: I sistemi cingolati oppongono una resistenza molto alta (non adatti per trasporti come nella realtà)." />
 		<text name="mr_helpText_03_03" type="paragraph" text="Le forze assegnate dalle ruote al suolo sono ora più simili a ciò che si può trovare nella vita reale. Questo significa che il peso del veicolo trainante è molto importante quando si gioca con un veicolo MR." />
-		<text name="mr_helpText_03_04" type="paragraph" text="Le zavorre ora non sono più 'per bellezza' e giocano un ruolo importante nella efficienza di trazione finale del tuo mezzo in campo. Con troppa zavorra consumerai più carburante e tempo per la stessa area lavorata. Senza zavorra non sarai in grado di tirare l'attrezzo o perderai troppa velocità e potenza nello slittamento delle ruote. Tieni presente che la larghezza di lavoro 'ottimale' è relativamente ampia per la maggior parte delle situazioni di lavoro." />
+		<text name="mr_helpText_03_04" type="paragraph" text="Le zavorre ora non sono più 'per bellezza' e giocano un ruolo importante nella efficienza di trazione finale del tuo mezzo in campo. Con troppa zavorra consumerai più carburante e tempo per la stessa area lavorata. Senza zavorra non sarai in grado di tirare l'attrezzo o perderai troppa velocità e potenza nello slittamento delle ruote." />
 
 		<text name="mr_helpTitle_04" type="headline" text="Attrezzi" />
-		<text name="mr_helpText_04_01" type="paragraph" text="Con la MR non c'è più una potenza fissa richiesta per accendere/spegnere un attrezzo. Quando usi un attrezzo, la potenza consumata dalla PTO o la forza richiesta per tirarlo dipenderà da cosa stai facendo in quel preciso momento. Significa che puoi trainare un grande attrezzo con un trattore di media grandezza a basse velocità di lavoro (a patto di avere abbastanza peso sugli pneumatici). Significa anche che vedrai chiaramente la differenza usando un trattore più potente." />
+		<text name="mr_helpText_04_01" type="paragraph" text="Con la MR non c'è più una potenza fissa richiesta per accendere/spegnere un attrezzo. Quando usi un attrezzo, la potenza consumata dalla PTO o la forza richiesta per trainarlo dipenderà da cosa stai facendo in quel preciso momento. Significa che puoi trainare un grande attrezzo con un trattore di media grandezza a basse velocità di lavoro (a patto di avere abbastanza peso sugli pneumatici). Significa anche che vedrai chiaramente la differenza usando un trattore più potente." />
 		<text name="mr_helpText_04_02" type="paragraph" text="Tutti gli attrezzi hanno limitazioni fisiche. L'esempio più comune è la velocità di lavoro che anche usando un trattore mostruoso non raggiungerà valori irrealistici." />
 		<text name="mr_helpText_04_03" type="paragraph" text="Per alcuni attrezzi ci sono altre limitazioni. Esempio: Le imballatrici hanno una portata limitata. Non puoi raccogliere grandissime quantità di materiale in poco tempo. Dipende anche dal materiale che stai attualmente raccogliendo. L'erba è più difficile da processare rispetto alla paglia." />
 		<text name="mr_helpText_04_04" type="paragraph" text="I veicoli MR sono più sensibili al centro di gravità (distribuzione della massa). Anche se può essere difficile ribaltare un rimorchio vuoto, è abbastanza facile ribaltarne uno completamento pieno (specialmente se il carico è pesante)." />
@@ -45,7 +45,7 @@
 		<text name="mr_helpText_05_02" type="paragraph" text="Significa che non dovrai riempire la seminatrice spesso come il gioco base. Puoi perfino seminare molti campi senza rifornimento per alcune colture come rafano oleifero o barbabietole." />
 		<text name="mr_helpText_05_03" type="paragraph" text="Sarà inoltre più facile tirare la seminatrice se il campo è già coltivato/arato." >
 		<item type="image" value="img_05_01" heightScale="1" /></text>
-		<text name="mr_helpText_05_04" type="caption" text="Foto: campo già coltivato (sinistra), semina su sodo." />			
+		<text name="mr_helpText_05_04" type="caption" text="Foto: campo già coltivato (sinistra), semina diretta (destra)." />			
 
 		<text name="mr_helpTitle_06" type="headline" text="Fertilizzazione" />
 		<text name="mr_helpText_06_01" type="paragraph" text="Tutti gli spandifertilizzanti e spandiconcimi MR sono dotati della portata dipendente dalla velocità. Significa che non dovrai guidare alla massima velocità per non sprecare fertilizzante. Puoi andare tranquillo e prendere il tempo necessario." />
@@ -54,7 +54,7 @@
 		<item type="image" value="img_06_01" heightScale="1" /></text>
 
 		<text name="mr_helpTitle_07" type="headline" text="Trebbiatura" />
-		<text name="mr_helpText_07_01" type="paragraph" text="La velovità delle trebbie MR dipende dalla capacità di trebbiatura, potenza del motore, coltura, raccolto e barra falciante (consumo energetico e larghezza della barra)." />
+		<text name="mr_helpText_07_01" type="paragraph" text="La velocità delle trebbie MR dipende dalla capacità di trebbiatura, potenza del motore, coltura, raccolto e barra falciante (consumo energetico e larghezza della barra)." />
 		<text name="mr_helpText_07_02" type="paragraph" text="Quando triti la paglia il consumo energetico aumenta. Uguale per lo scaricamento in movimento." >
 		<item type="image" value="img_07_01" heightScale="1" /></text>
 		<text name="mr_helpText_07_03" type="caption" text="Foto: larghezza completa (sinistra), metà larghezza (destra)." />	
@@ -91,7 +91,7 @@
 		<text name="mr_helpText_13_02" type="paragraph" text="Le ricompense sono state bilanciate cosicché non è troppo vantaggioso effettuare missioni, preferendo la gestione della tua farm." />
 
 		<text name="mr_helpTitle_14" type="headline" text="Tabellone prezzi" />
-		<text name="mr_helpText_14_01" type="paragraph" text="Con la MR, i vari colori nel tabellone dei prezzi riflettono al meglio se dovresti o non dovresti vendere i tuoi prodotti. I prezzi in verde saranno sempre meglio di prezzi bianchi o rossi. Non è più necessario leggere l'intera tabella per sapere se ci sono buoni prezzi di una coltura." >
+		<text name="mr_helpText_14_01" type="paragraph" text="Con MR, i vari colori nel tabellone dei prezzi riflettono al meglio se dovresti o non dovresti vendere i tuoi prodotti. I prezzi in verde saranno sempre meglio di prezzi bianchi o rossi. Non è più necessario leggere l'intera tabella per sapere se ci sono buoni prezzi di una coltura." >
 		<item type="image" value="img_14_01" heightScale="2" /></text>
 
 		<text name="mr_helpTitle_15" type="headline" text="Display" />
